@@ -368,6 +368,25 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
   .soc small{display:none}
 }
 @media (prefers-reduced-motion:reduce){.soc,.soc i{transition:none}}
+
+/* redes: cores das marcas sempre visíveis + faixa acompanha o tema */
+.soc i{border:1.5px solid #C9A45C;color:#fff}
+.soc.ig i{background:radial-gradient(circle at 30% 107%,#fdf497 0%,#fd5949 45%,#d6249f 60%,#285AEB 90%)}
+.soc.tt i{background:#000}
+.soc.tt i svg{filter:drop-shadow(1px 0 0 #fe2c55) drop-shadow(-1px 0 0 #25f4ee)}
+.soc.fb i{background:#1877F2}
+.soc:hover i{border-color:#E8D9B5}
+.soc.veio i{border-style:solid;filter:grayscale(.7)}
+:root:not([data-theme="dark"]) .social{background:#EFE7DA;color:#1D1B18}
+:root:not([data-theme="dark"]) .social::after{background:linear-gradient(90deg,transparent,#B89B6A 20%,#9C7F4E 50%,#B89B6A 80%,transparent)}
+:root:not([data-theme="dark"]) .social::before{opacity:.3}
+:root:not([data-theme="dark"]) .soc-kicker{color:#9C7F4E;border-right-color:#D9C7A3}
+:root:not([data-theme="dark"]) .soc-msg{color:#5A4A2E}
+:root:not([data-theme="dark"]) .soc-msg b{color:#1D1B18}
+:root:not([data-theme="dark"]) .soc{background:#FFFDF9;border-color:#D9C7A3;color:#1D1B18}
+:root:not([data-theme="dark"]) .soc small{color:#8A7B62}
+:root:not([data-theme="dark"]) .soc:hover{border-color:#9C7F4E;box-shadow:0 8px 22px -14px rgba(90,74,46,.45)}
+:root:not([data-theme="dark"]) .soc i{border-color:#B89B6A}
 </style>
 </head>
 <body>
