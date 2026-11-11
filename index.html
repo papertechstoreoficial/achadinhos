@@ -334,10 +334,48 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
   .sh i{width:28px;height:28px}.sh i svg{width:16px;height:16px}
   .sh em{display:none}
 }
+
+/* faixa das redes sociais (topo) — noir e ouro */
+.social{background:#0B0A08;color:#E8D9B5;position:relative;z-index:21}
+.social::before,.social::after{content:"";position:absolute;left:0;right:0;height:1px;background:linear-gradient(90deg,transparent,#C9A45C 20%,#E8D9B5 50%,#C9A45C 80%,transparent)}
+.social::before{top:0;opacity:.55}.social::after{bottom:0}
+.soc-in{max-width:1180px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}
+.soc-txt{margin:0;display:flex;align-items:center;gap:12px;min-width:0}
+.soc-kicker{font:500 10px/1 var(--text);letter-spacing:.32em;text-transform:uppercase;color:#C9A45C;white-space:nowrap;padding-right:12px;border-right:1px solid #3A3226}
+.soc-msg{font:italic 500 16px/1.3 'Playfair Display',Georgia,serif;color:#E8D9B5;letter-spacing:.01em}
+.soc-msg b{font-weight:600;color:#F4EFE6}
+.soc-links{display:flex;gap:10px}
+.soc{display:inline-flex;align-items:center;gap:10px;height:40px;padding:0 16px 0 5px;border-radius:999px;border:1px solid #4A3E2A;background:linear-gradient(180deg,#191612,#110F0C);color:#F4EFE6;text-decoration:none;font:500 12.5px var(--text);letter-spacing:.06em;transition:border-color .3s,transform .3s,box-shadow .3s}
+.soc i{width:30px;height:30px;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#E8D9B5;border:1px solid #C9A45C;background:transparent;flex:0 0 auto;transition:background .3s,color .3s,border-color .3s}
+.soc i svg{width:15px;height:15px}
+.soc b{font-weight:600}
+.soc small{font-weight:400;color:#8C826F;font-size:11px;letter-spacing:.02em}
+.soc:hover{border-color:#C9A45C;transform:translateY(-1px);box-shadow:0 8px 22px -12px rgba(201,164,92,.45)}
+.soc.ig:hover i{background:radial-gradient(circle at 30% 107%,#fdf497 0%,#fd5949 45%,#d6249f 60%,#285AEB 90%);border-color:transparent;color:#fff}
+.soc.tt:hover i{background:#000;border-color:#fe2c55;color:#fff}
+.soc.fb:hover i{background:#1877F2;border-color:transparent;color:#fff}
+.soc.veio{opacity:.6}
+.soc.veio i{border-style:dashed}
+@media (max-width:600px){
+  .soc-in{padding:10px 12px 11px;gap:9px;justify-content:center}
+  .soc-txt{width:100%;justify-content:center;gap:8px}
+  .soc-kicker{font-size:8.5px;letter-spacing:.26em;padding-right:8px}
+  .soc-msg{font-size:13.5px}
+  .soc-msg .longo{display:none}
+  .soc-links{width:100%;display:grid;grid-template-columns:repeat(var(--nsoc,3),1fr);gap:7px}
+  .soc{height:38px;padding:0 6px 0 4px;gap:7px;font-size:11.5px;letter-spacing:.03em;justify-content:center}
+  .soc i{width:28px;height:28px}.soc i svg{width:14px;height:14px}
+  .soc small{display:none}
+}
+@media (prefers-reduced-motion:reduce){.soc,.soc i{transition:none}}
 </style>
 </head>
 <body>
 
+<div class="social" id="social"><div class="soc-in">
+  <p class="soc-txt"><span class="soc-kicker">Siga a PaperTech</span><span class="soc-msg" id="socTxt">Achados novos todo dia<span class="longo">, às <b>12h</b> e <b>19h</b></span></span></p>
+  <nav class="soc-links" id="socLinks" aria-label="Redes sociais da PaperTech"></nav>
+</div></div>
 <header class="top">
   <div class="bar">
     <a class="brand" href="#inicio" aria-label="PaperTech">
@@ -402,6 +440,21 @@ const CANAIS_OK=['instagram','tiktok','whatsapp','telegram','facebook'];
 let ORIGEM='instagram';
 try{const q=new URLSearchParams(location.search).get('origem');if(q){localStorage.setItem('pt-origem',q.toLowerCase())}ORIGEM=localStorage.getItem('pt-origem')||'instagram'}catch(e){}
 
+
+// faixa das redes: ordem inteligente conforme o canal de onde a pessoa veio
+(function(){let R={};try{R={"instagram": "https://www.instagram.com/papertech_store/", "tiktok": "https://www.tiktok.com/@papertechstore", "facebook": "https://www.facebook.com/profile.php?id=61596680901339"}}catch(e){}
+  const ICON={ig:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1" fill="currentColor" stroke="none"/></svg>`,tt:`<svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.6 5.8a4.3 4.3 0 0 1-1-2.8h-3.1v12.4a2.6 2.6 0 1 1-2.6-2.6c.3 0 .5 0 .8.1V9.7a5.8 5.8 0 1 0 4.9 5.7V9.1a7.3 7.3 0 0 0 4.3 1.4V7.4a4.3 4.3 0 0 1-3.3-1.6z"/></svg>`,fb:`<svg viewBox="0 0 24 24" fill="currentColor"><path d="M14 8h3V4.5h-3c-2.5 0-4 1.6-4 4V11H7.5v3.5H10V21h3.6v-6.5h2.8l.5-3.5h-3.3V8.9c0-.6.3-.9.9-.9z"/></svg>`};
+  const lista=[['ig','instagram','Instagram','@papertech_store',R.instagram],['tt','tiktok','TikTok','@papertechstore',R.tiktok],['fb','facebook','Facebook','PaperTech',R.facebook]].filter(x=>x[4]);
+  if(!lista.length){document.getElementById('social').hidden=true;return}
+  const daqui=lista.find(x=>x[1]===ORIGEM);
+  const ord=daqui?[...lista.filter(x=>x!==daqui),daqui]:lista;
+  const txt=document.getElementById('socTxt');
+  if(daqui)txt.innerHTML=`Também estamos aqui<span class="longo">, além do <b>${daqui[2]}</b></span>`;
+  else if(['whatsapp','telegram','compartilhado'].includes(ORIGEM))txt.innerHTML='Recebeu de um amigo?<span class="longo"> Não perca os próximos achados</span>';
+  const el=document.getElementById('socLinks');el.style.setProperty('--nsoc',ord.length);
+  el.innerHTML=ord.map(x=>`<a class="soc ${x[0]}${x===daqui?' veio':''}" href="${x[4]}" target="_blank" rel="noopener" data-rede="${x[1]}"><i>${ICON[x[0]]}</i><b>${x[2]}</b><small>${x===daqui?'você veio daqui':x[3]}</small></a>`).join('');
+  el.addEventListener('click',e=>{const a=e.target.closest('a.soc');if(a&&window.goatcounter&&window.goatcounter.count){try{window.goatcounter.count({path:'seguir/'+a.dataset.rede,title:'seguir '+a.dataset.rede,event:true})}catch(_){}}});
+})();
 // contador de acessos por canal (GoatCounter): distintos = 1x por aparelho e canal
 (function(){const GC='papertech';if(!GC||GC.indexOf('__')===0)return;
   const can=['instagram','tiktok','whatsapp','telegram','facebook','compartilhado'].includes(ORIGEM)?ORIGEM:'outros';
