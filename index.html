@@ -7,7 +7,7 @@
 <link rel="icon" href="img/logo.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{
   --kraft:#efe6d6; --paper:#faf6ef; --ink:#221a14; --ink2:#5d5248; --line:#e3d8c6;
@@ -223,6 +223,93 @@ footer{border-top:1px solid var(--line);background:var(--kraft)}
   .shr svg{width:18px;height:18px}
   .faixas button{padding:5px 10px;font-size:12px}
 }
+
+/* ===== tema luxo: claro = marfim e champanhe / escuro = noir e ouro ===== */
+:root{
+  --paper:#F7F3EC; --kraft:#EFE7DA; --ink:#1D1B18; --ink2:#7A6D58; --line:#E6DCCB;
+  --card:#FFFDF9; --field:#FFFDF9; --topbg:rgba(247,243,236,.94);
+  --gold:#9C7F4E; --gold2:#B89B6A; --goldline:#D9C7A3;
+  --cta:#1D1B18; --cta-d:#000; --ctatxt:#F7F3EC;
+  --herobg:#1D1B18; --herotxt:#F7F3EC; --herosub:#CBBFA9; --heroacc:#D9C08E;
+  --chipon:#1D1B18; --chipontxt:#F7F3EC;
+  --display:'Cormorant Garamond',Georgia,serif; --dsz:1.12;
+}
+[data-theme="dark"]{
+  --paper:#0E0D0B; --kraft:#141210; --ink:#F4EFE6; --ink2:#A39883; --line:#2E2820;
+  --card:#171512; --field:#171512; --topbg:rgba(14,13,11,.92);
+  --gold:#C9A45C; --gold2:#E8D9B5; --goldline:#5A4A2E;
+  --cta:#C9A45C; --cta-d:#D8B670; --ctatxt:#0E0D0B;
+  --herobg:#171512; --herotxt:#F4EFE6; --herosub:#A39883; --heroacc:#E8D9B5;
+  --chipon:#C9A45C; --chipontxt:#0E0D0B;
+  --display:'Playfair Display',Georgia,serif; --dsz:1;
+}
+body{letter-spacing:.005em}
+:root{--wmop:.05}[data-theme="dark"]{--wmop:.05}
+.top{border-bottom:1px solid var(--goldline)}
+.brand b{font:600 calc(20px*var(--dsz))/1 var(--display);letter-spacing:.16em;text-transform:uppercase}
+.brand small{letter-spacing:.24em;font-size:10px;color:var(--gold)}
+.brand img{border-radius:50%;border:1px solid var(--goldline)}
+.search input,.chip,.theme,.ord,.faixas button,.ferr button{border-width:1px;font-weight:500}
+.search input:focus,.chip:hover,.theme:hover{border-color:var(--gold)}
+.chip,.faixas button{letter-spacing:.04em}
+.chip[aria-pressed="true"],.faixas button[aria-pressed="true"]{background:var(--chipon);border-color:var(--chipon);color:var(--chipontxt)}
+.btn{background:var(--cta);color:var(--ctatxt);font:600 13px var(--text);letter-spacing:.14em;text-transform:uppercase;border-radius:6px}
+.btn:hover{background:var(--cta-d)}
+.hero{border-radius:6px;border:1px solid var(--goldline)}
+.hero .pic{background:#fff}
+.tag{background:transparent;color:var(--heroacc);border:1px solid var(--heroacc);font:500 10.5px var(--text);letter-spacing:.24em;border-radius:2px}
+.hero h1{font:600 calc(clamp(26px,4.4vw,44px)*var(--dsz))/1.1 var(--display);letter-spacing:0}
+.hero .price{font:600 calc(34px*var(--dsz))/1 var(--display);color:var(--heroacc);letter-spacing:0}
+.hero .btn{background:var(--heroacc);color:#0E0D0B}
+.hero .btn:hover{background:#fff}
+.head{border-bottom:1px solid var(--goldline);padding-bottom:10px}
+.head h2{font:600 calc(26px*var(--dsz))/1.15 var(--display);letter-spacing:.01em}
+.head span{letter-spacing:.06em}
+.card{border-radius:6px;border-color:var(--line);transition:border-color .3s,box-shadow .3s,transform .3s}
+@media (hover:hover){.card:hover{border-color:var(--gold2);box-shadow:0 18px 40px -22px rgba(0,0,0,.35);transform:translateY(-2px)}
+  .card .pic img,.hero .pic img{transition:transform .6s cubic-bezier(.2,.7,.2,1)}.card:hover .pic img{transform:scale(1.04)}}
+.card .pic{overflow:hidden}
+.card .cat{font:500 10px var(--text);letter-spacing:.22em;color:var(--gold)}
+.card h3{font-weight:500}
+.card .price{font:600 calc(22px*var(--dsz))/1.1 var(--display);letter-spacing:0}
+.card .nota{color:var(--gold)}
+.rk{background:rgba(14,13,11,.82);color:#E8D9B5;font:500 10px var(--text);letter-spacing:.16em;text-transform:uppercase;border-radius:2px;padding:5px 8px;border:1px solid rgba(232,217,181,.35)}
+.rk.ouro{background:#C9A45C;color:#0E0D0B;border-color:#C9A45C}
+.card.top3 .pic::after{content:"";position:absolute;inset:0;box-shadow:inset 0 0 0 2px #C9A45C;pointer-events:none}
+.cod{background:rgba(255,253,249,.92);color:#1D1B18;font:500 10.5px var(--text);letter-spacing:.12em;border-radius:2px;box-shadow:none}
+.off{background:transparent;color:#fff;background:rgba(14,13,11,.78);font:500 10.5px var(--text);letter-spacing:.08em;border-radius:2px}
+.hojetag{background:#C9A45C;color:#0E0D0B;font:500 9.5px var(--text);letter-spacing:.18em;border-radius:2px}
+.shr{border-width:1px;border-radius:6px;color:var(--gold)}
+.sh{background:transparent!important;color:var(--ink);border:1px solid var(--goldline);font:500 12px var(--text);letter-spacing:.12em;text-transform:uppercase;border-radius:2px}
+.sh:hover{border-color:var(--gold);color:var(--gold)}
+.pager button{border:1px solid var(--gold);color:var(--ink);font:500 12.5px var(--text);letter-spacing:.18em;text-transform:uppercase;border-radius:2px}
+.pager button:hover{background:var(--gold);color:var(--paper)}
+.sheet .op[aria-pressed="true"]{color:var(--gold)}
+.sheet h4{font:600 calc(20px*var(--dsz)) var(--display)}
+.ferr button b{color:var(--gold)}
+.cats .ic{border:1px solid var(--goldline)}
+.cats .ic.todos{font:600 12px var(--text);letter-spacing:.1em}
+.cats button[aria-pressed="true"] .ic{border-color:var(--gold);box-shadow:0 0 0 2px var(--gold)}
+.cats button{font-weight:500;letter-spacing:.02em}
+footer{background:var(--kraft);border-top:1px solid var(--goldline)}
+.foot .disc{font-family:var(--display);font-size:calc(18px*var(--dsz));font-weight:500;font-style:italic}
+.topo-btn{background:var(--chipon);color:var(--chipontxt)}
+.revela{opacity:0;transform:translateY(14px);transition:opacity .6s ease,transform .6s ease}
+.revela.on{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.revela{opacity:1;transform:none;transition:none}}
+@media (max-width:600px){
+  .brand b{font-size:calc(17px*var(--dsz))}
+  .brand small{font-size:8.5px}
+  .hero h1{font-size:calc(18px*var(--dsz))}
+  .hero .price{font-size:calc(22px*var(--dsz))}
+  .hero .btn{font-size:11px;letter-spacing:.12em}
+  .head h2{font-size:calc(20px*var(--dsz));white-space:nowrap}
+  .head span{font-size:11px;text-align:right;letter-spacing:.02em}
+  .card .price{font-size:calc(18px*var(--dsz))}
+  .card .btn{font-size:10.5px;letter-spacing:.1em}
+  .rk{font-size:8.5px;letter-spacing:.12em;padding:4px 6px}
+  .cod{font-size:9.5px}
+}
 </style>
 </head>
 <body>
@@ -252,9 +339,9 @@ footer{border-top:1px solid var(--line);background:var(--kraft)}
 
 <main id="inicio">
   <section class="hero" id="hero"></section>
-  <div class="sharebar"><span>📲 Mande a vitrine para alguém:</span>
+  <div class="sharebar"><span>Compartilhe a vitrine</span>
     <a class="sh wa" id="shWa" target="_blank" rel="noopener">WhatsApp</a><a class="sh tg" id="shTg" target="_blank" rel="noopener">Telegram</a></div>
-  <section id="hojeBox" hidden><div class="head"><h2>🔥 Achados de hoje</h2><span>os mesmos dos nossos posts</span></div><div class="grid" id="hoje"></div></section>
+  <section id="hojeBox" hidden><div class="head"><h2>Achados de hoje</h2><span>Em destaque nos nossos posts</span></div><div class="grid" id="hoje"></div></section>
 
   <div class="cats" id="cats" aria-label="Categorias"></div>
   <div class="head"><h2 id="title">Todos os achadinhos</h2><div class="dir"><span id="count"></span>
@@ -271,7 +358,7 @@ footer{border-top:1px solid var(--line);background:var(--kraft)}
 <footer>
   <div class="foot">
     <a class="brand" href="#inicio"><img src="img/logo.png" alt=""><span><b>PaperTech</b><small>Curadoria de achadinhos</small></span></a>
-    <p class="disc">A PaperTech garimpa, você economiza. Comprando pelo nosso link você paga o mesmo preço e ainda apoia nosso trabalho 💛</p>
+    <p class="disc">A PaperTech garimpa, você economiza. Pelo nosso link, você paga o mesmo preço e apoia a curadoria.</p>
     <p>Os links levam para a Shopee, onde a compra, o pagamento e a entrega acontecem. Somos afiliados: recebemos uma comissão pelas vendas feitas pelos links. Preços e estoque podem mudar; confira sempre no anúncio. Atualizado em 11/11/2026.</p>
     <p>Siga no Instagram: <a href="https://www.instagram.com/papertech_store/">@papertech_store</a></p>
   </div>
@@ -281,7 +368,7 @@ footer{border-top:1px solid var(--line);background:var(--kraft)}
 (function(){
   const root=document.documentElement,btn=document.getElementById('theme'),lbl=document.getElementById('themeLbl');
   let t=null;try{t=localStorage.getItem('pt-theme')}catch(e){}
-  if(!t)t=(window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches)?'dark':'light';
+  if(!t)t='dark';
   const apply=v=>{root.setAttribute('data-theme',v);lbl.textContent=v==='dark'?'Modo claro':'Modo escuro'};
   apply(t);
   btn.addEventListener('click',()=>{t=t==='dark'?'light':'dark';apply(t);try{localStorage.setItem('pt-theme',t)}catch(e){}});
@@ -321,9 +408,9 @@ const h=hojeList[0]||ALL.find(p=>p.hero)||[...ALL].sort((a,b)=>a.rk-b.rk)[0];
 document.getElementById('hero').innerHTML=`
   <a class="pic" href="${h.url}" rel="noopener"><img src="${h.img}" alt="${esc(h.name)}"></a>
   <div class="info">
-    <span class="tag">★ Achado do dia</span>
+    <span class="tag">Achado do dia</span>
     <h1>${esc(h.name)}</h1>
-    <p>${esc(h.pitch||('Nº '+h.rk+' em vendas na nossa vitrine.'))}</p>
+    <p>${esc(h.pitch||('Nº '+h.rk+' em vendas na nossa curadoria.'))}</p>
     <div class="price">${h.price}<small>${esc(h.sold||'')}</small></div>
     <a class="btn" href="${h.url}" rel="noopener">Ver na Shopee ${arrow}</a>
   </div>`;
@@ -364,10 +451,10 @@ document.getElementById('q').addEventListener('input',e=>{q=norm(e.target.value.
 document.getElementById('mais').onclick=()=>{mostrar+=POR_PAG;render(true)};
 
 function card(p){
-  const rk=p.rk<=100?`<span class="rk ${p.rk<=10?'ouro':''}">#${p.rk} em vendas</span>`:(p.local?'<span class="badge local">Envio de Caieiras</span>':'');
+  const rk=p.rk<=100?`<span class="rk ${p.rk<=10?'ouro':''}">Nº ${p.rk}</span>`:(p.local?'<span class="badge local">Envio de Caieiras</span>':'');
   const selo=p.post&&p.data===HOJE?'<span class="hojetag">No post de hoje</span>':(p.desconto>=10?`<span class="off">-${p.desconto}%</span>`:'');
   const cod=p.cod?`<span class="cod">${esc(p.cod)}</span>`:'';
-  return `<article class="card" id="${p.cod?p.cod.toLowerCase():''}">
+  return `<article class="card revela${p.rk<=3?' top3':''}" id="${p.cod?p.cod.toLowerCase():''}">
     <a class="pic" href="${p.url}" rel="noopener" aria-label="${esc(p.name)}"><img loading="lazy" src="${p.img}" alt="${esc(p.name)}">${rk}${selo}${cod}</a>
     <div class="body">
       <span class="cat">${esc(p.cat)}</span>
@@ -408,6 +495,10 @@ irPara();addEventListener('hashchange',irPara);
   addEventListener('scroll',()=>{const y=scrollY;top.classList.toggle('compacto',y>140&&y>ult);if(y<ult-8||y<140)top.classList.remove('compacto');
     tb.classList.toggle('on',y>700);ult=y},{passive:true});
   tb.onclick=()=>scrollTo({top:0,behavior:'smooth'})})();
+
+const RV=('IntersectionObserver' in window)?new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('on');RV.unobserve(e.target)}}),{rootMargin:'0px 0px -6% 0px'}):null;
+function revelar(){document.querySelectorAll('.revela:not(.on)').forEach(el=>RV?RV.observe(el):el.classList.add('on'))}
+revelar();new MutationObserver(revelar).observe(document.getElementById('grid'),{childList:true});
 </script>
 </body>
 </html>
