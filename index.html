@@ -401,6 +401,18 @@ const P=[{"id": "projetor", "cat": "Natal", "name": "Projetor LED de Natal com 1
 const CANAIS_OK=['instagram','tiktok','whatsapp','telegram','facebook'];
 let ORIGEM='instagram';
 try{const q=new URLSearchParams(location.search).get('origem');if(q){localStorage.setItem('pt-origem',q.toLowerCase())}ORIGEM=localStorage.getItem('pt-origem')||'instagram'}catch(e){}
+
+// contador de acessos por canal (GoatCounter): distintos = 1x por aparelho e canal
+(function(){const GC='papertech';if(!GC||GC.indexOf('__')===0)return;
+  const can=['instagram','tiktok','whatsapp','telegram','facebook','compartilhado'].includes(ORIGEM)?ORIGEM:'outros';
+  window.goatcounter={no_onload:true};
+  const ev=(t)=>{try{window.goatcounter.count({path:t+'/'+can,title:t+' '+can,event:true})}catch(e){}};
+  const sc=document.createElement('script');sc.async=true;sc.src='https://gc.zgo.at/count.js';sc.dataset.goatcounter='https://'+GC+'.goatcounter.com/count';
+  sc.onload=()=>{let novo=true;try{novo=!localStorage.getItem('pt-visto-'+can);localStorage.setItem('pt-visto-'+can,'1')}catch(e){}
+    if(novo)ev('visitante');ev('acesso')};
+  document.head.appendChild(sc);
+  document.addEventListener('click',e=>{if(e.target.closest('a.btn'))ev('clique')},true);
+})();
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const norm=s=>String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
 const arrow='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M8 7h9v9"/></svg>';
