@@ -93,7 +93,7 @@ main{max-width:1180px;margin:0 auto;padding:18px 16px 40px}
 .card .price small{display:block;font:500 11.5px var(--text);color:var(--ink2);letter-spacing:0;margin-bottom:2px}
 .card .sold{font-size:12.5px;color:var(--ink2)}
 .card .note{font-size:12px;color:var(--ink2);background:var(--paper);border-radius:8px;padding:6px 8px}
-.card .btn{margin-top:auto;width:100%;font-size:14px;padding:12px 10px;border-radius:12px}
+.card .btn{margin-top:auto;width:100%;font-size:14px;padding:12px 10px;border-radius:12px;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .card .spacer{flex:1}
 .card .btn{white-space:nowrap}
 @media (max-width:420px){.card .btn{font-size:13.5px;padding:12px 6px}.card .btn svg{display:none}}
@@ -354,6 +354,7 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
 .soc.ig:hover i{background:radial-gradient(circle at 30% 107%,#fdf497 0%,#fd5949 45%,#d6249f 60%,#285AEB 90%);border-color:transparent;color:#fff}
 .soc.tt:hover i{background:#000;border-color:#fe2c55;color:#fff}
 .soc.fb:hover i{background:#1877F2;border-color:transparent;color:#fff}
+.soc.tg:hover i{background:#229ED9;border-color:transparent;color:#fff}
 .soc.veio{opacity:.6}
 .soc.veio i{border-style:dashed}
 @media (max-width:600px){
@@ -375,6 +376,7 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
 .soc.tt i{background:#000}
 .soc.tt i svg{filter:drop-shadow(1px 0 0 #fe2c55) drop-shadow(-1px 0 0 #25f4ee)}
 .soc.fb i{background:#1877F2}
+.soc.tg i{background:#229ED9}
 .soc:hover i{border-color:#E8D9B5}
 .soc.veio i{border-style:solid;filter:grayscale(.7)}
 :root:not([data-theme="dark"]) .social{background:#EFE7DA;color:#1D1B18}
@@ -461,9 +463,9 @@ try{const q=new URLSearchParams(location.search).get('origem');if(q){localStorag
 
 
 // faixa das redes: ordem inteligente conforme o canal de onde a pessoa veio
-(function(){let R={};try{R={"instagram": "https://www.instagram.com/papertech_store/", "tiktok": "https://www.tiktok.com/@papertechstore", "facebook": "https://www.facebook.com/profile.php?id=61596680901339"}}catch(e){}
-  const ICON={ig:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1" fill="currentColor" stroke="none"/></svg>`,tt:`<svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.6 5.8a4.3 4.3 0 0 1-1-2.8h-3.1v12.4a2.6 2.6 0 1 1-2.6-2.6c.3 0 .5 0 .8.1V9.7a5.8 5.8 0 1 0 4.9 5.7V9.1a7.3 7.3 0 0 0 4.3 1.4V7.4a4.3 4.3 0 0 1-3.3-1.6z"/></svg>`,fb:`<svg viewBox="0 0 24 24" fill="currentColor"><path d="M14 8h3V4.5h-3c-2.5 0-4 1.6-4 4V11H7.5v3.5H10V21h3.6v-6.5h2.8l.5-3.5h-3.3V8.9c0-.6.3-.9.9-.9z"/></svg>`};
-  const lista=[['ig','instagram','Instagram','@papertech_store',R.instagram],['tt','tiktok','TikTok','@papertechstore',R.tiktok],['fb','facebook','Facebook','PaperTech',R.facebook]].filter(x=>x[4]);
+(function(){let R={};try{R={"instagram": "https://www.instagram.com/papertech_store/", "tiktok": "https://www.tiktok.com/@papertechstore", "facebook": "https://www.facebook.com/profile.php?id=61596680901339", "telegram": "https://t.me/achadinhospapertech"}}catch(e){}
+  const ICON={ig:`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.4" cy="6.6" r="1" fill="currentColor" stroke="none"/></svg>`,tt:`<svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.6 5.8a4.3 4.3 0 0 1-1-2.8h-3.1v12.4a2.6 2.6 0 1 1-2.6-2.6c.3 0 .5 0 .8.1V9.7a5.8 5.8 0 1 0 4.9 5.7V9.1a7.3 7.3 0 0 0 4.3 1.4V7.4a4.3 4.3 0 0 1-3.3-1.6z"/></svg>`,fb:`<svg viewBox="0 0 24 24" fill="currentColor"><path d="M14 8h3V4.5h-3c-2.5 0-4 1.6-4 4V11H7.5v3.5H10V21h3.6v-6.5h2.8l.5-3.5h-3.3V8.9c0-.6.3-.9.9-.9z"/></svg>`,tg:`<svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.4 4.2 2.9 11.3c-1.3.5-1.2 1.2-.2 1.5l4.7 1.5 1.8 5.6c.2.6.4.8.8.8s.6-.2.9-.5l2.3-2.2 4.8 3.5c.9.5 1.5.2 1.7-.8l3.1-14.6c.3-1.3-.5-1.9-1.4-1.5zM8.6 14l9.2-5.8c.4-.3.8-.1.5.2l-7.6 6.9-.3 3.2z"/></svg>`};
+  const lista=[['ig','instagram','Instagram','@papertech_store',R.instagram],['tt','tiktok','TikTok','@papertechstore',R.tiktok],['fb','facebook','Facebook','PaperTech',R.facebook],['tg','telegram','Telegram','Achados todo dia',R.telegram]].filter(x=>x[4]);
   if(!lista.length){document.getElementById('social').hidden=true;return}
   const daqui=lista.find(x=>x[1]===ORIGEM);
   const ord=daqui?[...lista.filter(x=>x!==daqui),daqui]:lista;
@@ -492,6 +494,8 @@ if(window.top!==window){const b=document.createElement('base');b.target='_blank'
   document.head.appendChild(sc);
   document.addEventListener('click',e=>{if(e.target.closest('a.btn'))ev('clique')},true);
 })();
+// botão de compra: só o marketplace (o campo "loja" às vezes traz o nome da loja do vendedor)
+const verNa=p=>{const l=String(p.marketplace||p.loja||'').toLowerCase();return l.includes('mercado')?'Ver no Mercado Livre':l.includes('amazon')?'Ver na Amazon':'Ver na Shopee'};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const norm=s=>String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
 const arrow='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17 17 7M8 7h9v9"/></svg>';
@@ -529,7 +533,7 @@ document.getElementById('hero').innerHTML=`
     <h1>${esc(h.name)}</h1>
     <p>${esc(h.pitch||('Nº '+h.rk+' em vendas na nossa curadoria.'))}</p>
     <div class="price">${h.price}<small>${esc(h.sold||'')}</small></div>
-    <a class="btn" href="${h.url}" rel="noopener">Ver na ${esc(h.loja||'Shopee')} ${arrow}</a>
+    <a class="btn" href="${h.url}" rel="noopener">${verNa(h)} ${arrow}</a>
   </div>`;
 if(hojeList.length){document.getElementById('hojeBox').hidden=false;document.getElementById('hoje').innerHTML=hojeList.slice(0,4).map(card).join('')}
 
@@ -582,7 +586,7 @@ function card(p){
       ${p.loja?`<span class="loja">Loja: ${esc(p.loja)}</span>`:''}
       ${p.note?`<span class="note">${esc(p.note)}</span>`:''}
       <span class="spacer"></span>
-      <div class="btnrow"><a class="btn" href="${p.url}" rel="noopener">Ver na ${esc(p.loja||'Shopee')} ${arrow}</a><button class="shr" type="button" data-id="${esc(p.id)}" aria-label="Compartilhar no WhatsApp">${icShare}</button></div>
+      <div class="btnrow"><a class="btn" href="${p.url}" rel="noopener">${verNa(p)} ${arrow}</a><button class="shr" type="button" data-id="${esc(p.id)}" aria-label="Compartilhar no WhatsApp">${icShare}</button></div>
     </div></article>`;
 }
 document.addEventListener('click',e=>{const b=e.target.closest('.shr');if(!b)return;const p=porId[b.dataset.id];if(p)compartilhar(p)});
