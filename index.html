@@ -574,13 +574,15 @@ document.getElementById('shCp').onclick=()=>{const u=BASE+'?origem=compartilhado
   if(navigator.clipboard)navigator.clipboard.writeText(u).then(ok,()=>prompt('Copie o link:',u));else prompt('Copie o link:',u)};
 document.getElementById('shTg').href='https://t.me/share/url?url='+encodeURIComponent(BASE+'?origem=telegram')+'&text='+encodeURIComponent('Achadinhos PaperTech: os mais vendidos da Shopee num lugar só');
 
-// destaque: post de hoje > marcado como destaque > nº 1 do ranking
+// destaque: post de hoje > (oferta relâmpago, trocada depois que o ofertas.json carrega) > um dos 20 mais vendidos, que muda todo dia
 const hojeList=ALL.filter(p=>p.post&&p.data===HOJE);
-const h=hojeList[0]||ALL.find(p=>p.hero)||[...ALL].sort((a,b)=>a.rk-b.rk)[0];
+const top20=[...ALL].sort((a,b)=>a.rk-b.rk).slice(0,20);
+const diaN=Math.floor(Date.now()/864e5);
+const h=hojeList[0]||top20[diaN%Math.max(1,top20.length)]||ALL[0];
 document.getElementById('hero').innerHTML=`
   <a class="pic" href="${h.url}" rel="noopener"><img src="${h.img}" alt="${esc(h.name)}"></a>
   <div class="info">
-    <span class="tag">Achado do dia</span>
+    <span class="tag">${hojeList.length?'Achado do dia':'Destaque de hoje'}</span>
     <h1>${esc(h.name)}</h1>
     <p>${esc(h.pitch||('Nº '+h.rk+' em vendas na nossa curadoria.'))}</p>
     <div class="price">${h.price}<small>${esc(h.sold||'')}</small></div>
@@ -708,6 +710,15 @@ revelar();new MutationObserver(revelar).observe(document.getElementById('grid'),
     D={};['relampago','cupom','frete'].forEach(k=>{D[k]=(j[k]||[]).filter(o=>!o.quando||new Date(o.quando).getTime()>=lim)});
     ['relampago','cupom','frete'].forEach(k=>{document.getElementById(NID[k]).textContent=D[k].length;box.querySelector(`.ofb[data-k="${k}"]`).classList.toggle('vazio',!D[k].length)});
     box.hidden=false;
+    // sem post do dia: o destaque do topo vira a melhor oferta relâmpago ativa
+    if(!hojeList.length&&D.relampago.length){const o=[...D.relampago].sort((a,b)=>(b.desconto||0)-(a.desconto||0))[0];
+      document.getElementById('hero').innerHTML=`
+      <a class="pic" href="${esc(o.link)}" rel="noopener"><img src="${esc(o.img)}" alt="${esc(o.nome)}"></a>
+      <div class="info"><span class="tag" style="background:#e5352b">⚡ Oferta relâmpago agora</span>
+        <h1>${esc(o.nome)}</h1>
+        <p>${o.desconto?`${o.desconto}% de desconto`:'Preço baixo'} por tempo limitado${o.frete_gratis?', com frete grátis':''}. Achado às ${hm(o.quando)}; o preço volta ao normal quando a oferta acabar.</p>
+        <div class="price">${brl(o.preco)}<small>${o.de?'de '+brl(o.de):''}</small></div>
+        <a class="btn" href="${esc(o.link)}" rel="noopener">Ver na Shopee ${arrow}</a></div>`}
     const h=(location.hash||'').slice(1).toLowerCase();
     if(TIT[h]||/^r\d+$/.test(h))hashOferta();
     else{const k=['relampago','cupom','frete'].find(k=>D[k].length);if(k)abrir(k,false)}
