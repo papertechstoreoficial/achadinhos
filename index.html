@@ -390,6 +390,48 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
 :root:not([data-theme="dark"]) .soc small{color:#8A7B62}
 :root:not([data-theme="dark"]) .soc:hover{border-color:#9C7F4E;box-shadow:0 8px 22px -14px rgba(90,74,46,.45)}
 :root:not([data-theme="dark"]) .soc i{border-color:#B89B6A}
+
+/* ===== botões de OFERTAS DO DIA (alimentados pelo radar via ofertas.json) ===== */
+.ofx{margin:18px 0 6px}
+.ofx-bts{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.ofb{position:relative;display:flex;align-items:center;gap:12px;border:0;cursor:pointer;text-align:left;border-radius:18px;padding:16px 18px;color:#fff;font:800 15px/1.15 var(--text);letter-spacing:.02em;text-transform:uppercase;box-shadow:0 10px 26px rgba(0,0,0,.25);transition:transform .15s,box-shadow .15s,filter .15s;overflow:hidden}
+.ofb:hover{transform:translateY(-2px);filter:brightness(1.06)}
+.ofb i{flex:0 0 auto;display:grid;place-items:center;width:44px;height:44px;border-radius:12px;background:rgba(255,255,255,.18);font-style:normal;font-size:24px}
+.ofb small{display:block;font:600 11.5px var(--text);text-transform:none;letter-spacing:0;opacity:.9;margin-top:4px}
+.ofb .n{position:absolute;top:10px;right:12px;min-width:26px;height:26px;padding:0 7px;border-radius:999px;background:#fff;color:#111;font:800 13px/26px var(--text);text-align:center}
+.ofb.rel{background:linear-gradient(135deg,#ff3b2f,#c4130a);animation:ofpulse 1.6s ease-in-out infinite}
+.ofb.cup{background:linear-gradient(135deg,#e2b04a,#a8741c);color:#1b1408}
+.ofb.cup .n{background:#1b1408;color:#f4d58a}
+.ofb.fre{background:linear-gradient(135deg,#1aa260,#0b6b3d)}
+.ofb.sel{outline:3px solid var(--ink);outline-offset:3px}
+.ofb.vazio{filter:grayscale(.75);opacity:.6;animation:none}
+.ofb::after{content:"";position:absolute;inset:0;background:linear-gradient(110deg,transparent 30%,rgba(255,255,255,.35) 50%,transparent 70%);transform:translateX(-120%);animation:ofbrilho 3.2s ease-in-out infinite}
+.ofb.vazio::after{display:none}
+@keyframes ofpulse{0%,100%{box-shadow:0 10px 26px rgba(255,59,47,.35)}50%{box-shadow:0 10px 34px rgba(255,59,47,.75)}}
+@keyframes ofbrilho{0%,60%{transform:translateX(-120%)}100%{transform:translateX(120%)}}
+.ofx-lista{display:none;margin-top:14px;padding:14px;border:1px solid var(--line);border-radius:18px;background:var(--card)}
+.ofx-lista.on{display:block}
+.ofx-cab{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap;margin:0 2px 10px}
+.ofx-cab b{font:800 16px var(--text)}.ofx-cab span{font:500 12.5px var(--text);color:var(--ink2)}
+.ofx-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.ofc{position:relative;display:flex;flex-direction:column;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--paper)}
+.ofc.alvo{outline:3px solid #ff3b2f}
+.ofc .im{position:relative;aspect-ratio:1;background:#fff}
+.ofc .im img{width:100%;height:100%;object-fit:contain}
+.ofc .pct{position:absolute;top:8px;left:8px;background:#ff3b2f;color:#fff;font:800 13px var(--text);padding:5px 9px;border-radius:999px}
+.ofc .cd{position:absolute;top:8px;right:8px;background:rgba(0,0,0,.72);color:#fff;font:700 11px var(--text);padding:4px 8px;border-radius:999px}
+.ofc .bd{display:flex;flex-direction:column;gap:5px;padding:10px 12px 12px;flex:1}
+.ofc h4{margin:0;font:600 13.5px/1.3 var(--text);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.ofc .de{font:500 12px var(--text);color:var(--ink2);text-decoration:line-through}
+.ofc .pr{font:800 20px var(--text);color:var(--ink)}
+.ofc .sl{display:flex;flex-wrap:wrap;gap:5px}
+.ofc .sl span{font:700 10.5px var(--text);padding:3px 7px;border-radius:999px;background:var(--kraft);color:var(--ink)}
+.ofc .sl .f{background:#0b6b3d;color:#fff}.ofc .sl .c{background:#e2b04a;color:#1b1408}.ofc .sl .r{background:#ff3b2f;color:#fff}
+.ofc .qd{font:500 11px var(--text);color:var(--ink2)}
+.ofc .btn{margin-top:auto;width:100%;font-size:14px;padding:11px 10px;border-radius:12px;white-space:nowrap}
+.ofx-vazio{padding:18px;text-align:center;color:var(--ink2);font:500 14px var(--text)}
+@media(max-width:720px){.ofx-bts{grid-template-columns:1fr;gap:10px}.ofb{padding:13px 14px;font-size:14px}.ofb i{width:38px;height:38px;font-size:20px}.ofx-grid{grid-template-columns:repeat(2,1fr);gap:9px}.ofc .pr{font-size:17px}.ofc .btn{font-size:11.5px;letter-spacing:.04em;padding:10px 4px;gap:4px}.ofc .btn svg{display:none}}
+@media (prefers-reduced-motion:reduce){.ofb,.ofb::after{animation:none}}
 </style>
 </head>
 <body>
@@ -422,6 +464,14 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
 </header>
 
 <main id="inicio">
+  <section class="ofx" id="ofertas" hidden aria-label="Ofertas do dia">
+    <div class="ofx-bts">
+      <button type="button" class="ofb rel" data-k="relampago"><i>⚡</i><span>Oferta relâmpago do dia<small>Preço baixo por pouco tempo</small></span><span class="n" id="nRel">0</span></button>
+      <button type="button" class="ofb cup" data-k="cupom"><i>🎟</i><span>Cupom de desconto<small>Produtos com cupom ativo</small></span><span class="n" id="nCup">0</span></button>
+      <button type="button" class="ofb fre" data-k="frete"><i>🚚</i><span>Frete grátis<small>Sem pagar a entrega</small></span><span class="n" id="nFre">0</span></button>
+    </div>
+    <div class="ofx-lista" id="ofxLista"><div class="ofx-cab"><b id="ofxTit"></b><span id="ofxSub"></span></div><div class="ofx-grid" id="ofxGrid"></div></div>
+  </section>
   <section class="hero" id="hero"></section>
   <div class="sharebar"><div class="shtxt"><b>Gostou da curadoria?</b><span>Mande a vitrine para quem vai amar um achadinho</span></div>
     <div class="shbtns"><a class="sh wa" id="shWa" target="_blank" rel="noopener"><i><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2a8.2 8.2 0 0 1-4.2-1.1l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2zm4.5-6.1c-.2-.1-1.5-.7-1.7-.8s-.4-.1-.6.1-.7.8-.8 1-.3.2-.5.1a6.7 6.7 0 0 1-3.3-2.9c-.3-.4.3-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 0 0-.7.3 3 3 0 0 0-.9 2.2 5.2 5.2 0 0 0 1.1 2.7 11.8 11.8 0 0 0 4.5 4c1.7.7 2.3.8 3.2.6a2.7 2.7 0 0 0 1.8-1.2 2.2 2.2 0 0 0 .1-1.3c0-.1-.2-.2-.4-.3z"/></svg></i>WhatsApp</a><a class="sh tg" id="shTg" target="_blank" rel="noopener"><i><svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.4 4.2 18.3 19c-.2 1-.8 1.3-1.7.8l-4.6-3.4-2.2 2.1c-.3.3-.5.5-1 .5l.3-4.7 8.6-7.8c.4-.3-.1-.5-.6-.2L6.5 13 2 11.6c-1-.3-1-1 .2-1.5l17.9-6.9c.8-.3 1.6.2 1.3 1z"/></svg></i>Telegram</a><button type="button" class="sh cp" id="shCp"><i><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 14a5 5 0 0 0 7.1 0l3-3a5 5 0 0 0-7.1-7.1l-1.2 1.2"/><path d="M14 10a5 5 0 0 0-7.1 0l-3 3a5 5 0 0 0 7.1 7.1l1.2-1.2"/></svg></i><span id="shCpL">Copiar<em> link</em></span></button></div></div>
@@ -622,6 +672,48 @@ irPara();addEventListener('hashchange',irPara);
 const RV=('IntersectionObserver' in window)?new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('on');RV.unobserve(e.target)}}),{rootMargin:'0px 0px -6% 0px'}):null;
 function revelar(){document.querySelectorAll('.revela:not(.on)').forEach(el=>RV?RV.observe(el):el.classList.add('on'))}
 revelar();new MutationObserver(revelar).observe(document.getElementById('grid'),{childList:true});
+
+// ===== OFERTAS DO DIA: o radar atualiza ofertas.json; cada oferta fica 24 h e sai sozinha =====
+(function(){
+  const box=document.getElementById('ofertas');if(!box)return;
+  const TIT={relampago:'⚡ Oferta relâmpago do dia',cupom:'🎟 Cupom de desconto',frete:'🚚 Frete grátis'};
+  const NID={relampago:'nRel',cupom:'nCup',frete:'nFre'};
+  let D=null,atual=null;
+  const brl=v=>v==null?'':'R$ '+Number(v).toFixed(2).replace('.',',').replace(/\B(?=(\d{3})+(?!\d))/g,'.');
+  const hm=s=>{try{const d=new Date(s);return d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})}catch(e){return''}};
+  const vend=v=>!v?'':v>=1000?('+'+(v/1000).toFixed(v>=10000?0:1).replace('.',',')+' mil vendidos'):('+'+v+' vendidos');
+  function cardO(o){return `<article class="ofc" id="${esc((o.cod||'').toLowerCase())}">
+    <a class="im" href="${esc(o.link)}" rel="noopener"><img loading="lazy" src="${esc(o.img)}" alt="${esc(o.nome)}">${o.desconto>=5?`<span class="pct">-${o.desconto}%</span>`:''}${o.cod?`<span class="cd">${esc(o.cod)}</span>`:''}</a>
+    <div class="bd"><h4 title="${esc(o.nome)}">${esc(o.nome)}</h4>
+      ${o.de?`<span class="de">de ${brl(o.de)}</span>`:''}<span class="pr">${brl(o.preco)}</span>
+      <div class="sl">${o.origem==='relampago'?'<span class="r">⚡ relâmpago</span>':''}${o.cupom?'<span class="c">🎟 cupom</span>':''}${o.frete_gratis?'<span class="f">🚚 frete grátis</span>':''}${o.nota?`<span>★ ${String(o.nota).replace('.',',')}</span>`:''}</div>
+      <span class="qd">${o.vendas?vend(o.vendas)+' · ':''}achado às ${hm(o.quando)}</span>
+      <a class="btn" href="${esc(o.link)}" rel="noopener">Ver na Shopee ${arrow}</a></div></article>`}
+  function abrir(k,rolar){if(!D)return;atual=k;
+    box.querySelectorAll('.ofb').forEach(b=>b.classList.toggle('sel',b.dataset.k===k));
+    const L=D[k]||[];document.getElementById('ofxTit').textContent=TIT[k];
+    document.getElementById('ofxSub').textContent=L.length?`${L.length} oferta${L.length>1?'s':''} das últimas 24 h · preço e estoque podem mudar`:'';
+    document.getElementById('ofxGrid').innerHTML=L.length?L.map(cardO).join(''):'<div class="ofx-vazio" style="grid-column:1/-1">Nenhuma oferta agora. O robô procura a cada 30 minutos: volte daqui a pouco.</div>';
+    document.getElementById('ofxLista').classList.add('on');
+    if(rolar)setTimeout(()=>document.getElementById('ofxLista').scrollIntoView({behavior:'smooth',block:'start'}),120)}
+  box.addEventListener('click',e=>{const b=e.target.closest('.ofb');if(!b)return;
+    if(atual===b.dataset.k&&document.getElementById('ofxLista').classList.contains('on')){document.getElementById('ofxLista').classList.remove('on');b.classList.remove('sel');atual=null;return}
+    abrir(b.dataset.k,true);try{window.goatcounter&&window.goatcounter.count({path:'ofertas/'+b.dataset.k,title:'botão '+b.dataset.k,event:true})}catch(_){}});
+  function hashOferta(){const h=(location.hash||'').slice(1).toLowerCase();if(!D)return;
+    if(TIT[h]){abrir(h,true);return}
+    if(/^r\d+$/.test(h)){const k=['relampago','cupom','frete'].find(k=>(D[k]||[]).some(o=>(o.cod||'').toLowerCase()===h));
+      if(k){abrir(k,false);const el=document.getElementById(h);if(el){el.classList.add('alvo');setTimeout(()=>el.scrollIntoView({behavior:'smooth',block:'center'}),200)}}}}
+  fetch('ofertas.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(j=>{if(!j)return;
+    const lim=Date.now()-(j.horas||24)*3600e3;
+    D={};['relampago','cupom','frete'].forEach(k=>{D[k]=(j[k]||[]).filter(o=>!o.quando||new Date(o.quando).getTime()>=lim)});
+    ['relampago','cupom','frete'].forEach(k=>{document.getElementById(NID[k]).textContent=D[k].length;box.querySelector(`.ofb[data-k="${k}"]`).classList.toggle('vazio',!D[k].length)});
+    box.hidden=false;
+    const h=(location.hash||'').slice(1).toLowerCase();
+    if(TIT[h]||/^r\d+$/.test(h))hashOferta();
+    else{const k=['relampago','cupom','frete'].find(k=>D[k].length);if(k)abrir(k,false)}
+  }).catch(()=>{});
+  addEventListener('hashchange',hashOferta);
+})();
 </script>
 </body>
 </html>
