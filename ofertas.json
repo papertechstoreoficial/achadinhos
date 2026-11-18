@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-18T16:33:07",
+"atualizado": "2026-11-18T17:03:05",
 "horas": 24,
 "relampago": [
 {
@@ -49,54 +49,6 @@
 "frete_gratis": true,
 "cupom": false,
 "quando": "2026-11-17T17:03:32"
-},
-{
-"item": "58213543936",
-"cod": "R19",
-"nome": "Basike Power Bank 20000mAh/10000mAh Portátil Display Digital Carregamento Rápido 2 portas + 2 Cabos Universal Azul",
-"preco": 133.0,
-"de": 270.0,
-"desconto": 51,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/br-11134207-820ln-mq5ziw0jzwu9bd",
-"link": "https://s.shopee.com.br/4qHHviCB2i",
-"nota": 4.9,
-"vendas": 22600,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T17:02:11"
-},
-{
-"item": "22995166301",
-"cod": "R18",
-"nome": "Panela de Pressão Elétrica Philco 5L 9 Funções PPPE05B",
-"preco": 294.41,
-"de": 599.9,
-"desconto": 51,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/sg-11134201-8258n-mu8onykx97np80",
-"link": "https://s.shopee.com.br/3g5KVpOZ6i",
-"nota": 5.0,
-"vendas": 938500,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T16:38:32"
-},
-{
-"item": "58267380520",
-"cod": "R17",
-"nome": "Escova Elétrica a Vapor 3 em 1 para Cabelo com Nano Névoa, Luz Vermelha e Função Desembaraçante para Cuidados Capilares",
-"preco": 34.59,
-"de": 69.99,
-"desconto": 51,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/br-11134207-820ma-msle4q9lbtol18",
-"link": "https://s.shopee.com.br/1C28q5Ojg",
-"nota": 4.5,
-"vendas": 5600,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T16:35:01"
 }
 ],
 "cupom": [],
@@ -148,54 +100,6 @@
 "frete_gratis": true,
 "cupom": false,
 "quando": "2026-11-17T17:03:32"
-},
-{
-"item": "58213543936",
-"cod": "R19",
-"nome": "Basike Power Bank 20000mAh/10000mAh Portátil Display Digital Carregamento Rápido 2 portas + 2 Cabos Universal Azul",
-"preco": 133.0,
-"de": 270.0,
-"desconto": 51,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/br-11134207-820ln-mq5ziw0jzwu9bd",
-"link": "https://s.shopee.com.br/4qHHviCB2i",
-"nota": 4.9,
-"vendas": 22600,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T17:02:11"
-},
-{
-"item": "22995166301",
-"cod": "R18",
-"nome": "Panela de Pressão Elétrica Philco 5L 9 Funções PPPE05B",
-"preco": 294.41,
-"de": 599.9,
-"desconto": 51,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/sg-11134201-8258n-mu8onykx97np80",
-"link": "https://s.shopee.com.br/3g5KVpOZ6i",
-"nota": 5.0,
-"vendas": 938500,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T16:38:32"
-},
-{
-"item": "58267380520",
-"cod": "R17",
-"nome": "Escova Elétrica a Vapor 3 em 1 para Cabelo com Nano Névoa, Luz Vermelha e Função Desembaraçante para Cuidados Capilares",
-"preco": 34.59,
-"de": 69.99,
-"desconto": 51,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/br-11134207-820ma-msle4q9lbtol18",
-"link": "https://s.shopee.com.br/1C28q5Ojg",
-"nota": 4.5,
-"vendas": 5600,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T16:35:01"
 }
 ]
 }
