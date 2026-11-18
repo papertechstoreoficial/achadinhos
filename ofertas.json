@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-18T16:02:42",
+"atualizado": "2026-11-18T16:33:07",
 "horas": 24,
 "relampago": [
 {
@@ -97,38 +97,6 @@
 "frete_gratis": true,
 "cupom": false,
 "quando": "2026-11-17T16:35:01"
-},
-{
-"item": "58210966197",
-"cod": "R16",
-"nome": "Câmera de Vigilância e Segurança Wi-Fi Com Microfone e Alto-falante Visão Noturna, 360°via App yosse",
-"preco": 143.45,
-"de": 300.0,
-"desconto": 52,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/sg-11134201-822xk-mofn2zgd43k1c2",
-"link": "https://s.shopee.com.br/3B93smrntn",
-"nota": 4.9,
-"vendas": 1100,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T16:07:40"
-},
-{
-"item": "49216033457",
-"cod": "R15",
-"nome": "Colchão Inflável King Bomba Recarregável Elétrica Lítio USB + Lanterna 3 Níves Para Camping e Casa Bestway",
-"preco": 474.05,
-"de": 988.9,
-"desconto": 52,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/br-11134207-820m8-mu0or7zyl2wz18",
-"link": "https://s.shopee.com.br/7AfCdrwiBe",
-"nota": 4.7,
-"vendas": 2000,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T16:04:04"
 }
 ],
 "cupom": [],
@@ -228,38 +196,6 @@
 "frete_gratis": true,
 "cupom": false,
 "quando": "2026-11-17T16:35:01"
-},
-{
-"item": "58210966197",
-"cod": "R16",
-"nome": "Câmera de Vigilância e Segurança Wi-Fi Com Microfone e Alto-falante Visão Noturna, 360°via App yosse",
-"preco": 143.45,
-"de": 300.0,
-"desconto": 52,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/sg-11134201-822xk-mofn2zgd43k1c2",
-"link": "https://s.shopee.com.br/3B93smrntn",
-"nota": 4.9,
-"vendas": 1100,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T16:07:40"
-},
-{
-"item": "49216033457",
-"cod": "R15",
-"nome": "Colchão Inflável King Bomba Recarregável Elétrica Lítio USB + Lanterna 3 Níves Para Camping e Casa Bestway",
-"preco": 474.05,
-"de": 988.9,
-"desconto": 52,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/br-11134207-820m8-mu0or7zyl2wz18",
-"link": "https://s.shopee.com.br/7AfCdrwiBe",
-"nota": 4.7,
-"vendas": 2000,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T16:04:04"
 }
 ]
 }
