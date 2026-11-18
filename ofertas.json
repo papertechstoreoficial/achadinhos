@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-18T15:02:26",
+"atualizado": "2026-11-18T15:32:40",
 "horas": 24,
 "relampago": [
 {
@@ -161,38 +161,6 @@
 "frete_gratis": true,
 "cupom": false,
 "quando": "2026-11-17T15:34:21"
-},
-{
-"item": "58268233715",
-"cod": "R12",
-"nome": "Protetor Solar Facial Anasol Clareador FPS 90 Anti-Manchas Oil Free 60g",
-"preco": 45.51,
-"de": 99.9,
-"desconto": 54,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/br-11134207-820lz-mt6s5eywqn7p9b",
-"link": "https://s.shopee.com.br/50ai038dWw",
-"nota": 4.9,
-"vendas": 4900,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T15:08:12"
-},
-{
-"item": "58209743376",
-"cod": "R11",
-"nome": "INOVA Power Bank Universal 10000/20000mAh Display LED Carga Rápida 22.5W Portátil Compatível iPhone Android",
-"preco": 115.9,
-"de": 259.0,
-"desconto": 55,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/br-11134207-820m0-mtd73m6poc1sb6",
-"link": "https://s.shopee.com.br/8AXjlbBprz",
-"nota": 4.9,
-"vendas": 2100,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T15:04:18"
 }
 ],
 "cupom": [],
@@ -356,38 +324,6 @@
 "frete_gratis": true,
 "cupom": false,
 "quando": "2026-11-17T15:34:21"
-},
-{
-"item": "58268233715",
-"cod": "R12",
-"nome": "Protetor Solar Facial Anasol Clareador FPS 90 Anti-Manchas Oil Free 60g",
-"preco": 45.51,
-"de": 99.9,
-"desconto": 54,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/br-11134207-820lz-mt6s5eywqn7p9b",
-"link": "https://s.shopee.com.br/50ai038dWw",
-"nota": 4.9,
-"vendas": 4900,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T15:08:12"
-},
-{
-"item": "58209743376",
-"cod": "R11",
-"nome": "INOVA Power Bank Universal 10000/20000mAh Display LED Carga Rápida 22.5W Portátil Compatível iPhone Android",
-"preco": 115.9,
-"de": 259.0,
-"desconto": 55,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/br-11134207-820m0-mtd73m6poc1sb6",
-"link": "https://s.shopee.com.br/8AXjlbBprz",
-"nota": 4.9,
-"vendas": 2100,
-"frete_gratis": true,
-"cupom": false,
-"quando": "2026-11-17T15:04:18"
 }
 ]
 }
