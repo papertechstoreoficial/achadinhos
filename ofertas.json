@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T17:49:23",
+"atualizado": "2026-11-20T17:58:59",
 "horas": 24,
 "relampago": [
 {
@@ -742,6 +742,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23797581821",
+"cod": "R36",
+"nome": "Kit 10 ou 24 Cuecas Boxer Masculina de Microfibra Cueca MEN de Microfibra Confortável Cueca Box",
+"preco": 43.8,
+"de": 112.31,
+"desconto": 61,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m8p4ye7cq5qp9c",
+"link": "https://s.shopee.com.br/2VtRzxUxCg",
+"nota": 4.7,
+"vendas": 3827,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T17:57:52"
+},
+{
+"item": "58255159172",
+"cod": "R35",
+"nome": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
+"preco": 21.47,
+"de": 55.05,
+"desconto": 61,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820la-mltkawis4qo439",
+"link": "https://s.shopee.com.br/20xBOwHGlL",
+"nota": 4.8,
+"vendas": 5252,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T17:56:44"
+},
 {
 "item": "26495239681",
 "cod": "R34",
