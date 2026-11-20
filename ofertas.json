@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T05:53:55",
+"atualizado": "2026-11-20T06:24:19",
 "horas": 24,
 "relampago": [
 {
@@ -470,6 +470,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "45109594216",
+"cod": "R91",
+"nome": "Kit Pastilhas Efervescentes para Máquina de Lavar – Remove Mau Cheiro, Resíduos e Sujeira",
+"preco": 10.99,
+"de": 35.45,
+"desconto": 69,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820la-moe8i4uckd8jec",
+"link": "https://s.shopee.com.br/3LSYDmyigc",
+"nota": 4.7,
+"vendas": 6558,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T06:23:37"
+},
 {
 "item": "58214074058",
 "cod": "R90",
