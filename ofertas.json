@@ -1,7 +1,39 @@
 {
-"atualizado": "2026-11-20T03:42:08",
+"atualizado": "2026-11-20T03:51:37",
 "horas": 24,
 "relampago": [
+{
+"item": "58213009667",
+"cod": "R80",
+"nome": "MAIMEITE Prancha Cabelo Profissional 230º Chapinha Nano Titanium bivolt",
+"preco": 123.5,
+"de": 299.0,
+"desconto": 59,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lk-mr2hih9mgnb8d6",
+"link": "https://s.shopee.com.br/906unglooL",
+"nota": 4.9,
+"vendas": 687,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T03:50:30"
+},
+{
+"item": "58257436686",
+"cod": "R79",
+"nome": "Modelar Cabelos Cerâmica Com Fio Esquenta Rápido 9mm Professional Bivolt Original",
+"preco": 48.9,
+"de": 119.99,
+"desconto": 59,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ls-mm7oa9wuvq4g96",
+"link": "https://s.shopee.com.br/8KrE0M8Iml",
+"nota": 4.9,
+"vendas": 2579,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T03:48:58"
+},
 {
 "item": "58212149864",
 "cod": "R78",
