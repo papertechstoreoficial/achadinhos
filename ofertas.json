@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T17:39:02",
+"atualizado": "2026-11-20T17:49:23",
 "horas": 24,
 "relampago": [
 {
@@ -742,6 +742,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "26495239681",
+"cod": "R34",
+"nome": "Smartphone 4G/5G De Alta Qualidade Com Memória De 6.7 Polegadas 8GB + 256GB Bateria 8000mAh Android 14.0",
+"preco": 499.99,
+"de": 1315.76,
+"desconto": 62,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqfsgfgko93ib2",
+"link": "https://s.shopee.com.br/7puyL4jY9I",
+"nota": 4.6,
+"vendas": 135,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T17:48:15"
+},
+{
+"item": "18996959926",
+"cod": "R33",
+"nome": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre Espremedor De Alho",
+"preco": 22.99,
+"de": 60.5,
+"desconto": 62,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l7-mn8111xe6olea5",
+"link": "https://s.shopee.com.br/3qOpZcas7e",
+"nota": 4.7,
+"vendas": 1745,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T17:46:45"
+},
 {
 "item": "58268277624",
 "cod": "R32",
