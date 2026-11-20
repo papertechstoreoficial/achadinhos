@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T17:58:59",
+"atualizado": "2026-11-20T18:08:42",
 "horas": 24,
 "relampago": [
 {
@@ -742,6 +742,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "18798022237",
+"cod": "R38",
+"nome": "Escova de Limpeza Elétrica 9 em 1 com Cabo Alongador - Rotatória e Recarregável",
+"preco": 69.9,
+"de": 179.23,
+"desconto": 61,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitm57s3vlz5c5",
+"link": "https://s.shopee.com.br/8pnVYIOjwT",
+"nota": 4.8,
+"vendas": 553,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T18:08:01"
+},
+{
+"item": "22491618254",
+"cod": "R37",
+"nome": "Fone Bluetooth Sem Fio De Ouvido  P9 TWS Macaron Headphone Fone de Ouvido  Envio Imediato",
+"preco": 22.99,
+"de": 58.95,
+"desconto": 61,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-lomqjeb9ouk2cc",
+"link": "https://s.shopee.com.br/BVXEI6Pp8",
+"nota": 4.7,
+"vendas": 2965,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T18:06:53"
+},
 {
 "item": "23797581821",
 "cod": "R36",
