@@ -1,7 +1,39 @@
 {
-"atualizado": "2026-11-20T03:51:37",
+"atualizado": "2026-11-20T04:01:16",
 "horas": 24,
 "relampago": [
+{
+"item": "58261060170",
+"cod": "R82",
+"nome": "Secador de Cabelo Philco Motor BLDC Fast Dry 1600W PSDE17A",
+"preco": 341.91,
+"de": 799.9,
+"desconto": 57,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/sg-11134201-825ay-muxvxel1qfwicd",
+"link": "https://s.shopee.com.br/7fbXDvMFzv",
+"nota": 4.9,
+"vendas": 490,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T04:00:09"
+},
+{
+"item": "40752263772",
+"cod": "R81",
+"nome": "Modelador de Cachos Mondial Infinity EM-12 Bivolt",
+"preco": 66.39,
+"de": 153.99,
+"desconto": 57,
+"origem": "relampago",
+"img": "https://down-br.img.susercontent.com/file/id-11134258-81ztc-me3yjy0bgg02c5",
+"link": "https://s.shopee.com.br/40iEr5CJGp",
+"nota": 4.9,
+"vendas": 1143,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T03:58:57"
+},
 {
 "item": "58213009667",
 "cod": "R80",
