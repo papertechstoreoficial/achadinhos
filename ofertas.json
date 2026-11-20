@@ -1,7 +1,40 @@
 {
-"atualizado": "2026-11-19T22:34:00",
+"atualizado": "2026-11-19T22:40:43",
 "horas": 24,
-"relampago": [],
+"relampago": [
+{
+"item": "52758391768",
+"cod": "R50",
+"nome": "UR SUGAR 150g Gel de Extensão de Unhas Rosa Nude Leitoso Construção Rápida Auto-nivelante Gel UV Duro Construção",
+"preco": 61.09,
+"de": 190.0,
+"desconto": 68,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/cn-11134207-820l4-mn2sftd8xtkx0d",
+"link": "https://s.shopee.com.br/70Lq4drlDB",
+"nota": 4.9,
+"vendas": 1668,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-19T22:39:33"
+},
+{
+"item": "58203344879",
+"cod": "R49",
+"nome": "Mini modelador de cachos de cerâmica com temperatura ajustável, adequado para cabelos curtos e longos (10 mm)110/220V",
+"preco": 39.99,
+"de": 200.0,
+"desconto": 80,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134201-820lz-mqygxpsjipdw38",
+"link": "https://s.shopee.com.br/7fbWrjSC0R",
+"nota": 4.9,
+"vendas": 2106,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-19T22:37:34"
+}
+],
 "cupom": [],
 "frete": []
 }
