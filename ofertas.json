@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T14:18:38",
+"atualizado": "2026-11-20T16:00:16",
 "horas": 24,
 "relampago": [
 {
@@ -678,6 +678,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "18599500777",
+"cod": "R08",
+"nome": "Esfregão Elétrico 9 Em 1 Sem fio Escova De Limpeza Pesada Multiuso Recarregável Giratória",
+"preco": 61.99,
+"de": 199.97,
+"desconto": 69,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lt-murv0hqdxvr55f",
+"link": "https://s.shopee.com.br/5LDdExEB7C",
+"nota": 4.8,
+"vendas": 108,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T15:58:17"
+},
+{
+"item": "22294648786",
+"cod": "R07",
+"nome": "Balões Ano Novo Balão 2027 + 10 Bexigas + 2 Cortinas Metalizadas - Decoração Reveillon",
+"preco": 19.9,
+"de": 79.6,
+"desconto": 75,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lq-mu4wg7dhzvnn9e",
+"link": "https://s.shopee.com.br/70LrDwEfJI",
+"nota": 4.8,
+"vendas": 2157,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T15:57:10"
+},
 {
 "item": "28011970033",
 "cod": "R92",
