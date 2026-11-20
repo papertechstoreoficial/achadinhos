@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T17:31:43",
+"atualizado": "2026-11-20T17:39:02",
 "horas": 24,
 "relampago": [
 {
@@ -742,6 +742,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58268277624",
+"cod": "R32",
+"nome": "Suporte De Parede Para Banheiro Caixa Organizadora Papel Higiênico Sem Furar TRANSPARENTE",
+"preco": 18.99,
+"de": 49.97,
+"desconto": 62,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820mb-muc1k6a5xu6870",
+"link": "https://s.shopee.com.br/1gKKz3SnOO",
+"nota": 4.8,
+"vendas": 3422,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T17:37:54"
+},
+{
+"item": "23493930815",
+"cod": "R31",
+"nome": "Escova De Limpeza 9 Em 1  Elétrica Giratória Com Cabo Alongador",
+"preco": 68.5,
+"de": 180.26,
+"desconto": 62,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj5cubo7uz29de",
+"link": "https://s.shopee.com.br/qlDzQCSg8",
+"nota": 4.8,
+"vendas": 8656,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T17:36:45"
+},
 {
 "item": "22992945609",
 "cod": "R30",
