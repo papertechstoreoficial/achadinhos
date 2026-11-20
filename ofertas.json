@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T19:19:23",
+"atualizado": "2026-11-20T19:49:06",
 "horas": 24,
 "relampago": [
 {
@@ -742,6 +742,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58218336342",
+"cod": "R52",
+"nome": "Descascador de legumes premium com lâmina de aço inoxidável cabo de madeira e abridor de garrafas",
+"preco": 13.99,
+"de": 32.53,
+"desconto": 57,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lz-mt8m4yhvls0387",
+"link": "https://s.shopee.com.br/1W0uveZIyv",
+"nota": 4.7,
+"vendas": 5036,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T19:47:58"
+},
+{
+"item": "23892669902",
+"cod": "R51",
+"nome": "3L Picador De Alimentos Moedor De Carne Mixer Elétrica Processador Cozinha Casa Alho - 110v-220v",
+"preco": 69.0,
+"de": 160.47,
+"desconto": 57,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m8-mmcgl3nag8au55",
+"link": "https://s.shopee.com.br/W8NjjjbGA",
+"nota": 4.8,
+"vendas": 6218,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T19:46:25"
+},
 {
 "item": "58267485793",
 "cod": "R50",
