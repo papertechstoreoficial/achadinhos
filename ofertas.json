@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T04:23:38",
+"atualizado": "2026-11-20T04:54:53",
 "horas": 24,
 "relampago": [
 {
@@ -470,6 +470,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22998840922",
+"cod": "R88",
+"nome": "Lâmpada Recarregável Para Barraca De Acampamento E Pesca Luz Portátil Usb de Pendurar",
+"preco": 17.96,
+"de": 59.87,
+"desconto": 70,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdup1149u6822f",
+"link": "https://s.shopee.com.br/5AuCJ0w3QA",
+"nota": 4.8,
+"vendas": 2666,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T04:54:11"
+},
 {
 "item": "22198913132",
 "cod": "R65",
