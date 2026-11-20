@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T20:39:57",
+"atualizado": "2026-11-20T20:49:04",
 "horas": 24,
 "relampago": [
 {
@@ -758,6 +758,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23899401692",
+"cod": "R61",
+"nome": "Massageador elétrico portátil pescoço calmante intensidade de 3 velocidades + aquecimento infravermelho",
+"preco": 77.99,
+"de": 177.25,
+"desconto": 56,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-825zz-mlc440901s057d",
+"link": "https://s.shopee.com.br/80EOjiv8yx",
+"nota": 4.9,
+"vendas": 1428,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T20:47:56"
+},
+{
+"item": "58200866202",
+"cod": "R60",
+"nome": "Organizador de Pia 3 em 1 em Aço Inox com Dispensador de Detergente e Suporte para Esponja",
+"preco": 28.0,
+"de": 71.79,
+"desconto": 61,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m5-mogwgauyccg0df",
+"link": "https://s.shopee.com.br/4qHKhHidnC",
+"nota": 4.9,
+"vendas": 351,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T20:46:28"
+},
 {
 "item": "58216606597",
 "cod": "R59",
