@@ -1,7 +1,23 @@
 {
-"atualizado": "2026-11-20T17:21:41",
+"atualizado": "2026-11-20T17:31:43",
 "horas": 24,
 "relampago": [
+{
+"item": "58267380520",
+"cod": "R28",
+"nome": "3-in-1 Electric Steam Hair Brush with Nano Mist, Red Light, and Detangling Function for Hair Care",
+"preco": 34.59,
+"de": 69.99,
+"desconto": 51,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ma-msle4q9lbtol18",
+"link": "https://s.shopee.com.br/8AXoiDAmY6",
+"nota": 4.5,
+"vendas": 2627,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T17:26:44"
+},
 {
 "item": "58262310122",
 "cod": "R25",
@@ -726,6 +742,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22992945609",
+"cod": "R30",
+"nome": "Capa Para Colchão Impermeavel Matelado Com Elastico",
+"preco": 13.9,
+"de": 36.58,
+"desconto": 62,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltwjwwwq5uudff",
+"link": "https://s.shopee.com.br/2VtRy09MsW",
+"nota": 4.5,
+"vendas": 10215,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T17:29:43"
+},
+{
+"item": "23999656092",
+"cod": "R29",
+"nome": "Moedor Multifuncional de Café 110V com Design em Aço Inoxidável 4 Lâminas",
+"preco": 33.99,
+"de": 89.45,
+"desconto": 62,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-825a6-ms2w4rj3eg3q6b",
+"link": "https://s.shopee.com.br/3LSYxQmHAT",
+"nota": 4.7,
+"vendas": 18260,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T17:28:14"
+},
 {
 "item": "23392681148",
 "cod": "R27",
