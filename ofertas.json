@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T18:49:22",
+"atualizado": "2026-11-20T18:59:02",
 "horas": 24,
 "relampago": [
 {
@@ -742,6 +742,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "19197735852",
+"cod": "R48",
+"nome": "Jogo de Soquetes 46 Peças com Chave Catraca Bits e Maleta Kit de Ferramentas",
+"preco": 27.99,
+"de": 66.64,
+"desconto": 58,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8259q-mvlx6ejdfu9z2a",
+"link": "https://s.shopee.com.br/6fj11iMTvU",
+"nota": 4.7,
+"vendas": 3257,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T18:57:53"
+},
+{
+"item": "22694175155",
+"cod": "R47",
+"nome": "Kit Relógio Masculino Aço Inox Resistente a Água Com Corrente Cruz e Pulseira Presente Dia Dos Pais",
+"preco": 32.7,
+"de": 79.76,
+"desconto": 59,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7ra1g-mbegptrb839scc",
+"link": "https://s.shopee.com.br/3g5PS7eFko",
+"nota": 4.5,
+"vendas": 359,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T18:56:24"
+},
 {
 "item": "58264778705",
 "cod": "R46",
