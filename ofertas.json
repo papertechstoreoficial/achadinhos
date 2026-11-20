@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T02:01:31",
+"atualizado": "2026-11-20T02:42:16",
 "horas": 24,
 "relampago": [
 {
@@ -118,6 +118,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22198913132",
+"cod": "R65",
+"nome": "Esfregão Elétrico Sem fio Escova 9 Em 1 Recarregável De Limpeza Ajustável Janela Banheiro E Cozinha 360 Giratória",
+"preco": 59.39,
+"de": 197.97,
+"desconto": 70,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-meilb6hubf9c41",
+"link": "https://s.shopee.com.br/1LhTanTmvC",
+"nota": 4.8,
+"vendas": 2740,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T02:41:08"
+},
+{
+"item": "22693960720",
+"cod": "R64",
+"nome": "Bluetooth Sem fio Fone de ouvido Ergonômico TWS Suporte Orelha Pendurada Anti-queda",
+"preco": 24.3,
+"de": 81.0,
+"desconto": 70,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mch5g12mgnkkac",
+"link": "https://s.shopee.com.br/8AXnjDOwKG",
+"nota": 4.7,
+"vendas": 3420,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T02:39:05"
+},
 {
 "item": "23099658391",
 "cod": "R63",
