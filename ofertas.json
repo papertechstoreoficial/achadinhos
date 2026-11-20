@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T16:32:02",
+"atualizado": "2026-11-20T16:40:12",
 "horas": 24,
 "relampago": [
 {
@@ -694,6 +694,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23299165932",
+"cod": "R17",
+"nome": "Adjustable Cleaning Brush Window Bathroom and Kitchen Tool 9 IN 1 Rechargeable",
+"preco": 64.98,
+"de": 196.91,
+"desconto": 67,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l5-mr76w4tnkohwd5",
+"link": "https://s.shopee.com.br/9Kjm32al0h",
+"nota": 4.8,
+"vendas": 488,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T16:38:14"
+},
+{
+"item": "22098699572",
+"cod": "R16",
+"nome": "Maquina De Barbear e Aparador Pelos Elétrico 3 Em 1 Kemei 6558",
+"preco": 49.49,
+"de": 149.97,
+"desconto": 67,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbh1jysdwd0i68",
+"link": "https://s.shopee.com.br/60TK4oGXGY",
+"nota": 4.7,
+"vendas": 3201,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T16:36:59"
+},
 {
 "item": "20997608223",
 "cod": "R15",
