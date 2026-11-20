@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T00:42:16",
+"atualizado": "2026-11-20T01:21:49",
 "horas": 24,
 "relampago": [
 {
@@ -118,6 +118,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58200034184",
+"cod": "R61",
+"nome": "Marmita Elétrica Veicular Bivolt P/ Carro Casa Taxi Uber Caminhão 12V 24V 110V 220V C",
+"preco": 56.98,
+"de": 196.48,
+"desconto": 71,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg90u8sbzcas0d",
+"link": "https://s.shopee.com.br/9fMbQbUYHk",
+"nota": 4.7,
+"vendas": 2798,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T01:20:40"
+},
+{
+"item": "51417153718",
+"cod": "R60",
+"nome": "Camiseta Masculino Light T-shirt Insider",
+"preco": 54.0,
+"de": 186.21,
+"desconto": 71,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8259b-mslnrcihtxje06",
+"link": "https://s.shopee.com.br/AKcIDhZZoV",
+"nota": 4.9,
+"vendas": 9303,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T01:18:54"
+},
 {
 "item": "22093160276",
 "cod": "R59",
