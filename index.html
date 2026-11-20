@@ -393,7 +393,8 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
 
 /* ===== botões de OFERTAS DO DIA (alimentados pelo radar via ofertas.json) ===== */
 .ofx{margin:18px 0 6px}
-.ofx-bts{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
+.ofx-bts{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+@media(max-width:1100px){.ofx-bts{grid-template-columns:repeat(2,1fr)}}
 .ofb{position:relative;display:flex;align-items:center;gap:12px;border:0;cursor:pointer;text-align:left;border-radius:18px;padding:16px 18px;color:#fff;font:800 15px/1.15 var(--text);letter-spacing:.02em;text-transform:uppercase;box-shadow:0 10px 26px rgba(0,0,0,.25);transition:transform .15s,box-shadow .15s,filter .15s;overflow:hidden}
 .ofb:hover{transform:translateY(-2px);filter:brightness(1.06)}
 .ofb i{flex:0 0 auto;display:grid;place-items:center;width:44px;height:44px;border-radius:12px;background:rgba(255,255,255,.18);font-style:normal;font-size:24px}
@@ -403,6 +404,7 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
 .ofb.cup{background:linear-gradient(135deg,#e2b04a,#a8741c);color:#1b1408}
 .ofb.cup .n{background:#1b1408;color:#f4d58a}
 .ofb.fre{background:linear-gradient(135deg,#1aa260,#0b6b3d)}
+.ofb.ach{background:linear-gradient(135deg,#ff8a00,#d84a05)}
 .ofb.sel{outline:3px solid var(--ink);outline-offset:3px}
 .ofb.vazio{filter:grayscale(.75);opacity:.6;animation:none}
 .ofb::after{content:"";position:absolute;inset:0;background:linear-gradient(110deg,transparent 30%,rgba(255,255,255,.35) 50%,transparent 70%);transform:translateX(-120%);animation:ofbrilho 3.2s ease-in-out infinite}
@@ -469,6 +471,7 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
       <button type="button" class="ofb rel" data-k="relampago"><i>⚡</i><span>Oferta relâmpago do dia<small>Preço baixo por pouco tempo</small></span><span class="n" id="nRel">0</span></button>
       <button type="button" class="ofb cup" data-k="cupom"><i>🎟</i><span>Cupom de desconto<small>Produtos com cupom ativo</small></span><span class="n" id="nCup">0</span></button>
       <button type="button" class="ofb fre" data-k="frete"><i>🚚</i><span>Frete grátis<small>Sem pagar a entrega</small></span><span class="n" id="nFre">0</span></button>
+      <button type="button" class="ofb ach" data-k="achado"><i>🔥</i><span>Achados do dia<small>Descontos garimpados hoje</small></span><span class="n" id="nAch">0</span></button>
     </div>
     <div class="ofx-lista" id="ofxLista"><div class="ofx-cab"><b id="ofxTit"></b><span id="ofxSub"></span></div><div class="ofx-grid" id="ofxGrid"></div></div>
   </section>
@@ -678,8 +681,8 @@ revelar();new MutationObserver(revelar).observe(document.getElementById('grid'),
 // ===== OFERTAS DO DIA: o radar atualiza ofertas.json; cada oferta fica 24 h e sai sozinha =====
 (function(){
   const box=document.getElementById('ofertas');if(!box)return;
-  const TIT={relampago:'⚡ Oferta relâmpago do dia',cupom:'🎟 Cupom de desconto',frete:'🚚 Frete grátis'};
-  const NID={relampago:'nRel',cupom:'nCup',frete:'nFre'};
+  const TIT={relampago:'⚡ Oferta relâmpago do dia',cupom:'🎟 Cupom de desconto',frete:'🚚 Frete grátis',achado:'🔥 Achados do dia'};
+  const NID={relampago:'nRel',cupom:'nCup',frete:'nFre',achado:'nAch'};
   let D=null,atual=null;
   const brl=v=>v==null?'':'R$ '+Number(v).toFixed(2).replace('.',',').replace(/\B(?=(\d{3})+(?!\d))/g,'.');
   const hm=s=>{try{const d=new Date(s);return d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit'})}catch(e){return''}};
@@ -688,7 +691,7 @@ revelar();new MutationObserver(revelar).observe(document.getElementById('grid'),
     <a class="im" href="${esc(o.link)}" rel="noopener"><img loading="lazy" src="${esc(o.img)}" alt="${esc(o.nome)}">${o.desconto>=5?`<span class="pct">-${o.desconto}%</span>`:''}${o.cod?`<span class="cd">${esc(o.cod)}</span>`:''}</a>
     <div class="bd"><h4 title="${esc(o.nome)}">${esc(o.nome)}</h4>
       ${o.de?`<span class="de">de ${brl(o.de)}</span>`:''}<span class="pr">${brl(o.preco)}</span>
-      <div class="sl">${o.origem==='relampago'?'<span class="r">⚡ relâmpago</span>':''}${o.cupom?'<span class="c">🎟 cupom</span>':''}${o.frete_gratis?'<span class="f">🚚 frete grátis</span>':''}${o.nota?`<span>★ ${String(o.nota).replace('.',',')}</span>`:''}</div>
+      <div class="sl">${o.origem==='relampago'?'<span class="r">⚡ relâmpago</span>':''}${o.origem==='achado'?'<span class="r" style="background:#ff8a00">🔥 achado</span>':''}${o.cupom?'<span class="c">🎟 cupom</span>':''}${o.frete_gratis?'<span class="f">🚚 frete grátis</span>':''}${o.nota?`<span>★ ${String(o.nota).replace('.',',')}</span>`:''}</div>
       <span class="qd">${o.vendas?vend(o.vendas)+' · ':''}achado às ${hm(o.quando)}</span>
       <a class="btn" href="${esc(o.link)}" rel="noopener">Ver na Shopee ${arrow}</a></div></article>`}
   function abrir(k,rolar){if(!D)return;atual=k;
@@ -703,12 +706,12 @@ revelar();new MutationObserver(revelar).observe(document.getElementById('grid'),
     abrir(b.dataset.k,true);try{window.goatcounter&&window.goatcounter.count({path:'ofertas/'+b.dataset.k,title:'botão '+b.dataset.k,event:true})}catch(_){}});
   function hashOferta(){const h=(location.hash||'').slice(1).toLowerCase();if(!D)return;
     if(TIT[h]){abrir(h,true);return}
-    if(/^r\d+$/.test(h)){const k=['relampago','cupom','frete'].find(k=>(D[k]||[]).some(o=>(o.cod||'').toLowerCase()===h));
+    if(/^r\d+$/.test(h)){const k=['relampago','cupom','frete','achado'].find(k=>(D[k]||[]).some(o=>(o.cod||'').toLowerCase()===h));
       if(k){abrir(k,false);const el=document.getElementById(h);if(el){el.classList.add('alvo');setTimeout(()=>el.scrollIntoView({behavior:'smooth',block:'center'}),200)}}}}
   fetch('ofertas.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(j=>{if(!j)return;
     const lim=Date.now()-(j.horas||24)*3600e3;
-    D={};['relampago','cupom','frete'].forEach(k=>{D[k]=(j[k]||[]).filter(o=>!o.quando||new Date(o.quando).getTime()>=lim)});
-    ['relampago','cupom','frete'].forEach(k=>{document.getElementById(NID[k]).textContent=D[k].length;box.querySelector(`.ofb[data-k="${k}"]`).classList.toggle('vazio',!D[k].length)});
+    D={};['relampago','cupom','frete','achado'].forEach(k=>{D[k]=(j[k]||[]).filter(o=>!o.quando||new Date(o.quando).getTime()>=lim)});
+    ['relampago','cupom','frete','achado'].forEach(k=>{document.getElementById(NID[k]).textContent=D[k].length;box.querySelector(`.ofb[data-k="${k}"]`).classList.toggle('vazio',!D[k].length)});
     box.hidden=false;
     // sem post do dia: o destaque do topo vira a melhor oferta relâmpago ativa
     if(!hojeList.length&&D.relampago.length){const o=[...D.relampago].sort((a,b)=>(b.desconto||0)-(a.desconto||0))[0];
@@ -721,7 +724,7 @@ revelar();new MutationObserver(revelar).observe(document.getElementById('grid'),
         <a class="btn" href="${esc(o.link)}" rel="noopener">Ver na Shopee ${arrow}</a></div>`}
     const h=(location.hash||'').slice(1).toLowerCase();
     if(TIT[h]||/^r\d+$/.test(h))hashOferta();
-    else{const k=['relampago','cupom','frete'].find(k=>D[k].length);if(k)abrir(k,false)}
+    else{const k=['relampago','cupom','frete','achado'].find(k=>D[k].length);if(k)abrir(k,false)}
   }).catch(()=>{});
   addEventListener('hashchange',hashOferta);
 })();
