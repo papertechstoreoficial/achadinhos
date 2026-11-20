@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T18:59:02",
+"atualizado": "2026-11-20T19:19:23",
 "horas": 24,
 "relampago": [
 {
@@ -742,6 +742,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58267485793",
+"cod": "R50",
+"nome": "Kit Potes Mantimentos Vidro Herméticos Com Tampa Bambu Alta Resistência Epsilon Transparente",
+"preco": 34.36,
+"de": 79.91,
+"desconto": 57,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ld-mso4uf7pu0p11c",
+"link": "https://s.shopee.com.br/1W0utcK8bX",
+"nota": 4.8,
+"vendas": 12783,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T19:18:14"
+},
+{
+"item": "58252786136",
+"cod": "R49",
+"nome": "BERMUDA FEMININA DE LINHO CINTURA ALTA COM CINTO E BOLSOS.",
+"preco": 36.0,
+"de": 85.71,
+"desconto": 58,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj67g2wsyt4z0f",
+"link": "https://s.shopee.com.br/3VlzHBoCpo",
+"nota": 4.7,
+"vendas": 548,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T19:16:45"
+},
 {
 "item": "19197735852",
 "cod": "R48",
