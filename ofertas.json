@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T18:19:22",
+"atualizado": "2026-11-20T18:28:45",
 "horas": 24,
 "relampago": [
 {
@@ -742,6 +742,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "46360468172",
+"cod": "R42",
+"nome": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
+"preco": 39.99,
+"de": 99.97,
+"desconto": 60,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85",
+"link": "https://s.shopee.com.br/2BGbdO7Jt8",
+"nota": 4.5,
+"vendas": 8129,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T18:28:03"
+},
+{
+"item": "58219710815",
+"cod": "R41",
+"nome": "Projetor LED Natalino 16 Temas Luzes de Natal Desenhos Coloridos Rotação 270° Decoração Casa Jardim Parede Festa",
+"preco": 39.88,
+"de": 99.7,
+"desconto": 60,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lg-mtw3amr9o4xu08",
+"link": "https://s.shopee.com.br/2gCsEDydWj",
+"nota": 4.7,
+"vendas": 9112,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T18:26:28"
+},
 {
 "item": "21998858555",
 "cod": "R40",
