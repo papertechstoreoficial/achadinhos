@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T16:09:16",
+"atualizado": "2026-11-20T16:19:16",
 "horas": 24,
 "relampago": [
 {
@@ -678,6 +678,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "21199499120",
+"cod": "R12",
+"nome": "Escova Eletrica Limpeza Mop Giratorio Recarregavel Sem Fio Cabo Extensor 9 em 1 Banheiro Piso Rejunte Azulejo Cozinha",
+"preco": 64.99,
+"de": 203.09,
+"desconto": 68,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lh-murv0hqe4wld97",
+"link": "https://s.shopee.com.br/6VPaeT1nc4",
+"nota": 4.8,
+"vendas": 649,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T16:18:35"
+},
+{
+"item": "58215621878",
+"cod": "R11",
+"nome": "Cabo De Carregador 3 Em 1 100W 6A Tipo C Lightning Micro USB Carga Rápida Liga De Zinco 1,2M",
+"preco": 13.89,
+"de": 43.41,
+"desconto": 68,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ll-mrjws5j3sz5x36",
+"link": "https://s.shopee.com.br/50amrbNXJO",
+"nota": 4.7,
+"vendas": 4624,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T16:17:05"
+},
 {
 "item": "58217601055",
 "cod": "R10",
