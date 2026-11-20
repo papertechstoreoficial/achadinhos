@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T04:54:53",
+"atualizado": "2026-11-20T05:23:59",
 "horas": 24,
 "relampago": [
 {
@@ -470,6 +470,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58269695467",
+"cod": "R89",
+"nome": "Mini Pente Térmico Sem Fio Portátil Para Franja Baby Hair Recarregável USB Tipo C",
+"preco": 29.99,
+"de": 99.97,
+"desconto": 70,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8259g-mtv95ucuodfud9",
+"link": "https://s.shopee.com.br/7VI77KKknR",
+"nota": 4.5,
+"vendas": 2514,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T05:23:17"
+},
 {
 "item": "22998840922",
 "cod": "R88",
