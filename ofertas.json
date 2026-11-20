@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T18:08:42",
+"atualizado": "2026-11-20T18:19:22",
 "horas": 24,
 "relampago": [
 {
@@ -742,6 +742,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "21998858555",
+"cod": "R40",
+"nome": "1/2/5 Pcs Colorido Fio Fada 2M Com Luzes Led Fada Para Decoração De Casa e Natal Festa",
+"preco": 9.9,
+"de": 24.75,
+"desconto": 60,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-lknc2jcks6ab26",
+"link": "https://s.shopee.com.br/2La1p1ndWz",
+"nota": 4.6,
+"vendas": 11070,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T18:18:15"
+},
+{
+"item": "58211510076",
+"cod": "R39",
+"nome": "Kit 10 Marmita 900ml - Travas Hermética Premium BPA FREE Alta Vedação Freezer Microondas Lava Louças",
+"preco": 31.99,
+"de": 79.97,
+"desconto": 60,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820mf-mor984tocruo79",
+"link": "https://s.shopee.com.br/9Kjm9mzMDB",
+"nota": 4.9,
+"vendas": 11421,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T18:16:45"
+},
 {
 "item": "18798022237",
 "cod": "R38",
