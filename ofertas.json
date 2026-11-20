@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T18:39:28",
+"atualizado": "2026-11-20T18:49:22",
 "horas": 24,
 "relampago": [
 {
@@ -742,6 +742,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58264778705",
+"cod": "R46",
+"nome": "Chinelo Preto Feminino Pedraria Confortável e Macio Pedrarias E Metal Elegância Para O Seu Verão",
+"preco": 24.5,
+"de": 59.76,
+"desconto": 59,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820mf-mqyzpfofe2o41f",
+"link": "https://s.shopee.com.br/1C74nkkvT",
+"nota": 4.8,
+"vendas": 3141,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T18:48:15"
+},
+{
+"item": "9478115936",
+"cod": "R45",
+"nome": "Suporte Porta Controle Videogame Gamer Para Ps4 Xbox Ps5",
+"preco": 19.85,
+"de": 49.62,
+"desconto": 60,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lr-mqz526mtnlzb5f",
+"link": "https://s.shopee.com.br/9V3CO9iLxH",
+"nota": 4.7,
+"vendas": 613,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T18:46:47"
+},
 {
 "item": "23797909888",
 "cod": "R44",
