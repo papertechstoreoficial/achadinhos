@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T06:24:19",
+"atualizado": "2026-11-20T06:54:31",
 "horas": 24,
 "relampago": [
 {
@@ -470,6 +470,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "28011970033",
+"cod": "R92",
+"nome": "Fone De Ouvido Original AK6 Para Exibição De Palco De Retorno Dinâmico Com Microfone Baixo",
+"preco": 16.53,
+"de": 53.32,
+"desconto": 69,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m0epyv1t7zgue5",
+"link": "https://s.shopee.com.br/AAIsOP9sdR",
+"nota": 4.8,
+"vendas": 1001,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T06:53:48"
+},
 {
 "item": "45109594216",
 "cod": "R91",
