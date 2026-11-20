@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T05:23:59",
+"atualizado": "2026-11-20T05:53:55",
 "horas": 24,
 "relampago": [
 {
@@ -470,6 +470,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58214074058",
+"cod": "R90",
+"nome": "Descascador Elétrico Multifuncional Recarregável para Frutas Legumes Uvas Alho e Tomate",
+"preco": 59.99,
+"de": 199.97,
+"desconto": 70,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m0-mrfjark11y4kef",
+"link": "https://s.shopee.com.br/906uw8pjhw",
+"nota": 4.7,
+"vendas": 197,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T05:53:13"
+},
 {
 "item": "58269695467",
 "cod": "R89",
