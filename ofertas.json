@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T04:50:06",
+"atualizado": "2026-11-21T05:00:00",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "18378306161",
+"cod": "R30",
+"nome": "2 Peças Umidificador Atomizador De Ar Doméstico Portátil Umidificador De Escritório De Grande Capacidade",
+"preco": 29.9,
+"de": 59.8,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfj2xrcq5nvied",
+"link": "https://s.shopee.com.br/6L6BINNZPl",
+"nota": 4.7,
+"vendas": 2038,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T04:58:54"
+},
+{
+"item": "44959639811",
+"cod": "R29",
+"nome": "Barra de Proteína Snacks Protein Bar Flash 35g 10 Unids Bodyaction",
+"preco": 49.9,
+"de": 99.8,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820la-mnlhyfwwl05g38",
+"link": "https://s.shopee.com.br/9V3D45nst2",
+"nota": 4.9,
+"vendas": 3829,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T04:57:25"
+},
 {
 "item": "22392662498",
 "cod": "R28",
@@ -2213,22 +2245,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T05:23:17"
-},
-{
-"item": "22998840922",
-"cod": "R88",
-"nome": "Lâmpada Recarregável Para Barraca De Acampamento E Pesca Luz Portátil Usb de Pendurar",
-"preco": 17.96,
-"de": 59.87,
-"desconto": 70,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mdup1149u6822f",
-"link": "https://s.shopee.com.br/5AuCJ0w3QA",
-"nota": 4.8,
-"vendas": 2666,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T04:54:11"
 }
 ]
 }
