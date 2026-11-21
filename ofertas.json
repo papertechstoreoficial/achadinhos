@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T21:49:15",
+"atualizado": "2026-11-20T21:59:10",
 "horas": 24,
 "relampago": [
 {
@@ -758,6 +758,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "21071530577",
+"cod": "R73",
+"nome": "Varal De Chão Roupa Calcinha Grade 3 Andares Dobrável Portátil",
+"preco": 79.9,
+"de": 170.0,
+"desconto": 53,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7augbm6ixf693",
+"link": "https://s.shopee.com.br/6AmkdBm7Te",
+"nota": 4.9,
+"vendas": 10430,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T21:58:03"
+},
+{
+"item": "21099552315",
+"cod": "R72",
+"nome": "Fone de Ouvido Bluetooth Sem Fio Digital Alta Qualidade Intra Auricular-B4",
+"preco": 45.5,
+"de": 98.91,
+"desconto": 54,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lq-mvmulr6ts35s36",
+"link": "https://s.shopee.com.br/1gKLGoSYfP",
+"nota": 4.8,
+"vendas": 705,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T21:56:53"
+},
 {
 "item": "58200560185",
 "cod": "R71",
