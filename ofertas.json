@@ -1,7 +1,39 @@
 {
-"atualizado": "2026-11-21T02:29:04",
+"atualizado": "2026-11-21T02:40:18",
 "horas": 24,
 "relampago": [
+{
+"item": "58213469788",
+"cod": "R01",
+"nome": "GOKOCO 5-in-1 Hair Dryer Brush Set, Multifunctional High-Speed Dual Voltage 110V-240V",
+"preco": 399.0,
+"de": 1000.0,
+"desconto": 60,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l5-msbb78hp07pg4b",
+"link": "https://s.shopee.com.br/9KjmiGtf8a",
+"nota": 4.9,
+"vendas": 136,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T02:39:10"
+},
+{
+"item": "58261454279",
+"cod": "R99",
+"nome": "DLI Fighter Drone Aircraft Remote Control RC with Light, Rechargeable Battery, Durable",
+"preco": 77.59,
+"de": 200.0,
+"desconto": 61,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134207-820li-moot07bh5e6b21",
+"link": "https://s.shopee.com.br/8pnW7Dyw2Q",
+"nota": 4.7,
+"vendas": 1192,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T02:37:16"
+},
 {
 "item": "23794637510",
 "cod": "R98",
@@ -2133,22 +2165,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T02:41:08"
-},
-{
-"item": "22693960720",
-"cod": "R64",
-"nome": "Bluetooth Sem fio Fone de ouvido Ergonômico TWS Suporte Orelha Pendurada Anti-queda",
-"preco": 24.3,
-"de": 81.0,
-"desconto": 70,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mch5g12mgnkkac",
-"link": "https://s.shopee.com.br/8AXnjDOwKG",
-"nota": 4.7,
-"vendas": 3420,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T02:39:05"
 }
 ]
 }
