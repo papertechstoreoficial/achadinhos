@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T22:09:28",
+"atualizado": "2026-11-20T22:18:59",
 "horas": 24,
 "relampago": [
 {
@@ -758,6 +758,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "19798323901",
+"cod": "R77",
+"nome": "Campainha Com Câmera Vídeo Porteiro Sem Fio Wi-Fi HD Inteligente Smart Home Vê Pelo Celular -bombara\r\n",
+"preco": 46.88,
+"de": 99.74,
+"desconto": 53,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ma-mqyxie6ogft33d",
+"link": "https://s.shopee.com.br/AUvjoWSUvW",
+"nota": 4.6,
+"vendas": 258,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T22:18:18"
+},
+{
+"item": "22099685820",
+"cod": "R76",
+"nome": "Kit Alicate Aplicador de Botões + 100 Botões de Pressão Metal Inoxidável para Roupas e Artesanato",
+"preco": 22.72,
+"de": 48.34,
+"desconto": 53,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-82598-mrk0pjgpnax45d",
+"link": "https://s.shopee.com.br/BVXVQdWws",
+"nota": 4.9,
+"vendas": 3634,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T22:16:49"
+},
 {
 "item": "22299321807",
 "cod": "R75",
