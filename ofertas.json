@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T12:50:00",
+"atualizado": "2026-11-21T12:59:10",
 "horas": 24,
 "relampago": [
 {
@@ -662,6 +662,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22499538802",
+"cod": "R10",
+"nome": "Carteiras Fibra De Carbono Porta-Cartões Masculina Preta Mágica Tripla De Couro",
+"preco": 14.5,
+"de": 30.21,
+"desconto": 52,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpxyqshac1e379",
+"link": "https://s.shopee.com.br/6VPc1aM6yO",
+"nota": 4.6,
+"vendas": 20820,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T12:58:02"
+},
+{
+"item": "48165450830",
+"cod": "R09",
+"nome": "Kit Massagem Facial com Rolo de Jade, Pedra Gua Sha e Escova para Drenagem Linfática",
+"preco": 30.99,
+"de": 70.43,
+"desconto": 56,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhjaoj4k4jpf0",
+"link": "https://s.shopee.com.br/8VAgP9q2fn",
+"nota": 4.8,
+"vendas": 116,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T12:56:32"
+},
 {
 "item": "23393888732",
 "cod": "R08",
