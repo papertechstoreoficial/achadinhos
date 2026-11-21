@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T12:23:39",
+"atualizado": "2026-11-21T12:50:00",
 "horas": 24,
 "relampago": [
 {
@@ -662,6 +662,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23393888732",
+"cod": "R08",
+"nome": "Papel Adesivo Aluminio 3m, 5m, 6m, 10m  Metalizado Antimofo Impermeavel Cozinha Movies Sala Bancada",
+"preco": 21.49,
+"de": 48.84,
+"desconto": 56,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l8-moi8fzhz4glffa",
+"link": "https://s.shopee.com.br/4fxxpWtGB8",
+"nota": 4.8,
+"vendas": 2043,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T12:48:01"
+},
+{
+"item": "58268559634",
+"cod": "R07",
+"nome": "SOARFLY Ventilador Camping 20000mAh com LED, Super Longa Duração, Silencioso, USB Recarregável Portátil",
+"preco": 159.0,
+"de": 369.77,
+"desconto": 57,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m5-mtdh0zpeuw3m0e",
+"link": "https://s.shopee.com.br/3qOqptYOBU",
+"nota": 4.9,
+"vendas": 347,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T12:46:33"
+},
 {
 "item": "58253904938",
 "cod": "R06",
