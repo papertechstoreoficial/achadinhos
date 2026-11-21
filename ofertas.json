@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T06:50:03",
+"atualizado": "2026-11-21T07:00:01",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "20899761631",
+"cod": "R54",
+"nome": "Inova Bateria Portátil Power Bank 20.000mah/10.000mah Universal carregador 22,5W Com Displaya Visor do nível da bateria",
+"preco": 119.9,
+"de": 222.04,
+"desconto": 46,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-manzmd5jc0l56b",
+"link": "https://s.shopee.com.br/5AuE2TSnGn",
+"nota": 4.9,
+"vendas": 2659,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T06:58:54"
+},
+{
+"item": "20699758504",
+"cod": "R53",
+"nome": "Guarda Chuva Automático Abre e Fecha Grande Reforçado Contra Vento Com Proteção Solar Blackout Haste Dupla Cabe na Bolsa",
+"preco": 26.9,
+"de": 49.81,
+"desconto": 46,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7ratq-ma319xguvrkp75",
+"link": "https://s.shopee.com.br/W8OTnI7Gl",
+"nota": 4.9,
+"vendas": 9902,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T06:57:26"
+},
 {
 "item": "23097665129",
 "cod": "R52",
@@ -2533,22 +2565,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T15:57:10"
-},
-{
-"item": "28011970033",
-"cod": "R92",
-"nome": "Fone De Ouvido Original AK6 Para Exibição De Palco De Retorno Dinâmico Com Microfone Baixo",
-"preco": 16.53,
-"de": 53.32,
-"desconto": 69,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m0epyv1t7zgue5",
-"link": "https://s.shopee.com.br/AAIsOP9sdR",
-"nota": 4.8,
-"vendas": 1001,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T06:53:48"
 }
 ]
 }
