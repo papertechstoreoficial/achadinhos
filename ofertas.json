@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T19:59:10",
+"atualizado": "2026-11-21T20:09:11",
 "horas": 24,
 "relampago": [
 {
@@ -545,27 +545,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T23:05:03"
-},
-{
-"item": "58265358635",
-"cod": "R55",
-"nome": "Women's Clogs, Medium Heel, Leaf Toe, Elegant, Comfortable, Party, Work, White, Black, Caramel",
-"preco": 59.9,
-"de": 119.9,
-"desconto": 50,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/sg-11134201-825an-mrbm8wqz8xs736",
-"link": "https://s.shopee.com.br/8fU5TtlI1L",
-"nota": 4.9,
-"vendas": 1754,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T20:03:49"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "44917747206",
+"cod": "R78",
+"nome": "Jogo 6 Copo Vidro Briston 300ml Conjunto Mesa Posta Água Suco Cozinha Decoração Presente",
+"preco": 26.9,
+"de": 40.15,
+"desconto": 33,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820mf-mucaj66hmz2875",
+"link": "https://s.shopee.com.br/5LDf6yLbpa",
+"nota": 4.9,
+"vendas": 1081,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T20:08:04"
+},
+{
+"item": "22299139188",
+"cod": "R77",
+"nome": "KIT 01 und Panettone Frutas Cristalizadas 400g + 01 und Chocottone 400g Bauducco",
+"preco": 47.9,
+"de": 71.49,
+"desconto": 33,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ly-mse3h0oiwemf50",
+"link": "https://s.shopee.com.br/3B9AWt1Pn4",
+"nota": 4.9,
+"vendas": 2118,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T20:06:33"
+},
 {
 "item": "58210633027",
 "cod": "R76",
@@ -3493,38 +3509,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T20:37:19"
-},
-{
-"item": "23497309877",
-"cod": "R57",
-"nome": "Espremedor Elétrico Laranja Limão Frutas Fazer Sucos Recarregável Usb Cozinha",
-"preco": 61.99,
-"de": 140.89,
-"desconto": 56,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-8259f-msgkvfvn2sju02",
-"link": "https://s.shopee.com.br/4qHMv5BtUE",
-"nota": 4.6,
-"vendas": 1608,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T20:06:55"
-},
-{
-"item": "20133655928",
-"cod": "R56",
-"nome": "1 Par Capa Protetora De Sapatos/Botas De Chuva De Silicone Reutilizável Antiderrapante M Promoção",
-"preco": 13.99,
-"de": 31.8,
-"desconto": 56,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/a9bb651305ced2f15daa035d6ab961ba",
-"link": "https://s.shopee.com.br/3g5PWpWQo6",
-"nota": 4.5,
-"vendas": 8223,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T20:05:23"
 }
 ]
 }
