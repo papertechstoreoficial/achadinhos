@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T17:39:19",
+"atualizado": "2026-11-21T17:48:50",
 "horas": 24,
 "relampago": [
 {
@@ -566,6 +566,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22394872064",
+"cod": "R56",
+"nome": "Capa Protetora Máquina de Lavar Roupa Impermeável Flanelada Reforçada Anti Poeira Sol Chuva 9kg a 18kg Universal",
+"preco": 29.99,
+"de": 58.8,
+"desconto": 49,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l7-mqanq20ritc1ba",
+"link": "https://s.shopee.com.br/2gCtmShjEV",
+"nota": 4.6,
+"vendas": 4345,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T17:48:08"
+},
+{
+"item": "58270123146",
+"cod": "R55",
+"nome": "Kit 6 Taça de Vidro Diamante 330ml Facetada Vinho Elegante",
+"preco": 39.9,
+"de": 79.8,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l7-mu3jqpq6ls76dc",
+"link": "https://s.shopee.com.br/80EQ89qeQ5",
+"nota": 4.9,
+"vendas": 1570,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T17:46:37"
+},
 {
 "item": "23098380191",
 "cod": "R54",
@@ -3493,38 +3525,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T17:56:44"
-},
-{
-"item": "26495239681",
-"cod": "R34",
-"nome": "Smartphone 4G/5G De Alta Qualidade Com Memória De 6.7 Polegadas 8GB + 256GB Bateria 8000mAh Android 14.0",
-"preco": 499.99,
-"de": 1315.76,
-"desconto": 62,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/cn-11134207-820l4-mqfsgfgko93ib2",
-"link": "https://s.shopee.com.br/7puyL4jY9I",
-"nota": 4.6,
-"vendas": 135,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T17:48:15"
-},
-{
-"item": "18996959926",
-"cod": "R33",
-"nome": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre Espremedor De Alho",
-"preco": 22.99,
-"de": 60.5,
-"desconto": 62,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820l7-mn8111xe6olea5",
-"link": "https://s.shopee.com.br/3qOpZcas7e",
-"nota": 4.7,
-"vendas": 1745,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T17:46:45"
 }
 ]
 }
