@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T05:30:02",
+"atualizado": "2026-11-21T05:39:42",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23193518683",
+"cod": "R38",
+"nome": "Bermuda Modeladora Anágua Cinta Short Feminino Modelador Alta Compressão Reduz Medidas pos parto",
+"preco": 20.96,
+"de": 40.31,
+"desconto": 48,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m29x89by72l25f",
+"link": "https://s.shopee.com.br/4fxxM3nEqB",
+"nota": 4.7,
+"vendas": 7199,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T05:38:34"
+},
+{
+"item": "58213510892",
+"cod": "R37",
+"nome": "Moedor de especiarias elétrico 110V/220V, com 4 lâminas de aço inoxidável, para uso doméstico.",
+"preco": 36.0,
+"de": 70.59,
+"desconto": 49,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820md-mq55654q4mbm4b",
+"link": "https://s.shopee.com.br/4VeX9eQJKw",
+"nota": 4.8,
+"vendas": 14667,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T05:37:25"
+},
 {
 "item": "21749998832",
 "cod": "R36",
