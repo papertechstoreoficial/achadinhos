@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T21:19:28",
+"atualizado": "2026-11-20T21:39:05",
 "horas": 24,
 "relampago": [
 {
@@ -758,6 +758,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "19599890018",
+"cod": "R69",
+"nome": "Escova Elétrica de Limpeza 5 em 1 Sem Fio Recarregável Multiuso para Cozinha Banheiro Azulejo",
+"preco": 31.6,
+"de": 70.22,
+"desconto": 55,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj98stjusbnq22",
+"link": "https://s.shopee.com.br/3B992Gxy2n",
+"nota": 4.8,
+"vendas": 618,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T21:37:56"
+},
+{
+"item": "21697982542",
+"cod": "R68",
+"nome": "Saco Organizador 180L com Alça, à Prova de Poeira, Grande Capacidade para Colchas e Roupas Domésticas",
+"preco": 24.44,
+"de": 54.31,
+"desconto": 55,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m9-mmia0aqc09hi8f",
+"link": "https://s.shopee.com.br/9V3CZpkfyt",
+"nota": 4.8,
+"vendas": 829,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T21:36:26"
+},
 {
 "item": "18899877225",
 "cod": "R67",
