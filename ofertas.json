@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T14:40:25",
+"atualizado": "2026-11-21T14:49:47",
 "horas": 24,
 "relampago": [
 {
@@ -630,6 +630,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22792641876",
+"cod": "R32",
+"nome": "Astgn X Basike Fone de Ouvido Sem Fio Bluetooth Alto Falante Headphone Viva Voz Potente Grave",
+"preco": 167.99,
+"de": 266.65,
+"desconto": 37,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134211-7r98o-m31lz0zxe68jb6",
+"link": "https://s.shopee.com.br/7AfFTwHbE3",
+"nota": 4.9,
+"vendas": 223,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T14:47:46"
+},
+{
+"item": "58202483331",
+"cod": "R31",
+"nome": "Fone de Ouvido Bluetooth 5.0 Sem Fio Headset Bateria de Longa Duração Fone Corrida Academia",
+"preco": 45.3,
+"de": 71.9,
+"desconto": 37,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m2-mvnm9py4mbk200",
+"link": "https://s.shopee.com.br/2La3BNe3Yk",
+"nota": 4.9,
+"vendas": 741,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T14:46:13"
+},
 {
 "item": "58269931005",
 "cod": "R30",
