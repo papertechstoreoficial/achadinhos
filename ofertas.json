@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T03:50:01",
+"atualizado": "2026-11-21T04:00:03",
 "horas": 24,
 "relampago": [
 {
@@ -689,43 +689,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T04:00:09"
-},
-{
-"item": "40752263772",
-"cod": "R81",
-"nome": "Modelador de Cachos Mondial Infinity EM-12 Bivolt",
-"preco": 66.39,
-"de": 153.99,
-"desconto": 57,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/id-11134258-81ztc-me3yjy0bgg02c5",
-"link": "https://s.shopee.com.br/40iEr5CJGp",
-"nota": 4.9,
-"vendas": 1143,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T03:58:57"
-},
-{
-"item": "58213009667",
-"cod": "R80",
-"nome": "MAIMEITE Prancha Cabelo Profissional 230º Chapinha Nano Titanium bivolt",
-"preco": 123.5,
-"de": 299.0,
-"desconto": 59,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lk-mr2hih9mgnb8d6",
-"link": "https://s.shopee.com.br/906unglooL",
-"nota": 4.9,
-"vendas": 687,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T03:50:30"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23594439744",
+"cod": "R18",
+"nome": "400ML 6 Lâminas Espremedor Elétrico Mini Liquidificador Portátil De Suco De Alimentos Misturador Leite",
+"preco": 35.48,
+"de": 72.41,
+"desconto": 51,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-824j0-mf4w5g1wmgaw9d",
+"link": "https://s.shopee.com.br/9zzTazlRGS",
+"nota": 4.5,
+"vendas": 2972,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T03:58:56"
+},
+{
+"item": "57568964332",
+"cod": "R17",
+"nome": "Mascara Teia Hidratação Ouro Marroquino 500g | Efeito Teia Com Argan e Marula para Cabelos Ressecados | Fina Maria",
+"preco": 38.97,
+"de": 79.53,
+"desconto": 51,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lg-mu3hyk13qarmf7",
+"link": "https://s.shopee.com.br/1qdlrso5NV",
+"nota": 4.9,
+"vendas": 6771,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T03:57:26"
+},
 {
 "item": "19999844971",
 "cod": "R16",
