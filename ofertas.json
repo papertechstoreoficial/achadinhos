@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T20:09:11",
+"atualizado": "2026-11-21T20:17:54",
 "horas": 24,
 "relampago": [
 {
@@ -550,6 +550,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22798340971",
+"cod": "R80",
+"nome": "Geladeira Multidoor 4 Portas HQ 426 L Frost Free Inverter Classe A HQ-426MDFF",
+"preco": 3651.09,
+"de": 5449.39,
+"desconto": 33,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7ratu-maslvg11iag339",
+"link": "https://s.shopee.com.br/5AuEvGTMgj",
+"nota": 4.9,
+"vendas": 667,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T20:16:45"
+},
+{
+"item": "22699684273",
+"cod": "R79",
+"nome": "Árvore De Natal Pinheiro 1.80m 2.10m 2.40m 3.00m Super Cheia Premium Luxo Galhos Cheios Verde",
+"preco": 197.88,
+"de": 295.34,
+"desconto": 33,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m5-msgd4t6cum869e",
+"link": "https://s.shopee.com.br/906xUCqjEV",
+"nota": 4.9,
+"vendas": 774,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T20:15:17"
+},
 {
 "item": "44917747206",
 "cod": "R78",
