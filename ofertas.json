@@ -1,7 +1,39 @@
 {
-"atualizado": "2026-11-21T02:40:18",
+"atualizado": "2026-11-21T02:50:30",
 "horas": 24,
 "relampago": [
+{
+"item": "20997725486",
+"cod": "R03",
+"nome": "African Oil Explosion Kit (Shampoo, Conditioner, Mask, Leave-in Cream)",
+"preco": 72.9,
+"de": 157.99,
+"desconto": 54,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lj-mldjn9clrtomb2",
+"link": "https://s.shopee.com.br/7VI8XbIbid",
+"nota": 4.9,
+"vendas": 500,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T02:49:21"
+},
+{
+"item": "58218169635",
+"cod": "R02",
+"nome": "Anasol Facial Sunscreen SPF 70 Whitening Anti-Blemish Dry Touch 60g",
+"preco": 39.9,
+"de": 89.9,
+"desconto": 56,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m2-mt5m3hxuij9g5b",
+"link": "https://s.shopee.com.br/7VI8XTGxTZ",
+"nota": 4.9,
+"vendas": 1452,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T02:47:29"
+},
 {
 "item": "58213469788",
 "cod": "R01",
@@ -833,54 +865,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T02:59:21"
-},
-{
-"item": "58254687759",
-"cod": "R68",
-"nome": "MAIMEITE Modelador De Cachos Alisador De Cabelo E Chapinha 2 Em 1 Mini Alisador Profissional Bivolt Liso/Cachos S638",
-"preco": 79.9,
-"de": 428.0,
-"desconto": 81,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lg-msfgivuanz7oc3",
-"link": "https://s.shopee.com.br/9AQKvjzIKi",
-"nota": 4.8,
-"vendas": 421,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T02:49:09"
-},
-{
-"item": "58204349628",
-"cod": "R67",
-"nome": "MAIMEITE Alisador De Cabelo Prancha Cabelo Profissional 210º Chapinha Nano Titanium bivolt Liso/Cachos",
-"preco": 78.9,
-"de": 428.0,
-"desconto": 82,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lu-muydj5bs7fup8b",
-"link": "https://s.shopee.com.br/9pg1ip0Wv3",
-"nota": 4.8,
-"vendas": 556,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T02:47:01"
-},
-{
-"item": "58262303008",
-"cod": "R66",
-"nome": "Colchão Inflável Queen Casal com Encosto e Bomba Elétrica Embutida Cama De Campanha Suporta 300kg",
-"preco": 284.05,
-"de": 1599.0,
-"desconto": 82,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lq-mpc0e4ip48ar48",
-"link": "https://s.shopee.com.br/6fizwrFju0",
-"nota": 4.9,
-"vendas": 110,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T02:44:56"
 }
 ],
 "cupom": [],
@@ -2149,22 +2133,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T04:54:11"
-},
-{
-"item": "22198913132",
-"cod": "R65",
-"nome": "Esfregão Elétrico Sem fio Escova 9 Em 1 Recarregável De Limpeza Ajustável Janela Banheiro E Cozinha 360 Giratória",
-"preco": 59.39,
-"de": 197.97,
-"desconto": 70,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-meilb6hubf9c41",
-"link": "https://s.shopee.com.br/1LhTanTmvC",
-"nota": 4.8,
-"vendas": 2740,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T02:41:08"
 }
 ]
 }
