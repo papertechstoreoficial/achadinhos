@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T10:49:36",
+"atualizado": "2026-11-21T10:59:09",
 "horas": 24,
 "relampago": [
 {
@@ -486,6 +486,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58262387632",
+"cod": "R79",
+"nome": "Kit Renovadores Gota de Colágeno e Rosa Mosqueta Kokeshi",
+"preco": 61.52,
+"de": 106.07,
+"desconto": 42,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lc-mume7ufalreo72",
+"link": "https://s.shopee.com.br/8pnWfdQ3fE",
+"nota": 4.9,
+"vendas": 7056,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T10:58:02"
+},
+{
+"item": "20597689349",
+"cod": "R78",
+"nome": "Protetor Impermeável Capa Colchão Matelada Cama Quarto Berço, Solteiro, Casal, Queen, King com Elástico",
+"preco": 25.9,
+"de": 44.66,
+"desconto": 42,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m97a2cdipgcic6",
+"link": "https://s.shopee.com.br/4qHNuB81xe",
+"nota": 4.6,
+"vendas": 7238,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T10:56:34"
+},
 {
 "item": "42515045410",
 "cod": "R77",
