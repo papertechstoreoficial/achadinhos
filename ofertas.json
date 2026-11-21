@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T10:29:12",
+"atualizado": "2026-11-21T10:38:46",
 "horas": 24,
 "relampago": [
 {
@@ -486,6 +486,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23091546001",
+"cod": "R75",
+"nome": "Amplificador De Imagem Da Tela Do Celular Lupa 3D 21,6CM*16,6CM*2,7CM Promoção",
+"preco": 16.98,
+"de": 29.79,
+"desconto": 43,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8259l-mskzqxceqnm23c",
+"link": "https://s.shopee.com.br/7puzSOY4bj",
+"nota": 4.6,
+"vendas": 12484,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T10:37:38"
+},
+{
+"item": "22498117558",
+"cod": "R74",
+"nome": "Carregador Portátil Turbo 20000mah Power Bank Universal Com Indicador De Bateria Original",
+"preco": 56.34,
+"de": 100.61,
+"desconto": 44,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m5-mu7yemegieww12",
+"link": "https://s.shopee.com.br/1BO2L02xLk",
+"nota": 4.7,
+"vendas": 170,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T10:36:10"
+},
 {
 "item": "48214927406",
 "cod": "R73",
