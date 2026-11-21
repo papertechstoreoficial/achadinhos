@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T18:29:53",
+"atualizado": "2026-11-21T18:38:50",
 "horas": 24,
 "relampago": [
 {
@@ -566,6 +566,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22797891574",
+"cod": "R66",
+"nome": "Enfeite De Natal Globo De Neve Vidro 8cm Decoração Natalina",
+"preco": 31.99,
+"de": 49.98,
+"desconto": 36,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8257y-mtsbpfu4wglh58",
+"link": "https://s.shopee.com.br/1qdmqMHdyj",
+"nota": 4.9,
+"vendas": 979,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T18:37:42"
+},
+{
+"item": "22798460184",
+"cod": "R65",
+"nome": "Protetor Para Colchão Capa Impermeavel Matelado Com Elastico Rosalina Enxovais",
+"preco": 29.9,
+"de": 46.72,
+"desconto": 36,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m3-mris8ged181wd7",
+"link": "https://s.shopee.com.br/20xD2YtRmq",
+"nota": 4.8,
+"vendas": 1710,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T18:36:33"
+},
 {
 "item": "19975160032",
 "cod": "R64",
@@ -3493,38 +3525,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T18:46:47"
-},
-{
-"item": "23797909888",
-"cod": "R44",
-"nome": "Tesoura Para Picar Alimentos Temperos E Ervas 5 Lâminas Aço Inox WL-2377",
-"preco": 19.99,
-"de": 49.97,
-"desconto": 60,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-8258z-mvbt1sc0wsg252",
-"link": "https://s.shopee.com.br/4LL6E4ytf4",
-"nota": 4.8,
-"vendas": 2924,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T18:38:19"
-},
-{
-"item": "22492474605",
-"cod": "R43",
-"nome": "10m Cascata 400 Led 8 Funções Decoração Natal 110v 220v Conexão Macho Branco Frio Quente Pisca Pisca Enfeites de Natal",
-"preco": 62.97,
-"de": 157.42,
-"desconto": 60,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820mg-mtgwtlf6mjurf5",
-"link": "https://s.shopee.com.br/6L6AbeKZqT",
-"nota": 4.9,
-"vendas": 3445,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T18:36:48"
 }
 ]
 }
