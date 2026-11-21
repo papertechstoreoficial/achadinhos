@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T20:49:12",
+"atualizado": "2026-11-21T20:59:38",
 "horas": 24,
 "relampago": [
 {
@@ -550,6 +550,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "47501432156",
+"cod": "R88",
+"nome": "Potes De Inox Conjunto Multiuso 5 Andares Com Tampa",
+"preco": 24.99,
+"de": 36.22,
+"desconto": 31,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lk-mudwktvqz3sxa0",
+"link": "https://s.shopee.com.br/9KjnvjQfol",
+"nota": 4.7,
+"vendas": 4242,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T20:57:41"
+},
+{
+"item": "22998537863",
+"cod": "R87",
+"nome": "Conjunto Bowls de Inox Electrolux com Tampa Plástica 3 Peças",
+"preco": 75.9,
+"de": 110.0,
+"desconto": 31,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7ravq-ma39e49pvz1o79",
+"link": "https://s.shopee.com.br/AUvlJnSij6",
+"nota": 5.0,
+"vendas": 8423,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T20:56:11"
+},
 {
 "item": "23994387054",
 "cod": "R86",
@@ -3541,38 +3573,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T21:06:48"
-},
-{
-"item": "22393226536",
-"cod": "R63",
-"nome": "Bermuda Esportiva Masculina Short Para Corridas e Academia",
-"preco": 19.96,
-"de": 44.36,
-"desconto": 55,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820me-mtyn8u6v2i9u93",
-"link": "https://s.shopee.com.br/4B1gBO9Ue0",
-"nota": 4.7,
-"vendas": 10851,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T20:58:19"
-},
-{
-"item": "22492675357",
-"cod": "R62",
-"nome": "Novo Guarda Chuva Automático Alta Resistência a Chuvas e Vento Forte Com Proteção UV",
-"preco": 26.99,
-"de": 59.98,
-"desconto": 55,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-md27szddhb8ye6",
-"link": "https://s.shopee.com.br/30pin8pcHF",
-"nota": 4.9,
-"vendas": 49265,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T20:56:48"
 }
 ]
 }
