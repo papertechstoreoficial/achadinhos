@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T22:29:49",
+"atualizado": "2026-11-20T22:39:26",
 "horas": 24,
 "relampago": [
 {
@@ -737,27 +737,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-19T22:39:33"
-},
-{
-"item": "58203344879",
-"cod": "R49",
-"nome": "Mini modelador de cachos de cerâmica com temperatura ajustável, adequado para cabelos curtos e longos (10 mm)110/220V",
-"preco": 39.99,
-"de": 200.0,
-"desconto": 80,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134201-820lz-mqygxpsjipdw38",
-"link": "https://s.shopee.com.br/7fbWrjSC0R",
-"nota": 4.9,
-"vendas": 2106,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-19T22:37:34"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58268084688",
+"cod": "R81",
+"nome": "Calça Masculina Jogger Poliamida C/Elastano Esportiva Academia Slim Treino",
+"preco": 37.71,
+"de": 78.56,
+"desconto": 52,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ls-mti13qoyyy9uce",
+"link": "https://s.shopee.com.br/1W0v7MAQDB",
+"nota": 4.8,
+"vendas": 3526,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T22:38:19"
+},
+{
+"item": "21449768277",
+"cod": "R80",
+"nome": "Mini Umidificador Difusor Aromatizador Egg Portátil Usb Led Aromatizador De Ambiente Purificador De Ar Casa Escritório",
+"preco": 16.99,
+"de": 35.4,
+"desconto": 52,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-825am-mr8dslz05zpd88",
+"link": "https://s.shopee.com.br/1C7KUnpJ7",
+"nota": 4.8,
+"vendas": 4494,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T22:36:49"
+},
 {
 "item": "19697980846",
 "cod": "R79",
@@ -2085,38 +2101,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-19T23:40:38"
-},
-{
-"item": "20197726295",
-"cod": "R48",
-"nome": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso",
-"preco": 13.81,
-"de": 60.04,
-"desconto": 77,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-m7np9ti1i0ar99",
-"link": "https://s.shopee.com.br/9fMbF3tNn6",
-"nota": 4.9,
-"vendas": 8942,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-19T22:32:52"
-},
-{
-"item": "13527371956",
-"cod": "R47",
-"nome": "LIGE Relógio inteligente masculino à prova d'água com Bluetooth de freqüência cardíaca",
-"preco": 103.09,
-"de": 1288.63,
-"desconto": 92,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/cn-11134207-820l4-mnbbdry6953ca2",
-"link": "https://s.shopee.com.br/114cv0u0QQ",
-"nota": 4.8,
-"vendas": 100,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-19T22:30:50"
 }
 ]
 }
