@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T13:49:08",
+"atualizado": "2026-11-21T13:59:44",
 "horas": 24,
 "relampago": [
 {
@@ -662,6 +662,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "50769197080",
+"cod": "R22",
+"nome": "Manta de Natal 210x120 cm Gigante para Sofá e Cama Verde Vermelha Decorativa em Algodão Promocao Natalina",
+"preco": 29.99,
+"de": 49.98,
+"desconto": 40,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820la-mu9phj2k2ewy27",
+"link": "https://s.shopee.com.br/8VAgTPtnxy",
+"nota": 4.7,
+"vendas": 157,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T13:58:35"
+},
+{
+"item": "22092468067",
+"cod": "R21",
+"nome": "Suporte De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg Ajustável",
+"preco": 28.99,
+"de": 126.04,
+"desconto": 77,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m5-mrfxzho5t152d6",
+"link": "https://s.shopee.com.br/3B9A7Vq47F",
+"nota": 4.9,
+"vendas": 2036,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T13:57:03"
+},
 {
 "item": "48852424107",
 "cod": "R20",
