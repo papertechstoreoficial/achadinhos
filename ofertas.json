@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T14:30:04",
+"atualizado": "2026-11-21T14:40:25",
 "horas": 24,
 "relampago": [
 {
@@ -630,6 +630,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58269931005",
+"cod": "R30",
+"nome": "Porta Bombom Natalino Roupa Do Papai Noel Com Botinhas Pote Porta Doces Decoração De Mesa",
+"preco": 37.9,
+"de": 60.16,
+"desconto": 37,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820mb-mu3jydghhxc016",
+"link": "https://s.shopee.com.br/8KrGJp9l5K",
+"nota": 4.5,
+"vendas": 1138,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T14:38:13"
+},
+{
+"item": "58212018769",
+"cod": "R29",
+"nome": "Kits 10/30/50 Pratos Fundos Petalas Plasticos",
+"preco": 17.9,
+"de": 198.89,
+"desconto": 91,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134201-820m5-mqyoab17ulms8e",
+"link": "https://s.shopee.com.br/6AmljjlEW6",
+"nota": 4.8,
+"vendas": 1898,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T14:36:34"
+},
 {
 "item": "58255108734",
 "cod": "R28",
