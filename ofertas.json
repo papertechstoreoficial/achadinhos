@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T10:59:09",
+"atualizado": "2026-11-21T11:09:58",
 "horas": 24,
 "relampago": [
 {
@@ -465,27 +465,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T14:02:10"
-},
-{
-"item": "19999048089",
-"cod": "R04",
-"nome": "Escova Secadora Mondial By Juliette 1300w Es-ju-03 Bivolt",
-"preco": 116.28,
-"de": 227.99,
-"desconto": 49,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/id-11134258-81ztc-me3yjy0bgg02c5",
-"link": "https://s.shopee.com.br/8KrEU0E8tT",
-"nota": 5.0,
-"vendas": 721,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T11:01:10"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58259749592",
+"cod": "R81",
+"nome": "Kit Carregador 67W Turbo + Cabo Tipo-C Carga Rápida Universal Xiaomi Redmi Note E Poco X7 Android",
+"preco": 29.51,
+"de": 50.02,
+"desconto": 41,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8258n-mr8vmek85csha1",
+"link": "https://s.shopee.com.br/W8Ol0HvwB",
+"nota": 4.5,
+"vendas": 9347,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T11:08:00"
+},
+{
+"item": "22594542431",
+"cod": "R80",
+"nome": "iPhone 17 Pro / 17 Pro Max 256GB • Novo Original NF Lacrado",
+"preco": 8776.0,
+"de": 15131.03,
+"desconto": 42,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhcaeeg33imda2",
+"link": "https://s.shopee.com.br/gRoxCy8Vg",
+"nota": 4.9,
+"vendas": 102,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T11:06:31"
+},
 {
 "item": "58262387632",
 "cod": "R79",
