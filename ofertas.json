@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T05:39:42",
+"atualizado": "2026-11-21T05:50:00",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58215725933",
+"cod": "R40",
+"nome": "Descascador de Legumes Multifuncionalozinha 2 em 1 Descascador de Aço Inoxidável 2026 com Cabo de Madeira e Abrido",
+"preco": 16.99,
+"de": 32.67,
+"desconto": 48,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-825am-mrkgj9bt4tmv0c",
+"link": "https://s.shopee.com.br/8pnWKP7YCv",
+"nota": 4.6,
+"vendas": 1579,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T05:48:52"
+},
+{
+"item": "23298776429",
+"cod": "R39",
+"nome": "Ventilador 100w Turbo de Teto Silencioso Oval 6 Pás LED 3 Cores E27 Controle Função Timing Bivolt",
+"preco": 46.91,
+"de": 90.21,
+"desconto": 48,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-825ay-mv7wpzz38s918f",
+"link": "https://s.shopee.com.br/8AXpX4llpv",
+"nota": 4.8,
+"vendas": 2815,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T05:47:25"
+},
 {
 "item": "23193518683",
 "cod": "R38",
