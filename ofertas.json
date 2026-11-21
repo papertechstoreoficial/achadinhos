@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T18:49:14",
+"atualizado": "2026-11-21T18:59:10",
 "horas": 24,
 "relampago": [
 {
@@ -566,6 +566,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22394227921",
+"cod": "R70",
+"nome": "Xicara Casquinha com Chocolate Café Cup Comestível Marvi",
+"preco": 19.48,
+"de": 29.97,
+"desconto": 35,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m7-mugro3iiuvb6df",
+"link": "https://s.shopee.com.br/2VtTexOldz",
+"nota": 4.9,
+"vendas": 1338,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T18:58:03"
+},
+{
+"item": "58271196603",
+"cod": "R69",
+"nome": "4x3M 3x3M 300 Luz De Cortina LED 8 Modos De Iluminação De Fada USB Para Decorações Natal 110v-220v",
+"preco": 25.99,
+"de": 39.98,
+"desconto": 35,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lj-mumvuob86xoi89",
+"link": "https://s.shopee.com.br/7fbZoLhbb4",
+"nota": 4.8,
+"vendas": 4513,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T18:56:33"
+},
 {
 "item": "23597644324",
 "cod": "R68",
@@ -3493,38 +3525,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T19:16:45"
-},
-{
-"item": "19197735852",
-"cod": "R48",
-"nome": "Jogo de Soquetes 46 Peças com Chave Catraca Bits e Maleta Kit de Ferramentas",
-"preco": 27.99,
-"de": 66.64,
-"desconto": 58,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-8259q-mvlx6ejdfu9z2a",
-"link": "https://s.shopee.com.br/6fj11iMTvU",
-"nota": 4.7,
-"vendas": 3257,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T18:57:53"
-},
-{
-"item": "22694175155",
-"cod": "R47",
-"nome": "Kit Relógio Masculino Aço Inox Resistente a Água Com Corrente Cruz e Pulseira Presente Dia Dos Pais",
-"preco": 32.7,
-"de": 79.76,
-"desconto": 59,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-7ra1g-mbegptrb839scc",
-"link": "https://s.shopee.com.br/3g5PS7eFko",
-"nota": 4.5,
-"vendas": 359,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T18:56:24"
 }
 ]
 }
