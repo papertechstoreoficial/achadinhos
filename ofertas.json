@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T09:48:21",
+"atualizado": "2026-11-21T09:59:16",
 "horas": 24,
 "relampago": [
 {
@@ -486,6 +486,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "20698275228",
+"cod": "R67",
+"nome": "Kit Limpador Pastilha de máquina de lavar roupa, comprimido efervescente sólido para remover manchas【】",
+"preco": 8.59,
+"de": 15.34,
+"desconto": 44,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7rdwt-mcjqjjrew9uu86",
+"link": "https://s.shopee.com.br/906wnnIlSL",
+"nota": 4.8,
+"vendas": 13472,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T09:57:18"
+},
+{
+"item": "22193566084",
+"cod": "R66",
+"nome": "Calcinha de Emagrecimento / Cinta Modeladora / Roupa Íntima / Afina a Barriga Leggings Calça Feminina 2024",
+"preco": 27.99,
+"de": 49.98,
+"desconto": 44,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134201-820lg-mqxo1w6fkcna02",
+"link": "https://s.shopee.com.br/70LsQ2bXaG",
+"nota": 4.9,
+"vendas": 22604,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T09:56:12"
+},
 {
 "item": "22499247158",
 "cod": "R65",
