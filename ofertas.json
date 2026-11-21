@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T15:21:19",
+"atualizado": "2026-11-21T15:40:13",
 "horas": 24,
 "relampago": [
 {
@@ -630,6 +630,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "21499832281",
+"cod": "R36",
+"nome": "Mix de castanhas sem uva passa 2 QUILOS 1 QUILO 500 GRAMAS/CASTANHA DO PARA/CASTANHA DE CAJU/NOZES/AMÊNDOA",
+"preco": 29.9,
+"de": 46.72,
+"desconto": 36,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-may9qoeinibz9d",
+"link": "https://s.shopee.com.br/1BO5qnzEPH",
+"nota": 4.7,
+"vendas": 10743,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T15:38:11"
+},
+{
+"item": "58256926114",
+"cod": "R35",
+"nome": "Carregador Portátil 5000Mah/10000Mah Indução Sem fio Bateria Carga",
+"preco": 28.86,
+"de": 169.76,
+"desconto": 83,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ln-mlske0kwri132f",
+"link": "https://s.shopee.com.br/1BO5qhbFyn",
+"nota": 4.7,
+"vendas": 9169,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T15:37:01"
+},
 {
 "item": "52456506098",
 "cod": "R34",
