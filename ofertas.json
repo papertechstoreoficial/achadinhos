@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T04:30:52",
+"atualizado": "2026-11-21T04:39:45",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "21678240017",
+"cod": "R26",
+"nome": "Creme Gel Regenerador Facial Gota de Colágeno Kokeshi 45g",
+"preco": 31.9,
+"de": 63.8,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lp-mrvgs50iy8zr1f",
+"link": "https://s.shopee.com.br/AAItq1ZjXN",
+"nota": 4.9,
+"vendas": 7011,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T04:38:39"
+},
+{
+"item": "18499853587",
+"cod": "R25",
+"nome": "Carregador Sem Fio 5000/10000mAh iPhone",
+"preco": 28.85,
+"de": 57.7,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-mavkx3k4v9n308",
+"link": "https://s.shopee.com.br/60TKsHw0zw",
+"nota": 4.7,
+"vendas": 10954,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T04:37:05"
+},
 {
 "item": "20999203046",
 "cod": "R24",
