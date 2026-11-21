@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T09:59:16",
+"atualizado": "2026-11-21T10:09:40",
 "horas": 24,
 "relampago": [
 {
@@ -486,6 +486,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58216934841",
+"cod": "R69",
+"nome": "Kit 03 Unidades Azeite Extra Virgem 500ml Cocinero",
+"preco": 71.9,
+"de": 128.39,
+"desconto": 44,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-82582-msjsn89jmkg8c8",
+"link": "https://s.shopee.com.br/2BGcfvNQA2",
+"nota": 4.9,
+"vendas": 2985,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T10:07:42"
+},
+{
+"item": "21297578652",
+"cod": "R68",
+"nome": "Sandália ortopédica feminina Terapêutica para Esporão Chinelo ortopédico",
+"preco": 32.0,
+"de": 57.14,
+"desconto": 44,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m9t94f0t2lo94f",
+"link": "https://s.shopee.com.br/AKcKOqyosK",
+"nota": 4.6,
+"vendas": 5380,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T10:06:12"
+},
 {
 "item": "20698275228",
 "cod": "R67",
