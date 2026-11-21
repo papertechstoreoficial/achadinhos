@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T13:59:44",
+"atualizado": "2026-11-21T14:10:06",
 "horas": 24,
 "relampago": [
 {
@@ -641,27 +641,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T14:16:35"
-},
-{
-"item": "58261535202",
-"cod": "R05",
-"nome": "E88 Dual Camera 4K Drone With 1 Battery WI-FI BLACK NEW",
-"preco": 118.74,
-"de": 400.0,
-"desconto": 70,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lz-morzkso9ttl260",
-"link": "https://s.shopee.com.br/5AuCuawsSQ",
-"nota": 4.7,
-"vendas": 149,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T14:02:10"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "45665166927",
+"cod": "R24",
+"nome": "Fritadeira Elétrica 4L com Cesto de Vidro 1500W AFV-101 Air Fryer Travessa de vidro com Tampa Kian",
+"preco": 374.99,
+"de": 604.82,
+"desconto": 38,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-825aq-mtfcjtdfxatj39",
+"link": "https://s.shopee.com.br/5VX4uYkCAt",
+"nota": 5.0,
+"vendas": 1336,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T14:08:08"
+},
+{
+"item": "22094238842",
+"cod": "R23",
+"nome": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
+"preco": 24.9,
+"de": 40.16,
+"desconto": 38,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m1-mukoqlfdn280c5",
+"link": "https://s.shopee.com.br/W8OxGNj23",
+"nota": 4.8,
+"vendas": 6036,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T14:06:36"
+},
 {
 "item": "50769197080",
 "cod": "R22",
