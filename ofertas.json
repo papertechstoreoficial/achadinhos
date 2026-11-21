@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T22:39:26",
+"atualizado": "2026-11-20T22:49:57",
 "horas": 24,
 "relampago": [
 {
@@ -721,27 +721,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-19T22:58:11"
-},
-{
-"item": "52758391768",
-"cod": "R50",
-"nome": "UR SUGAR 150g Gel de Extensão de Unhas Rosa Nude Leitoso Construção Rápida Auto-nivelante Gel UV Duro Construção",
-"preco": 61.09,
-"de": 190.0,
-"desconto": 68,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/cn-11134207-820l4-mn2sftd8xtkx0d",
-"link": "https://s.shopee.com.br/70Lq4drlDB",
-"nota": 4.9,
-"vendas": 1668,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-19T22:39:33"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58211596691",
+"cod": "R83",
+"nome": "Regata Feminina Laforet Forrada Avulsa ou Kit com 2 Blusa Social Casual Elegante Trabalho",
+"preco": 26.12,
+"de": 90.07,
+"desconto": 71,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lp-mtigoarlkwsg92",
+"link": "https://s.shopee.com.br/LoxjvsM42",
+"nota": 4.8,
+"vendas": 559,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T22:48:48"
+},
+{
+"item": "22398378426",
+"cod": "R82",
+"nome": "Tablet 12GB RAM +512GB HD 10,1 Polegadas Tela Grande PC pad Android Dual SIM Card Câmera 30MP e 13MP WIFI 5G 8000mAh",
+"preco": 990.0,
+"de": 3960.0,
+"desconto": 75,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m7-mpvp9btz22gx7a",
+"link": "https://s.shopee.com.br/9pg33HyTb7",
+"nota": 4.8,
+"vendas": 271,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T22:47:18"
+},
 {
 "item": "58268084688",
 "cod": "R81",
