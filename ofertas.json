@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T14:10:06",
+"atualizado": "2026-11-21T14:15:54",
 "horas": 24,
 "relampago": [
 {
@@ -646,6 +646,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22593915398",
+"cod": "R26",
+"nome": "Chaleira Elétrica Jarra Café Chá Inox 110v",
+"preco": 44.9,
+"de": 71.27,
+"desconto": 37,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m9-mr7oweocldl204",
+"link": "https://s.shopee.com.br/6VPc6qqjW8",
+"nota": 4.9,
+"vendas": 3956,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T14:14:44"
+},
+{
+"item": "58207182636",
+"cod": "R25",
+"nome": "Kit Com 12 potes 800ml Tampa Com Trava Marmita Fitness Lavavel Freezer Microondas Durável BPAFree",
+"preco": 37.49,
+"de": 59.51,
+"desconto": 37,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lc-mlziaikq0bgk4a",
+"link": "https://s.shopee.com.br/W8OxicoTy",
+"nota": 4.8,
+"vendas": 5850,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T14:13:13"
+},
 {
 "item": "45665166927",
 "cod": "R24",
