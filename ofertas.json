@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T14:15:54",
+"atualizado": "2026-11-21T14:30:04",
 "horas": 24,
 "relampago": [
 {
@@ -625,27 +625,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T16:27:00"
-},
-{
-"item": "58260647499",
-"cod": "R06",
-"nome": "JOYFOX Inflatable Mattress Double and Single with Portable Electric Pump Pillows and Camping Bag",
-"preco": 179.55,
-"de": 599.0,
-"desconto": 70,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820l4-mpd9bna4dwxs4f",
-"link": "https://s.shopee.com.br/AKcJ58LgMT",
-"nota": 4.8,
-"vendas": 533,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T14:16:35"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58255108734",
+"cod": "R28",
+"nome": "Conjunto Academia Feminino Short Legging Camiseta Três Faixas",
+"preco": 49.77,
+"de": 79.0,
+"desconto": 37,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81zu8-mkme9sxu718iee",
+"link": "https://s.shopee.com.br/40iH9Aqpw9",
+"nota": 4.8,
+"vendas": 1342,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T14:28:05"
+},
+{
+"item": "23993933147",
+"cod": "R27",
+"nome": "Micro-ondas Britânia 20L Pintura Limpa Fácil BMO23",
+"preco": 449.9,
+"de": 714.13,
+"desconto": 37,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8259n-muxmc5ar8w7ac2",
+"link": "https://s.shopee.com.br/5q9vKRD9VM",
+"nota": 4.9,
+"vendas": 3114,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T14:26:34"
+},
 {
 "item": "22593915398",
 "cod": "R26",
