@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T16:38:49",
+"atualizado": "2026-11-21T16:50:01",
 "horas": 24,
 "relampago": [
 {
@@ -614,6 +614,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58262800687",
+"cod": "R46",
+"nome": "Kit 6 Cores Caneta Carimbo Roller Colorido Papelaria/Papelaria Fofa",
+"preco": 18.99,
+"de": 46.32,
+"desconto": 59,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lc-mscwhvga7fgn36",
+"link": "https://s.shopee.com.br/4VeXthhIUI",
+"nota": 4.8,
+"vendas": 2223,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T16:48:02"
+},
+{
+"item": "58221651428",
+"cod": "R45",
+"nome": "Máquina Seladora a Vácuo 8 em 1 Bivolt para Alimentos Secos e Úmidos com Cortador e 10 Sacos",
+"preco": 74.89,
+"de": 202.41,
+"desconto": 63,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-825a5-muuo9ng1ohky9e",
+"link": "https://s.shopee.com.br/9fMe364Brr",
+"nota": 4.8,
+"vendas": 325,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T16:46:32"
+},
 {
 "item": "23494419761",
 "cod": "R44",
@@ -3573,38 +3605,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T16:56:59"
-},
-{
-"item": "22594205202",
-"cod": "R19",
-"nome": "Fatiador Profissional Multifuncional De Aço Inoxidável 16 Em 1 Para Vegetais/Frutas/Legumes",
-"preco": 29.99,
-"de": 85.69,
-"desconto": 65,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhjfa9ir0mbq21",
-"link": "https://s.shopee.com.br/9fMcSL02Sl",
-"nota": 4.8,
-"vendas": 7788,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T16:48:27"
-},
-{
-"item": "23898692172",
-"cod": "R18",
-"nome": "Ventilador de Teto com Luz Silencioso Controle Remoto Economica Instalação Fácil LED Bivolt E27",
-"preco": 57.77,
-"de": 169.91,
-"desconto": 66,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-7rdwy-mbw84yf3pvcl00",
-"link": "https://s.shopee.com.br/9pg2eXbQhE",
-"nota": 4.8,
-"vendas": 10301,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T16:46:57"
 }
 ]
 }
