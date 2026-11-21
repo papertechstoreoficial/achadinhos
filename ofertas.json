@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T10:38:46",
+"atualizado": "2026-11-21T10:49:36",
 "horas": 24,
 "relampago": [
 {
@@ -486,6 +486,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "42515045410",
+"cod": "R77",
+"nome": "Barbeador Elétrico Feminino 4 em 1 Recarregável, Kit de Aparição para Rosto, Nariz, Pernas e Axilas, Máquina de Barbear",
+"preco": 56.99,
+"de": 99.98,
+"desconto": 43,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lp-mmw14ad5z01ua9",
+"link": "https://s.shopee.com.br/2gCtJaVd72",
+"nota": 4.8,
+"vendas": 4348,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T10:47:39"
+},
+{
+"item": "22816294190",
+"cod": "R76",
+"nome": "Mop Spray Com Reservatório Esfregão Vassoura Mágica",
+"preco": 39.99,
+"de": 70.16,
+"desconto": 43,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820la-mvez7i0di6te6d",
+"link": "https://s.shopee.com.br/30pji7ff0y",
+"nota": 4.8,
+"vendas": 6797,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T10:46:11"
+},
 {
 "item": "23091546001",
 "cod": "R75",
