@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T03:29:42",
+"atualizado": "2026-11-21T03:39:39",
 "horas": 24,
 "relampago": [
 {
@@ -753,43 +753,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T03:41:00"
-},
-{
-"item": "58254036883",
-"cod": "R77",
-"nome": "Batom Mágico SACE LADY hidratante labial de longa duração brilho",
-"preco": 46.99,
-"de": 129.0,
-"desconto": 64,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820me-mr6rlefcuj2f30",
-"link": "https://s.shopee.com.br/7Kygnoz1aU",
-"nota": 4.8,
-"vendas": 187,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T03:39:21"
-},
-{
-"item": "58251393896",
-"cod": "R76",
-"nome": "Estrado de Metal para Cama solteiro Casal Colchão Cama Box Fácil Montar Ripas Aço Suporta 500kg",
-"preco": 174.93,
-"de": 500.0,
-"desconto": 65,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820ll-mtamui54vtoj17",
-"link": "https://s.shopee.com.br/AAIsASXe9y",
-"nota": 5.0,
-"vendas": 731,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T03:30:44"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22098866638",
+"cod": "R14",
+"nome": "Projetor Natalino Refletor Luzes de Natal Com 16 Desenhos 3D A Laser Decorativo Bivolt Portátil",
+"preco": 47.77,
+"de": 99.52,
+"desconto": 52,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m7-msyar5dapqfaf6",
+"link": "https://s.shopee.com.br/40iGQZPkwV",
+"nota": 4.8,
+"vendas": 2860,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T03:38:31"
+},
+{
+"item": "22499181960",
+"cod": "R13",
+"nome": "Kit 2x Magnésio & Inositol Com Melatonina 210g Bodyaction",
+"preco": 89.9,
+"de": 187.29,
+"desconto": 52,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgy0t30xnmrpf1",
+"link": "https://s.shopee.com.br/5VX4DFQSuJ",
+"nota": 5.0,
+"vendas": 3424,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T03:37:04"
+},
 {
 "item": "58257412160",
 "cod": "R12",
