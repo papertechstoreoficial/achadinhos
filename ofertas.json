@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T13:40:14",
+"atualizado": "2026-11-21T13:49:08",
 "horas": 24,
 "relampago": [
 {
@@ -662,6 +662,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "48852424107",
+"cod": "R20",
+"nome": "Jogo De Taças De Vidro Diamond Cristal 330 ml 6 Peças",
+"preco": 36.9,
+"de": 59.52,
+"desconto": 38,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lg-mr201woae6thda",
+"link": "https://s.shopee.com.br/80EPrm55Qn",
+"nota": 4.9,
+"vendas": 6821,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T13:48:00"
+},
+{
+"item": "58261760024",
+"cod": "R19",
+"nome": "Aparador Feminino  4 Em 1 Recarregável USB Depilador Sobrancelha Nariz Axila Corpo 500mAh",
+"preco": 36.5,
+"de": 58.87,
+"desconto": 38,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820la-moy94uiglu6862",
+"link": "https://s.shopee.com.br/1LhVvQAtJi",
+"nota": 4.9,
+"vendas": 10681,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T13:46:31"
+},
 {
 "item": "58250096011",
 "cod": "R18",
