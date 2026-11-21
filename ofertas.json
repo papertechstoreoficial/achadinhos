@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T20:59:26",
+"atualizado": "2026-11-20T21:09:27",
 "horas": 24,
 "relampago": [
 {
@@ -758,6 +758,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58250487610",
+"cod": "R65",
+"nome": "Balança Digital Corporal Bioimpedância Inteligente Epsilon Corporal 180kg Aplicativo Bluetooth vidro temperado",
+"preco": 26.95,
+"de": 59.89,
+"desconto": 55,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820mc-mv6c30irqccg0d",
+"link": "https://s.shopee.com.br/1LhUorpmPN",
+"nota": 4.9,
+"vendas": 5032,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T21:08:17"
+},
+{
+"item": "23025155762",
+"cod": "R64",
+"nome": "Grill e Sanduicheira Fama FGR01 Revestimento Cerâmico 750W",
+"preco": 49.9,
+"de": 110.89,
+"desconto": 55,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-825bd-muw5iewyqdca83",
+"link": "https://s.shopee.com.br/BVXQcaEXU",
+"nota": 4.9,
+"vendas": 5160,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T21:06:48"
+},
 {
 "item": "22393226536",
 "cod": "R63",
