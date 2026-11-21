@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T22:18:59",
+"atualizado": "2026-11-20T22:29:49",
 "horas": 24,
 "relampago": [
 {
@@ -758,6 +758,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "19697980846",
+"cod": "R79",
+"nome": "Ventilador Luminária Led 6 Pás Lâmpada Soquete Bocal E27 Teto 3 Cores Luz Branco Amarelo Bivolt",
+"preco": 42.99,
+"de": 89.56,
+"desconto": 52,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqkzkrt4w03ba",
+"link": "https://s.shopee.com.br/1LhUuMNc7V",
+"nota": 4.8,
+"vendas": 9094,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T22:28:16"
+},
+{
+"item": "58252841983",
+"cod": "R78",
+"nome": "1/2/3 Cola Calçados Cola Pra Conserto De Sapatos Cola Para Conserto De Sapatos Resistente A Altas Temperaturas",
+"preco": 10.0,
+"de": 20.83,
+"desconto": 52,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ls-mte02sz6uarl0e",
+"link": "https://s.shopee.com.br/W8NujBxG7",
+"nota": 4.7,
+"vendas": 11177,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T22:26:46"
+},
 {
 "item": "19798323901",
 "cod": "R77",
