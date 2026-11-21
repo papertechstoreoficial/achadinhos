@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T17:59:12",
+"atualizado": "2026-11-21T18:08:48",
 "horas": 24,
 "relampago": [
 {
@@ -566,6 +566,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58207345978",
+"cod": "R60",
+"nome": "Capa Máquina de Lavar Universal 9kg 10kg 11kg 12kg 13kg 14kg 15kg 16kg 17kg 18kg Impermeável Flanelada Reforçada",
+"preco": 29.99,
+"de": 49.16,
+"desconto": 39,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lw-mqanlqb91zpdda",
+"link": "https://s.shopee.com.br/30pkCPvOkl",
+"nota": 4.6,
+"vendas": 6147,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T18:07:39"
+},
+{
+"item": "23598647620",
+"cod": "R59",
+"nome": "Gancho de Parede Autocolante Design Luxuoso Base Acrílica Pendurar Multiuso",
+"preco": 8.99,
+"de": 14.98,
+"desconto": 40,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb3g6hv7a45r5f",
+"link": "https://s.shopee.com.br/5q9vZXvMUK",
+"nota": 4.8,
+"vendas": 1202,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T18:06:11"
+},
 {
 "item": "22294726823",
 "cod": "R58",
@@ -3493,38 +3525,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T18:16:45"
-},
-{
-"item": "18798022237",
-"cod": "R38",
-"nome": "Escova de Limpeza Elétrica 9 em 1 com Cabo Alongador - Rotatória e Recarregável",
-"preco": 69.9,
-"de": 179.23,
-"desconto": 61,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mitm57s3vlz5c5",
-"link": "https://s.shopee.com.br/8pnVYIOjwT",
-"nota": 4.8,
-"vendas": 553,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T18:08:01"
-},
-{
-"item": "22491618254",
-"cod": "R37",
-"nome": "Fone Bluetooth Sem Fio De Ouvido  P9 TWS Macaron Headphone Fone de Ouvido  Envio Imediato",
-"preco": 22.99,
-"de": 58.95,
-"desconto": 61,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-lomqjeb9ouk2cc",
-"link": "https://s.shopee.com.br/BVXEI6Pp8",
-"nota": 4.7,
-"vendas": 2965,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T18:06:53"
 }
 ]
 }
