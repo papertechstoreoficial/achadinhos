@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T12:59:10",
+"atualizado": "2026-11-21T13:09:09",
 "horas": 24,
 "relampago": [
 {
@@ -662,6 +662,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58265239625",
+"cod": "R12",
+"nome": "Até 4 Rolos Sacos de Lixo 10L 160 Unidades Perfumado Cheiroso Lavanda Tira Odores Pia Banheiro",
+"preco": 9.4,
+"de": 18.08,
+"desconto": 48,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ly-mt81y9as5j4062",
+"link": "https://s.shopee.com.br/1qdmThDZQs",
+"nota": 4.9,
+"vendas": 2981,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T13:08:02"
+},
+{
+"item": "58269531963",
+"cod": "R11",
+"nome": "Kit Coala Coleção de Lançamentos - Limpadores Perfumados Coala 500ml",
+"preco": 29.9,
+"de": 59.8,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l6-mts5kylhkpoh2a",
+"link": "https://s.shopee.com.br/3Vm0SejJtn",
+"nota": 4.9,
+"vendas": 11229,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T13:06:32"
+},
 {
 "item": "22499538802",
 "cod": "R10",
