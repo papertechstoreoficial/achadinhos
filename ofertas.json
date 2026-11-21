@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T17:00:02",
+"atualizado": "2026-11-21T17:09:38",
 "horas": 24,
 "relampago": [
 {
@@ -593,27 +593,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T17:17:18"
-},
-{
-"item": "58266177953",
-"cod": "R22",
-"nome": "Hidrabene GHK-Cu Copper Peptide Facial Serum – Firming and Density 700 Nano Peptides",
-"preco": 68.56,
-"de": 199.9,
-"desconto": 66,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lb-mul5tmdl5eyob2",
-"link": "https://s.shopee.com.br/6VPahTb4Pw",
-"nota": 4.9,
-"vendas": 2722,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T17:02:57"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "20199713818",
+"cod": "R50",
+"nome": "Monitor De Pressão Arterial De Pulso Recarregável Alta XYY-2551",
+"preco": 39.95,
+"de": 199.75,
+"desconto": 80,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m94shi4qyr0902",
+"link": "https://s.shopee.com.br/50aoVyP3qV",
+"nota": 4.9,
+"vendas": 13798,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T17:07:41"
+},
+{
+"item": "23399366678",
+"cod": "R49",
+"nome": "Kit 12/24/36/48/60 Cores Caneta 2 em 1 Brush Lettering e Ponta Fina Dual Pen Canetinha Colorir Desenho",
+"preco": 4.09,
+"de": 21.53,
+"desconto": 81,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8260p-mlodfol25o8x5a",
+"link": "https://s.shopee.com.br/4fxy7HWoqf",
+"nota": 4.9,
+"vendas": 2027,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T17:06:12"
+},
 {
 "item": "56769005539",
 "cod": "R48",
@@ -3573,38 +3589,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T17:18:33"
-},
-{
-"item": "58215216165",
-"cod": "R24",
-"nome": "Suporte De Cabeça P/ Celular - Meudome",
-"preco": 59.1,
-"de": 164.17,
-"desconto": 64,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820ma-msu4hn6eq8li0e",
-"link": "https://s.shopee.com.br/6L6AVPeNNm",
-"nota": 4.9,
-"vendas": 123,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T17:05:55"
-},
-{
-"item": "18698147487",
-"cod": "R23",
-"nome": "Escova Elétrica Giratória 9 em 1 Recarregável com Cabo Alongador ，Limpeza Multiuso",
-"preco": 65.6,
-"de": 182.22,
-"desconto": 64,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820m2-mmireijlz4sg78",
-"link": "https://s.shopee.com.br/7fbY5lBKGi",
-"nota": 4.8,
-"vendas": 6851,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T17:04:26"
 }
 ]
 }
