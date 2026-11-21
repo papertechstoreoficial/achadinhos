@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T03:03:00",
+"atualizado": "2026-11-21T03:10:47",
 "horas": 24,
 "relampago": [
 {
@@ -849,43 +849,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T03:11:01"
-},
-{
-"item": "58212228299",
-"cod": "R71",
-"nome": "Smartwatch Original X5 PRO MAX+7 Pulseiras | Chamada Bluetooth | À prova d'água IP67 | GPS NFC ChatGPT| Relógio Intelige",
-"preco": 82.65,
-"de": 309.99,
-"desconto": 73,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820l8-mpal4kvg87i98a",
-"link": "https://s.shopee.com.br/8KrDxalOZ6",
-"nota": 4.9,
-"vendas": 247,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T03:09:14"
-},
-{
-"item": "58204513889",
-"cod": "R70",
-"nome": "Nobreak Portátil AITEK ANB-036 10400mAh - 36W para Roteadores e Câmeras",
-"preco": 166.91,
-"de": 720.0,
-"desconto": 77,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-81zu7-mktnhga7gsn7ee",
-"link": "https://s.shopee.com.br/1qdkD6x8nQ",
-"nota": 4.9,
-"vendas": 124,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T03:03:27"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22997647570",
+"cod": "R08",
+"nome": "Escova secador Modeladora Taiff Oval Easy Pink Original",
+"preco": 199.99,
+"de": 454.52,
+"desconto": 56,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7rdwk-m1d2ehidujdhf5",
+"link": "https://s.shopee.com.br/5VX4BJvL9K",
+"nota": 4.9,
+"vendas": 450,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T03:09:40"
+},
+{
+"item": "58264681920",
+"cod": "R07",
+"nome": "Cesto Organizador Dobrável Empilhável para Guarda-Roupa com Acesso Deslizante Heemli",
+"preco": 54.98,
+"de": 137.45,
+"desconto": 60,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-825b4-mqx2m3g91ywx9a",
+"link": "https://s.shopee.com.br/9zzTXUXUP4",
+"nota": 4.9,
+"vendas": 820,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T03:07:52"
+},
 {
 "item": "45468100867",
 "cod": "R06",
