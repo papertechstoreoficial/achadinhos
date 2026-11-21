@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T06:10:02",
+"atualizado": "2026-11-21T06:19:44",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22398543547",
+"cod": "R46",
+"nome": "Blusa Regata Feminina do G1 ao G5 Regata PLUS SIZE DUNA TOP",
+"preco": 23.99,
+"de": 45.26,
+"desconto": 47,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lx-mmqva92gkirr28",
+"link": "https://s.shopee.com.br/9AQMl4tpXR",
+"nota": 4.8,
+"vendas": 4739,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T06:18:36"
+},
+{
+"item": "58212889463",
+"cod": "R45",
+"nome": "Kit 10 Fusíveis Automotivos Mini ATM com Testador e Garra Jacaré BOMVINK BOM-5531",
+"preco": 15.99,
+"de": 30.17,
+"desconto": 47,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lh-ms0b37rcxouc98",
+"link": "https://s.shopee.com.br/5LDeBvgWwX",
+"nota": 4.8,
+"vendas": 7682,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T06:17:27"
+},
 {
 "item": "58252691738",
 "cod": "R44",
