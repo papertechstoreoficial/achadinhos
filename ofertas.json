@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T10:09:40",
+"atualizado": "2026-11-21T10:19:14",
 "horas": 24,
 "relampago": [
 {
@@ -486,6 +486,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22793405530",
+"cod": "R71",
+"nome": "Cascata 400Led's Decoração Natal Festas 10/5m Fixo ou 8 funcoes 110v/220v",
+"preco": 37.8,
+"de": 67.5,
+"desconto": 44,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0z5q1epawwu22",
+"link": "https://s.shopee.com.br/1LhVh6Z9Ky",
+"nota": 4.9,
+"vendas": 1232,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T10:18:05"
+},
+{
+"item": "23298825465",
+"cod": "R70",
+"nome": "Geleia Hidratante My Sweet Delight Barbour's Beauty 200g Fragrância Doce Desodorante Corporal",
+"preco": 39.9,
+"de": 71.25,
+"desconto": 44,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l9-mso8wwe2hypz27",
+"link": "https://s.shopee.com.br/114fIO7hTM",
+"nota": 4.9,
+"vendas": 2793,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T10:16:35"
+},
 {
 "item": "58216934841",
 "cod": "R69",
