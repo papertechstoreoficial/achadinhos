@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T19:20:00",
+"atualizado": "2026-11-21T19:49:12",
 "horas": 24,
 "relampago": [
 {
@@ -566,6 +566,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "51212825503",
+"cod": "R74",
+"nome": "Haste Adaptador Disco Para Furadeira Parafusadeira Rosca M10 UN",
+"preco": 16.81,
+"de": 25.09,
+"desconto": 33,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lm-mpwh7fe03bb43d",
+"link": "https://s.shopee.com.br/Loz8PUZNC",
+"nota": 4.8,
+"vendas": 3670,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T19:48:03"
+},
+{
+"item": "18399922551",
+"cod": "R73",
+"nome": "10 Unid . Flores Artificiais Árvore De Natal Glitter Decoração Presente De Ano Novo ANJIN",
+"preco": 19.9,
+"de": 29.7,
+"desconto": 33,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-82595-mg59v699hhjfbc",
+"link": "https://s.shopee.com.br/5LDf5UjZbD",
+"nota": 4.8,
+"vendas": 7223,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T19:46:33"
+},
 {
 "item": "23994288266",
 "cod": "R72",
@@ -3493,38 +3525,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T19:56:51"
-},
-{
-"item": "58218336342",
-"cod": "R52",
-"nome": "Descascador de legumes premium com lâmina de aço inoxidável cabo de madeira e abridor de garrafas",
-"preco": 13.99,
-"de": 32.53,
-"desconto": 57,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lz-mt8m4yhvls0387",
-"link": "https://s.shopee.com.br/1W0uveZIyv",
-"nota": 4.7,
-"vendas": 5036,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T19:47:58"
-},
-{
-"item": "23892669902",
-"cod": "R51",
-"nome": "3L Picador De Alimentos Moedor De Carne Mixer Elétrica Processador Cozinha Casa Alho - 110v-220v",
-"preco": 69.0,
-"de": 160.47,
-"desconto": 57,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820m8-mmcgl3nag8au55",
-"link": "https://s.shopee.com.br/W8NjjjbGA",
-"nota": 4.8,
-"vendas": 6218,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T19:46:25"
 }
 ]
 }
