@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T05:00:00",
+"atualizado": "2026-11-21T05:09:28",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23998779906",
+"cod": "R32",
+"nome": "Inova caixa de som bluetooth tws Luz RGB Xtreme 4 Pen Drive FM Tipo-C Resistente A Água IPX6 Caixinha de Som Boombox",
+"preco": 169.9,
+"de": 339.8,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-md18ytp2loaa9c",
+"link": "https://s.shopee.com.br/1C7lPQnRK",
+"nota": 4.9,
+"vendas": 828,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T05:08:19"
+},
+{
+"item": "58207336152",
+"cod": "R31",
+"nome": "Vestido Longo Um Ombro Só Fluido Elegante – Caimento Perfeito e Conforto",
+"preco": 39.95,
+"de": 79.9,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m9-mm2fpvbr2j2c0e",
+"link": "https://s.shopee.com.br/9AQMg8lrKx",
+"nota": 4.6,
+"vendas": 1964,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T05:07:12"
+},
 {
 "item": "18378306161",
 "cod": "R30",
