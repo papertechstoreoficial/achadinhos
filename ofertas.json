@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T06:00:04",
+"atualizado": "2026-11-21T06:10:02",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58252691738",
+"cod": "R44",
+"nome": "Uranyx A17 Pro Max 12.64 ou 12.128 GB ou 16.128 Premium Edition NFC",
+"preco": 876.15,
+"de": 1684.9,
+"desconto": 48,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m9-mvlovtx4xeki97",
+"link": "https://s.shopee.com.br/60TKyZS8WX",
+"nota": 4.9,
+"vendas": 172,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T06:08:55"
+},
+{
+"item": "22898911318",
+"cod": "R43",
+"nome": "INOVA fone sem fio bluetooth original fone iphone e Android sem fio headset gamer earpods microfone",
+"preco": 56.9,
+"de": 109.42,
+"desconto": 48,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgqecifsm0hx39",
+"link": "https://s.shopee.com.br/5VX4NY645n",
+"nota": 4.9,
+"vendas": 512,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T06:07:26"
+},
 {
 "item": "58266650025",
 "cod": "R42",
