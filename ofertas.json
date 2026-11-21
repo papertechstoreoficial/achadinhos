@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T04:20:00",
+"atualizado": "2026-11-21T04:30:52",
 "horas": 24,
 "relampago": [
 {
@@ -593,43 +593,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T07:59:40"
-},
-{
-"item": "58203836159",
-"cod": "R87",
-"nome": "Escova Alisadora Sem Fio Recarregável 2 em 1 com Íons Negativos Portátil",
-"preco": 40.79,
-"de": 120.0,
-"desconto": 66,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkips0hkyha946",
-"link": "https://s.shopee.com.br/60TJGQbkO3",
-"nota": 4.5,
-"vendas": 1629,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T04:22:58"
-},
-{
-"item": "58209055591",
-"cod": "R86",
-"nome": "Lixeira Automática 12 Litros Com Sensor Infravermelho Tampa Para Cozinha Banheiro Escritório Quarto CYD",
-"preco": 59.97,
-"de": 119.0,
-"desconto": 50,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/sg-11134201-7rdwa-mccb5id6es7v2d",
-"link": "https://s.shopee.com.br/AAIsDu8nXd",
-"nota": 4.9,
-"vendas": 5478,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T04:20:20"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "20999203046",
+"cod": "R24",
+"nome": "Ventilador Mondial 30cm Vsp 30 B 60hz Loi",
+"preco": 139.99,
+"de": 279.98,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lg-mralqrfevhfp9f",
+"link": "https://s.shopee.com.br/9AQMdWXguo",
+"nota": 4.9,
+"vendas": 17158,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T04:28:55"
+},
+{
+"item": "25946709329",
+"cod": "R23",
+"nome": "ULTRA HIDRATAÇÃO EFEITO TEIA COM ÓLEOS MARROQUINOS - OURO MARROQUINO - FINA MARIA PROFISSIONAL",
+"preco": 39.97,
+"de": 79.94,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8258h-mr1ynaykoao016",
+"link": "https://s.shopee.com.br/4fxxH9MrPX",
+"nota": 4.9,
+"vendas": 32028,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T04:27:27"
+},
 {
 "item": "3743287858",
 "cod": "R22",
