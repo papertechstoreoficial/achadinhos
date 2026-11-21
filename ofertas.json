@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T05:09:28",
+"atualizado": "2026-11-21T05:20:32",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23093473183",
+"cod": "R34",
+"nome": "Fone de Ouvido Bluetooth TWS Mini Clip-On com Display LED, Design de Orelha e Estojo Recarregável",
+"preco": 45.99,
+"de": 91.98,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l4-mv6ytfky2akhcc",
+"link": "https://s.shopee.com.br/2VtSkjuIX2",
+"nota": 4.8,
+"vendas": 136,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T05:19:24"
+},
+{
+"item": "58267719064",
+"cod": "R33",
+"nome": "22M Cordão de Luz Solar LED Natal Estrela Floco de Neve Árvore Decoração para Jardim e Varanda",
+"preco": 79.0,
+"de": 158.0,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820mb-msv7hhk4hds754",
+"link": "https://s.shopee.com.br/1LhVMUacwT",
+"nota": 4.7,
+"vendas": 685,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T05:17:56"
+},
 {
 "item": "23998779906",
 "cod": "R32",
