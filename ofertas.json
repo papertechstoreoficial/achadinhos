@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T06:40:03",
+"atualizado": "2026-11-21T06:50:03",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23097665129",
+"cod": "R52",
+"nome": "Cortina de Luz LED 3x3m Branco Quente 300 LEDs USB com Controle Remoto e 8 Modos",
+"preco": 29.88,
+"de": 55.33,
+"desconto": 46,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7rdxa-ly58kn0dlmr881",
+"link": "https://s.shopee.com.br/3g5QF1yGFC",
+"nota": 4.9,
+"vendas": 13071,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T06:48:56"
+},
+{
+"item": "55702430893",
+"cod": "R51",
+"nome": "Revitalizador de farol remove amarelado e aspecto fosco",
+"preco": 16.0,
+"de": 29.63,
+"desconto": 46,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mht87kjg5b7qd2",
+"link": "https://s.shopee.com.br/7AfIPMMxiH",
+"nota": 4.7,
+"vendas": 19077,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T06:47:27"
+},
 {
 "item": "58268784261",
 "cod": "R50",
