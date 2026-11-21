@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T04:00:03",
+"atualizado": "2026-11-21T04:10:01",
 "horas": 24,
 "relampago": [
 {
@@ -657,43 +657,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T04:10:12"
-},
-{
-"item": "58254110507",
-"cod": "R83",
-"nome": "Base Líquida Cushion Corretivo Foundation SACE LADY FPS30 Creme Alta Cobertura Aplicação Fácil",
-"preco": 76.99,
-"de": 179.0,
-"desconto": 57,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lx-mvmml7dy9am953",
-"link": "https://s.shopee.com.br/1LhTgs0chU",
-"nota": 4.9,
-"vendas": 849,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T04:08:40"
-},
-{
-"item": "58261060170",
-"cod": "R82",
-"nome": "Secador de Cabelo Philco Motor BLDC Fast Dry 1600W PSDE17A",
-"preco": 341.91,
-"de": 799.9,
-"desconto": 57,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/sg-11134201-825ay-muxvxel1qfwicd",
-"link": "https://s.shopee.com.br/7fbXDvMFzv",
-"nota": 4.9,
-"vendas": 490,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T04:00:09"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23598844056",
+"cod": "R20",
+"nome": "Organizador de Maquiagem Giratório – Suporte Multiuso 2/3 Andares p/ Cosméticos e Perfumes",
+"preco": 43.9,
+"de": 89.59,
+"desconto": 51,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mfv92cecwnpg7d",
+"link": "https://s.shopee.com.br/AKcK0IB8H3",
+"nota": 4.9,
+"vendas": 2433,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T04:08:54"
+},
+{
+"item": "58218273028",
+"cod": "R19",
+"nome": "Oculos para Vista Cansada Presbiopia Visão de Perto Descanso Com Proteção Uv 400 Anti Reflexo",
+"preco": 18.99,
+"de": 38.76,
+"desconto": 51,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8257s-mt7j438kjv29bd",
+"link": "https://s.shopee.com.br/60TKqE83Q9",
+"nota": 4.6,
+"vendas": 2758,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T04:07:25"
+},
 {
 "item": "23594439744",
 "cod": "R18",
