@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T06:19:44",
+"atualizado": "2026-11-21T06:29:29",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58210453796",
+"cod": "R48",
+"nome": "Tomada de Parede USB e USB-C Carregador Rápido 4 Em 1 Bivolt 10A 110V 220V Branco",
+"preco": 29.98,
+"de": 56.57,
+"desconto": 47,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lm-mveljo76yeiq25",
+"link": "https://s.shopee.com.br/9Kjmy3KdBn",
+"nota": 4.9,
+"vendas": 1429,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T06:28:23"
+},
+{
+"item": "22394461600",
+"cod": "R47",
+"nome": "Kit 100 Bolas de Natal com Estrela ou Kit 50 Enfeite Árvore Vermelha Dourada Mista Fosca Glitter",
+"preco": 79.9,
+"de": 150.75,
+"desconto": 47,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-82584-mu0wlh0ytywz41",
+"link": "https://s.shopee.com.br/AKcK9nxG4P",
+"nota": 4.9,
+"vendas": 2232,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T06:27:11"
+},
 {
 "item": "22398543547",
 "cod": "R46",
@@ -2453,22 +2485,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T06:53:48"
-},
-{
-"item": "45109594216",
-"cod": "R91",
-"nome": "Kit Pastilhas Efervescentes para Máquina de Lavar – Remove Mau Cheiro, Resíduos e Sujeira",
-"preco": 10.99,
-"de": 35.45,
-"desconto": 69,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820la-moe8i4uckd8jec",
-"link": "https://s.shopee.com.br/3LSYDmyigc",
-"nota": 4.7,
-"vendas": 6558,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T06:23:37"
 }
 ]
 }
