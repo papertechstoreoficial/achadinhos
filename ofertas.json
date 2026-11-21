@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T16:29:09",
+"atualizado": "2026-11-21T16:38:49",
 "horas": 24,
 "relampago": [
 {
@@ -614,6 +614,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23494419761",
+"cod": "R44",
+"nome": "uporte Universal de Alumínio De Base Com Rodinha Para Geladeira Fogão E Máquina De Lavar Lousa Base Carrinho até 200kg",
+"preco": 36.98,
+"de": 99.95,
+"desconto": 63,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mev5roo2xwcjfb",
+"link": "https://s.shopee.com.br/3B9AIXmChc",
+"nota": 4.9,
+"vendas": 7052,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T16:37:40"
+},
+{
+"item": "58215973813",
+"cod": "R43",
+"nome": "Pegador com Escorredor em Aço Inox Multifuncional para Frituras Alimentos Cozinha",
+"preco": 12.99,
+"de": 59.05,
+"desconto": 78,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820le-mrrlpmkrj3lx3d",
+"link": "https://s.shopee.com.br/50aoTpldzR",
+"nota": 4.8,
+"vendas": 5341,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T16:36:11"
+},
 {
 "item": "53606455119",
 "cod": "R42",
@@ -3573,54 +3605,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T16:46:57"
-},
-{
-"item": "23299165932",
-"cod": "R17",
-"nome": "Adjustable Cleaning Brush Window Bathroom and Kitchen Tool 9 IN 1 Rechargeable",
-"preco": 64.98,
-"de": 196.91,
-"desconto": 67,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820l5-mr76w4tnkohwd5",
-"link": "https://s.shopee.com.br/9Kjm32al0h",
-"nota": 4.8,
-"vendas": 488,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T16:38:14"
-},
-{
-"item": "22098699572",
-"cod": "R16",
-"nome": "Maquina De Barbear e Aparador Pelos Elétrico 3 Em 1 Kemei 6558",
-"preco": 49.49,
-"de": 149.97,
-"desconto": 67,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbh1jysdwd0i68",
-"link": "https://s.shopee.com.br/60TK4oGXGY",
-"nota": 4.7,
-"vendas": 3201,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T16:36:59"
-},
-{
-"item": "20997608223",
-"cod": "R15",
-"nome": "Caixa de som Bluetooth Portátil Com Led RGB Portátil FM USB TWS 30W Para Praia, Festa ou Viagem",
-"preco": 99.99,
-"de": 303.0,
-"desconto": 67,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-lqo1mmf95gcjc2",
-"link": "https://s.shopee.com.br/5VX3TR3UMG",
-"nota": 4.8,
-"vendas": 3417,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T16:30:26"
 }
 ]
 }
