@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-20T21:39:05",
+"atualizado": "2026-11-20T21:49:15",
 "horas": 24,
 "relampago": [
 {
@@ -758,6 +758,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58200560185",
+"cod": "R71",
+"nome": "Bomba de Ar Calibrador Digital Portátil Recarregável com Powerbank Compressor Elétrico para carro, moto, bicicleta",
+"preco": 59.75,
+"de": 129.89,
+"desconto": 54,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mgz1ko75qj2d95",
+"link": "https://s.shopee.com.br/50anEKmkU2",
+"nota": 4.9,
+"vendas": 945,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T21:48:06"
+},
+{
+"item": "43684764598",
+"cod": "R70",
+"nome": "Creatina Monohidratada 100% Pura 150g  importada  KRON",
+"preco": 22.35,
+"de": 48.59,
+"desconto": 54,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m1-mvpalk9f4mwzc0",
+"link": "https://s.shopee.com.br/6VPb10Vn35",
+"nota": 4.9,
+"vendas": 2319,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-20T21:46:31"
+},
 {
 "item": "19599890018",
 "cod": "R69",
