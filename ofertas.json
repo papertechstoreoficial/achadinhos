@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T13:19:09",
+"atualizado": "2026-11-21T13:29:46",
 "horas": 24,
 "relampago": [
 {
@@ -662,6 +662,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "9126540845",
+"cod": "R16",
+"nome": "Ring Light Iluminador 10 Polegadas Com Tripé De 2.10 Metro MarisaStore",
+"preco": 44.69,
+"de": 74.48,
+"desconto": 40,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-824i4-menfo9q4o93926",
+"link": "https://s.shopee.com.br/qlFJEZuJI",
+"nota": 4.8,
+"vendas": 385,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T13:28:04"
+},
+{
+"item": "21099702664",
+"cod": "R15",
+"nome": "Carregador Rápido Compativel 11 12 13 14 Pro Max X Xr Xs Completo 20W Lightning",
+"preco": 39.9,
+"de": 70.0,
+"desconto": 43,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkb3rlvsu6f744",
+"link": "https://s.shopee.com.br/50aoGmnCd2",
+"nota": 4.8,
+"vendas": 270,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T13:26:34"
+},
 {
 "item": "49506514106",
 "cod": "R14",
