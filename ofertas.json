@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T13:09:09",
+"atualizado": "2026-11-21T13:19:09",
 "horas": 24,
 "relampago": [
 {
@@ -662,6 +662,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "49506514106",
+"cod": "R14",
+"nome": "Bíblia para Jovens em Quadrinhos Histórias Bíblicas Antigo e Novo Testamento",
+"preco": 22.99,
+"de": 40.33,
+"desconto": 43,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ld-mvl9sts79m9ubb",
+"link": "https://s.shopee.com.br/8VAgQdJlAT",
+"nota": 4.9,
+"vendas": 1506,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T13:18:01"
+},
+{
+"item": "19199838517",
+"cod": "R13",
+"nome": "Fita Dupla Face Extra Forte Transparente NanoGel Silicone Mágica Adesiva Cola na Parede Móvel Porta",
+"preco": 10.99,
+"de": 19.28,
+"desconto": 43,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-mb2u1eh3a07j9b",
+"link": "https://s.shopee.com.br/4qHO3nE0SI",
+"nota": 4.8,
+"vendas": 7180,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T13:16:32"
+},
 {
 "item": "58265239625",
 "cod": "R12",
