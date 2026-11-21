@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T05:50:00",
+"atualizado": "2026-11-21T06:00:04",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58266650025",
+"cod": "R42",
+"nome": "Tablet Galaxy S12 Plus 12.8\" AMOLED com Teclado+Mouse Android 15 Câmera 48MP ming Wi-Fi/5G【12800mAh】",
+"preco": 1159.0,
+"de": 2228.85,
+"desconto": 48,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m0-mv4buonlpd6qf5",
+"link": "https://s.shopee.com.br/30pjONGRal",
+"nota": 4.8,
+"vendas": 551,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T05:58:56"
+},
+{
+"item": "22794690094",
+"cod": "R41",
+"nome": "Power Bank 20000/30000/50000mAh Carga Rápida Display Digital 33W~66W USB Type-C",
+"preco": 72.99,
+"de": 140.37,
+"desconto": 48,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-821g8-mh0rgqvlskjs8d",
+"link": "https://s.shopee.com.br/4qHNZdYI6A",
+"nota": 4.9,
+"vendas": 617,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T05:57:28"
+},
 {
 "item": "58215725933",
 "cod": "R40",
@@ -2373,22 +2405,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T06:23:37"
-},
-{
-"item": "58214074058",
-"cod": "R90",
-"nome": "Descascador Elétrico Multifuncional Recarregável para Frutas Legumes Uvas Alho e Tomate",
-"preco": 59.99,
-"de": 199.97,
-"desconto": 70,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820m0-mrfjark11y4kef",
-"link": "https://s.shopee.com.br/906uw8pjhw",
-"nota": 4.7,
-"vendas": 197,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T05:53:13"
 }
 ]
 }
