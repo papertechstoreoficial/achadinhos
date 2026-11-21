@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T18:38:50",
+"atualizado": "2026-11-21T18:49:14",
 "horas": 24,
 "relampago": [
 {
@@ -566,6 +566,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23597644324",
+"cod": "R68",
+"nome": "MIX NUTS PREMIUM CASTANHA DE CAJU, CASTANHA DO PARÁ, AMÊNDOA, UVAS PASSAS, NOZES, COCO CHIPS, AMENDOIM",
+"preco": 25.9,
+"de": 39.85,
+"desconto": 35,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ln-mt4acuotbz7o08",
+"link": "https://s.shopee.com.br/5q9vcOlWmG",
+"nota": 4.8,
+"vendas": 5614,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T18:48:05"
+},
+{
+"item": "53750943172",
+"cod": "R67",
+"nome": "Jogo De Panelas 10 Peças Antiaderente Conjunto Frigideira Fervedor tampa de vidro Cor Coffee Cappuccino Kit Talheres",
+"preco": 201.9,
+"de": 310.62,
+"desconto": 35,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m6-ms42s3kelced28",
+"link": "https://s.shopee.com.br/70Lt0RAAth",
+"nota": 4.7,
+"vendas": 9951,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T18:46:34"
+},
 {
 "item": "22797891574",
 "cod": "R66",
@@ -3493,38 +3525,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T18:56:24"
-},
-{
-"item": "58264778705",
-"cod": "R46",
-"nome": "Chinelo Preto Feminino Pedraria Confortável e Macio Pedrarias E Metal Elegância Para O Seu Verão",
-"preco": 24.5,
-"de": 59.76,
-"desconto": 59,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820mf-mqyzpfofe2o41f",
-"link": "https://s.shopee.com.br/1C74nkkvT",
-"nota": 4.8,
-"vendas": 3141,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T18:48:15"
-},
-{
-"item": "9478115936",
-"cod": "R45",
-"nome": "Suporte Porta Controle Videogame Gamer Para Ps4 Xbox Ps5",
-"preco": 19.85,
-"de": 49.62,
-"desconto": 60,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lr-mqz526mtnlzb5f",
-"link": "https://s.shopee.com.br/9V3CO9iLxH",
-"nota": 4.7,
-"vendas": 613,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T18:46:47"
 }
 ]
 }
