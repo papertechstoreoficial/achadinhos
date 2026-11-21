@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T04:39:45",
+"atualizado": "2026-11-21T04:50:06",
 "horas": 24,
 "relampago": [
 {
@@ -598,6 +598,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22392662498",
+"cod": "R28",
+"nome": "PALMILHA GEL P.U ORTOPÉDICA ANATOMICA PARA VARIAS HORAS DE TRABALHO ENVIO IMEDIATO",
+"preco": 7.98,
+"de": 15.96,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-lok76jfw3nvtd2",
+"link": "https://s.shopee.com.br/5VX4IA0C0g",
+"nota": 4.9,
+"vendas": 6445,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T04:48:57"
+},
+{
+"item": "45963749827",
+"cod": "R27",
+"nome": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/600ml com Tampa e Canudo Garrafa Térmica Inoxidável",
+"preco": 34.98,
+"de": 69.96,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lh-mtgcw2meqoeac6",
+"link": "https://s.shopee.com.br/7AfIH7Mams",
+"nota": 5.0,
+"vendas": 6497,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T04:47:28"
+},
 {
 "item": "21678240017",
 "cod": "R26",
