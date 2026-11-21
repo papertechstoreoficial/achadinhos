@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T18:59:10",
+"atualizado": "2026-11-21T19:20:00",
 "horas": 24,
 "relampago": [
 {
@@ -566,6 +566,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23994288266",
+"cod": "R72",
+"nome": "Percarbonato 100% Puro Tira Manchas Roupas Brancas e Coloridas",
+"preco": 19.9,
+"de": 29.7,
+"desconto": 33,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lm-mohh8j4tjpc0e3",
+"link": "https://s.shopee.com.br/7VI9dWFjpD",
+"nota": 4.9,
+"vendas": 14947,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T19:18:02"
+},
+{
+"item": "22692564994",
+"cod": "R71",
+"nome": "Fralda Pampers Confort Sec Jumbo Plus M com 148un",
+"preco": 149.9,
+"de": 227.12,
+"desconto": 34,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7rblo-lmypvt6aoboj4c",
+"link": "https://s.shopee.com.br/7AfJEnt6Ms",
+"nota": 5.0,
+"vendas": 5549,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T19:16:32"
+},
 {
 "item": "22394227921",
 "cod": "R70",
@@ -3493,38 +3525,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T19:46:25"
-},
-{
-"item": "58267485793",
-"cod": "R50",
-"nome": "Kit Potes Mantimentos Vidro Herméticos Com Tampa Bambu Alta Resistência Epsilon Transparente",
-"preco": 34.36,
-"de": 79.91,
-"desconto": 57,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820ld-mso4uf7pu0p11c",
-"link": "https://s.shopee.com.br/1W0utcK8bX",
-"nota": 4.8,
-"vendas": 12783,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T19:18:14"
-},
-{
-"item": "58252786136",
-"cod": "R49",
-"nome": "BERMUDA FEMININA DE LINHO CINTURA ALTA COM CINTO E BOLSOS.",
-"preco": 36.0,
-"de": 85.71,
-"desconto": 58,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj67g2wsyt4z0f",
-"link": "https://s.shopee.com.br/3VlzHBoCpo",
-"nota": 4.7,
-"vendas": 548,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T19:16:45"
 }
 ]
 }
