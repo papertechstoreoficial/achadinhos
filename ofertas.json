@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T03:10:47",
+"atualizado": "2026-11-21T03:19:41",
 "horas": 24,
 "relampago": [
 {
@@ -817,43 +817,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T03:20:47"
-},
-{
-"item": "58208655282",
-"cod": "R73",
-"nome": "Barraca Tenda Proteção Solar Praia Acampamento Uv Portátil",
-"preco": 94.52,
-"de": 300.0,
-"desconto": 68,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820ly-mrvdkuzthibpa7",
-"link": "https://s.shopee.com.br/9V3BMQGqyB",
-"nota": 4.9,
-"vendas": 107,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T03:18:56"
-},
-{
-"item": "58204617391",
-"cod": "R72",
-"nome": "MAIMEITE Modelador De Cachos Giro Automático25mm Profissional Bivolt Revestimento Cerâmico Painel LED Aquecimento Rápido",
-"preco": 128.16,
-"de": 478.0,
-"desconto": 73,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lb-mthlny52vuv55e",
-"link": "https://s.shopee.com.br/4fxvazquFG",
-"nota": 4.9,
-"vendas": 117,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T03:11:01"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58215540854",
+"cod": "R10",
+"nome": "Cortina de LED Fada Cordão de Luz Janela Estrelas Guirlanda de Natal Alimentada por USB",
+"preco": 26.9,
+"de": 59.78,
+"desconto": 55,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lw-ms0dqfdvrqx3f5",
+"link": "https://s.shopee.com.br/6AmkzB7qWO",
+"nota": 4.8,
+"vendas": 1314,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T03:18:33"
+},
+{
+"item": "58268863717",
+"cod": "R09",
+"nome": "Blusinha Virginia Bata Tule Alcinha Camadas Com Bojo E Fivela Amarração Nas Costas Moda Feminina Verão",
+"preco": 44.95,
+"de": 99.89,
+"desconto": 55,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m4-mth5gep6hclc04",
+"link": "https://s.shopee.com.br/AAItkRyh6N",
+"nota": 4.7,
+"vendas": 1396,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T03:17:04"
+},
 {
 "item": "22997647570",
 "cod": "R08",
