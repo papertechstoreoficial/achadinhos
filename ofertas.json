@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T18:19:11",
+"atualizado": "2026-11-21T18:29:53",
 "horas": 24,
 "relampago": [
 {
@@ -566,6 +566,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "19975160032",
+"cod": "R64",
+"nome": "Panela De Pressão Fechamento Externo Antiaderente 4,5L Nacional",
+"preco": 119.9,
+"de": 187.34,
+"desconto": 36,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820le-mo9nab0ho2klbf",
+"link": "https://s.shopee.com.br/4B1hc2AucF",
+"nota": 4.8,
+"vendas": 2187,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T18:28:45"
+},
+{
+"item": "22298897640",
+"cod": "R63",
+"nome": "Pisca Pisca Natal Cordão 100 Leds 10m 8 Funções Varias Cores 110V/220V",
+"preco": 16.99,
+"de": 29.81,
+"desconto": 43,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-824hb-med9x9s6lqmd60",
+"link": "https://s.shopee.com.br/3g5R0yPFZc",
+"nota": 4.9,
+"vendas": 10271,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T18:27:37"
+},
 {
 "item": "58201553789",
 "cod": "R62",
@@ -3493,38 +3525,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T18:36:48"
-},
-{
-"item": "46360468172",
-"cod": "R42",
-"nome": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
-"preco": 39.99,
-"de": 99.97,
-"desconto": 60,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85",
-"link": "https://s.shopee.com.br/2BGbdO7Jt8",
-"nota": 4.5,
-"vendas": 8129,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T18:28:03"
-},
-{
-"item": "58219710815",
-"cod": "R41",
-"nome": "Projetor LED Natalino 16 Temas Luzes de Natal Desenhos Coloridos Rotação 270° Decoração Casa Jardim Parede Festa",
-"preco": 39.88,
-"de": 99.7,
-"desconto": 60,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lg-mtw3amr9o4xu08",
-"link": "https://s.shopee.com.br/2gCsEDydWj",
-"nota": 4.7,
-"vendas": 9112,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T18:26:28"
 }
 ]
 }
