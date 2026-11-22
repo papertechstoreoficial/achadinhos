@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-22T12:47:42",
+"atualizado": "2026-11-22T12:58:06",
 "horas": 24,
 "relampago": [
 {
@@ -54,6 +54,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "20899252383",
+"cod": "R08",
+"nome": "Lanterna LED Forte Super Potente 1500m Recarregável USB Portátil Ultra Brilhante 4 Modos Externa",
+"preco": 18.49,
+"de": 63.76,
+"desconto": 71,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7rd69-lup3osl1sbz91b",
+"link": "https://s.shopee.com.br/gRqfeXyy7",
+"nota": 4.8,
+"vendas": 5898,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-22T12:56:34"
+},
 {
 "item": "58203263616",
 "cod": "R07",
@@ -1541,54 +1557,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T13:06:32"
-},
-{
-"item": "22499538802",
-"cod": "R10",
-"nome": "Carteiras Fibra De Carbono Porta-Cartões Masculina Preta Mágica Tripla De Couro",
-"preco": 14.5,
-"de": 30.21,
-"desconto": 52,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-824i0-mpxyqshac1e379",
-"link": "https://s.shopee.com.br/6VPc1aM6yO",
-"nota": 4.6,
-"vendas": 20820,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T12:58:02"
-},
-{
-"item": "48165450830",
-"cod": "R09",
-"nome": "Kit Massagem Facial com Rolo de Jade, Pedra Gua Sha e Escova para Drenagem Linfática",
-"preco": 30.99,
-"de": 70.43,
-"desconto": 56,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820m6-mrhjaoj4k4jpf0",
-"link": "https://s.shopee.com.br/8VAgP9q2fn",
-"nota": 4.8,
-"vendas": 116,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T12:56:32"
-},
-{
-"item": "23393888732",
-"cod": "R08",
-"nome": "Papel Adesivo Aluminio 3m, 5m, 6m, 10m  Metalizado Antimofo Impermeavel Cozinha Movies Sala Bancada",
-"preco": 21.49,
-"de": 48.84,
-"desconto": 56,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820l8-moi8fzhz4glffa",
-"link": "https://s.shopee.com.br/4fxxpWtGB8",
-"nota": 4.8,
-"vendas": 2043,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T12:48:01"
 }
 ]
 }
