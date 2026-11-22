@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-22T12:17:39",
+"atualizado": "2026-11-22T12:47:42",
 "horas": 24,
 "relampago": [
 {
@@ -49,27 +49,27 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T23:16:57"
-},
-{
-"item": "58260332667",
-"cod": "R04",
-"nome": "S.O.S Bomba Hair Growth 200ml + Hydration Mask 500g Salon Line",
-"preco": 38.75,
-"de": 56.7,
-"desconto": 32,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/id-11134258-81ztc-me3yjy0bgg02c5",
-"link": "https://s.shopee.com.br/7fbZN1fT2k",
-"nota": 4.9,
-"vendas": 1497,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T12:18:37"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58203263616",
+"cod": "R07",
+"nome": "Headset Gamer 7.1 Surround Rgb Delta-f7140 Com Microfone Para Pc E Console",
+"preco": 54.78,
+"de": 210.69,
+"desconto": 74,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lk-moa3sgm6molj9c",
+"link": "https://s.shopee.com.br/20xEFPswE6",
+"nota": 4.9,
+"vendas": 710,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-22T12:46:59"
+},
 {
 "item": "56956388310",
 "cod": "R06",
@@ -1589,54 +1589,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T12:48:01"
-},
-{
-"item": "58268559634",
-"cod": "R07",
-"nome": "SOARFLY Ventilador Camping 20000mAh com LED, Super Longa Duração, Silencioso, USB Recarregável Portátil",
-"preco": 159.0,
-"de": 369.77,
-"desconto": 57,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820m5-mtdh0zpeuw3m0e",
-"link": "https://s.shopee.com.br/3qOqptYOBU",
-"nota": 4.9,
-"vendas": 347,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T12:46:33"
-},
-{
-"item": "58253904938",
-"cod": "R06",
-"nome": "Kit 2x Cresce X4 Total 60 Cápsulas - 2 Meses Nutrilibrium",
-"preco": 45.0,
-"de": 118.42,
-"desconto": 62,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtsx7vc6ww270",
-"link": "https://s.shopee.com.br/2VtTDjbsGH",
-"nota": 5.0,
-"vendas": 1817,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T12:21:37"
-},
-{
-"item": "57169005573",
-"cod": "R05",
-"nome": "GOKOCO Aparador de Sobrancelhas e Curvador de Cílios Elétrico 2 em 1 Recarregável via USB com Aquecimento Rápido",
-"preco": 69.0,
-"de": 202.94,
-"desconto": 66,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-8259c-mu4cyyogutc18e",
-"link": "https://s.shopee.com.br/906wxZghNo",
-"nota": 4.9,
-"vendas": 127,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T12:20:09"
 }
 ]
 }
