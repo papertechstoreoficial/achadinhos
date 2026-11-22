@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T21:09:22",
+"atualizado": "2026-11-21T21:19:21",
 "horas": 24,
 "relampago": [
 {
@@ -550,6 +550,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58269021620",
+"cod": "R92",
+"nome": "Projetor de Natal LED RGB Bivolt com Desenhos Natalinos em Movimento Luzes Decorativas para Casa e Fachada",
+"preco": 61.35,
+"de": 87.64,
+"desconto": 30,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820la-mugzv5t2wgzna7",
+"link": "https://s.shopee.com.br/7AfJN9Ue1Y",
+"nota": 4.7,
+"vendas": 214,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T21:18:13"
+},
+{
+"item": "48865600019",
+"cod": "R91",
+"nome": "Caixa Caixinha De Som Bluetooth Pendrive Fm Sd Portátil 50w Preto Ipx4",
+"preco": 63.0,
+"de": 90.0,
+"desconto": 30,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lm-mrkjuicep53b42",
+"link": "https://s.shopee.com.br/114g1iC8Qk",
+"nota": 4.9,
+"vendas": 291,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T21:16:36"
+},
 {
 "item": "58207657402",
 "cod": "R90",
@@ -3541,38 +3573,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-20T21:36:26"
-},
-{
-"item": "18899877225",
-"cod": "R67",
-"nome": "I Fone de Ouvido Sem Fio Airpods PRO Com Cancelamento De Ruído Bluetooth  Pop-Up para iOS Android",
-"preco": 57.99,
-"de": 128.87,
-"desconto": 55,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-824gr-meo8zdt3mfpd2f",
-"link": "https://s.shopee.com.br/2qWIcJSlgc",
-"nota": 4.7,
-"vendas": 1246,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T21:18:19"
-},
-{
-"item": "40276461675",
-"cod": "R66",
-"nome": "Vestido Feminino Midi Rodado Evangélico Detalhes de Botão Blazer Fake Casual Elegante Manga Bufante Malha Canelada",
-"preco": 53.9,
-"de": 119.78,
-"desconto": 55,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjssnlzv2ux282",
-"link": "https://s.shopee.com.br/1gKLE44hML",
-"nota": 4.9,
-"vendas": 1994,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-20T21:16:49"
 }
 ]
 }
