@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-22T07:08:27",
+"atualizado": "2026-11-22T07:29:57",
 "horas": 24,
 "relampago": [
 {
@@ -294,6 +294,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58252392753",
+"cod": "R98",
+"nome": "Kit Adaptador de Serra Elétrica Tico Tico Sabre para Furadeira  Ferramenta de Corte p/ Madeira",
+"preco": 27.79,
+"de": 42.75,
+"desconto": 35,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mimpzfnuyqdf77",
+"link": "https://s.shopee.com.br/3g5Rsf9ZFA",
+"nota": 4.7,
+"vendas": 3715,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-22T07:28:49"
+},
+{
+"item": "41580369202",
+"cod": "R97",
+"nome": "Triciclo Elétrico Drift Motorizado 250W350w Adulto/Infantil 6\" 8\" Polegadas 3 Velocidades Bluetooth Led",
+"preco": 948.88,
+"de": 1506.16,
+"desconto": 37,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m5-mnh8dvmw3ny81d",
+"link": "https://s.shopee.com.br/3LSbTvVfPU",
+"nota": 4.8,
+"vendas": 2144,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-22T07:27:21"
+},
 {
 "item": "21597674194",
 "cod": "R93",
