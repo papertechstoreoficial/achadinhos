@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-21T21:19:21",
+"atualizado": "2026-11-21T21:28:49",
 "horas": 24,
 "relampago": [
 {
@@ -550,6 +550,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "21597674194",
+"cod": "R93",
+"nome": "Air Fryer Fritadeira Elétrica Extream 5,5L",
+"preco": 349.99,
+"de": 499.99,
+"desconto": 30,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7v8rxdhiiwyb3",
+"link": "https://s.shopee.com.br/7Kyja2Nr65",
+"nota": 4.9,
+"vendas": 174,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-21T21:26:36"
+},
 {
 "item": "58269021620",
 "cod": "R92",
