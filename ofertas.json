@@ -1,7 +1,23 @@
 {
-"atualizado": "2026-11-22T21:07:34",
+"atualizado": "2026-11-22T21:36:55",
 "horas": 24,
 "relampago": [
+{
+"item": "50212868529",
+"cod": "R29",
+"nome": "Lovito Women's Spring/Summer Pink Heart Button Casual Short Dress DRK8P1D3245",
+"preco": 49.39,
+"de": 80.0,
+"desconto": 38,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8259e-mt3bnjc6q6872f",
+"link": "https://s.shopee.com.br/5AuGbdWlvB",
+"nota": 4.9,
+"vendas": 135,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-22T21:36:39"
+},
 {
 "item": "55806482110",
 "cod": "R28",
@@ -549,70 +565,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T07:27:21"
-},
-{
-"item": "21597674194",
-"cod": "R93",
-"nome": "Air Fryer Fritadeira Elétrica Extream 5,5L",
-"preco": 349.99,
-"de": 499.99,
-"desconto": 30,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m7v8rxdhiiwyb3",
-"link": "https://s.shopee.com.br/7Kyja2Nr65",
-"nota": 4.9,
-"vendas": 174,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T21:26:36"
-},
-{
-"item": "58269021620",
-"cod": "R92",
-"nome": "Projetor de Natal LED RGB Bivolt com Desenhos Natalinos em Movimento Luzes Decorativas para Casa e Fachada",
-"preco": 61.35,
-"de": 87.64,
-"desconto": 30,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820la-mugzv5t2wgzna7",
-"link": "https://s.shopee.com.br/7AfJN9Ue1Y",
-"nota": 4.7,
-"vendas": 214,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T21:18:13"
-},
-{
-"item": "48865600019",
-"cod": "R91",
-"nome": "Caixa Caixinha De Som Bluetooth Pendrive Fm Sd Portátil 50w Preto Ipx4",
-"preco": 63.0,
-"de": 90.0,
-"desconto": 30,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lm-mrkjuicep53b42",
-"link": "https://s.shopee.com.br/114g1iC8Qk",
-"nota": 4.9,
-"vendas": 291,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T21:16:36"
-},
-{
-"item": "58207657402",
-"cod": "R90",
-"nome": "Caixa Caixinha De Som Bluetooth Potente Pendrive Fm Sd Portátil Ipx6",
-"preco": 69.0,
-"de": 100.0,
-"desconto": 31,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820m9-mm9qmldg6rcw4b",
-"link": "https://s.shopee.com.br/3LSanQDjpA",
-"nota": 4.8,
-"vendas": 531,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T21:08:13"
 }
 ]
 }
