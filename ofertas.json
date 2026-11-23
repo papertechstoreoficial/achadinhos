@@ -1,7 +1,23 @@
 {
-"atualizado": "2026-11-22T22:57:20",
+"atualizado": "2026-11-22T23:26:58",
 "horas": 24,
 "relampago": [
+{
+"item": "56758181264",
+"cod": "R35",
+"nome": "Lovito Boho Print Zipper Summer Dress LBL34073",
+"preco": 54.29,
+"de": 86.5,
+"desconto": 37,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8258n-mu1wt89p6qdc0c",
+"link": "https://s.shopee.com.br/70LuuZHD6m",
+"nota": 4.7,
+"vendas": 240,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-22T23:26:43"
+},
 {
 "item": "56911578169",
 "cod": "R34",
@@ -369,22 +385,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T02:18:18"
-},
-{
-"item": "58214468104",
-"cod": "R94",
-"nome": "Folding Ladder Simulator Climber Home Workout Burn More Calories Compact Supports 120KG",
-"preco": 325.11,
-"de": 999.99,
-"desconto": 67,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lv-mqrqtuqxojy926",
-"link": "https://s.shopee.com.br/8pnXUL5ZEd",
-"nota": 4.9,
-"vendas": 105,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T23:16:57"
 }
 ],
 "cupom": [],
