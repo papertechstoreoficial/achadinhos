@@ -100,6 +100,12 @@ main{max-width:1180px;margin:0 auto;padding:18px 16px 40px}
 @media (min-width:640px){.card .body{padding:14px 14px 16px}.card h3{font-size:15px}.card .price{font-size:22px}}
 
 .empty{display:none;text-align:center;color:var(--ink2);padding:40px 10px}
+body.buscando #ofertas,body.buscando #hero,body.buscando .sharebar,body.buscando #hojeBox,body.buscando #cats,body.buscando #faixas{display:none!important}
+.bsc{display:none;align-items:center;gap:10px;flex-wrap:wrap;margin:6px 0 2px;color:var(--ink2);font-size:14px}body.buscando .bsc{display:flex}
+.bsc button{border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;padding:6px 14px;font:600 13px var(--text);cursor:pointer}
+.bsc .dq{color:var(--gold);font-weight:700;cursor:pointer;text-decoration:underline}
+.card h3 mark,.bsc mark{background:color-mix(in srgb,var(--gold) 35%,transparent);color:inherit;border-radius:3px;padding:0 1px}
+.sug{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin-top:14px}.sug button{border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;padding:7px 14px;font:600 13px var(--text);cursor:pointer}
 
 /* rodapé */
 footer{border-top:1px solid var(--line);background:var(--kraft)}
@@ -484,10 +490,11 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
   <div class="cats" id="cats" aria-label="Categorias"></div>
   <div class="head"><h2 id="title">Todos os achadinhos</h2><div class="dir"><span id="count"></span>
     <select class="ord" id="ordSel" aria-label="Ordenar"><option value="rank">Ranking de vendas</option><option value="novos">Novidades</option><option value="desc">Maior desconto</option><option value="nota">Melhor avaliados</option><option value="menor">Menor preço</option><option value="maior">Maior preço</option></select></div></div>
+  <div class="bsc" id="bsc"></div>
   <div class="faixas" id="faixas"></div>
   <div class="grid" id="grid"></div>
   <div class="pager"><button type="button" id="mais" hidden>Ver mais</button></div>
-  <div class="empty" id="empty">Nenhum achadinho encontrado. Tente outra palavra.</div>
+  <div class="empty" id="empty"><b>Nenhum achadinho encontrado.</b><br>Confira a palavra ou tente uma destas:<div class="sug" id="sug"></div></div>
 </main>
 
 <div class="sheet-bg" id="sheetBg"></div>
@@ -497,7 +504,7 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
   <div class="foot">
     <a class="brand" href="#inicio"><img src="img/logo.png" alt=""><span><b>PaperTech</b><small>Curadoria de achadinhos</small></span></a>
     <p class="disc">A PaperTech garimpa, você economiza. Pelo nosso link, você paga o mesmo preço e apoia a curadoria.</p>
-    <p>Os links levam para a Shopee, onde a compra, o pagamento e a entrega acontecem. Somos afiliados: recebemos uma comissão pelas vendas feitas pelos links. Preços e estoque podem mudar; confira sempre no anúncio. Atualizado em 22/11/2026.</p>
+    <p>Os links levam para a Shopee, onde a compra, o pagamento e a entrega acontecem. Somos afiliados: recebemos uma comissão pelas vendas feitas pelos links. Preços e estoque podem mudar; confira sempre no anúncio. Atualizado em 23/11/2026.</p>
     <p>Siga no Instagram: <a href="https://www.instagram.com/papertech_store/">@papertech_store</a></p>
   </div>
 </footer>
@@ -565,6 +572,7 @@ const porId={};
 T.forEach(p=>porId[p.id]=Object.assign({},p));
 P.forEach(p=>{porId[p.id]=Object.assign({},p,porId[p.id]||{},{post:true,data:p.data,pitch:p.pitch,hero:p.hero,note:p.note})});
 const ALL=Object.values(porId);
+let OFX=[];  // ofertas do dia (radar) — entram na busca
 ALL.forEach(p=>{p.v=p.vendas??numVend(p.sold);p.pr=p.preco??numPreco(p.price);
   p.url=(p.urls&&p.urls[ORIGEM])||(ORIGEM==='tiktok'&&p.url_tt)||p.url});
 [...ALL].sort((a,b)=>b.v-a.v).forEach((p,i)=>p.rk=i+1);
@@ -625,18 +633,26 @@ sb.addEventListener('click',e=>{const b=e.target.closest('.op');if(!b)return;
   fechar()});
 document.getElementById('ordSel').onchange=e=>escolherOrd(e.target.value);
 document.getElementById('ordLbl').textContent=ORD[ord];
-document.getElementById('q').addEventListener('input',e=>{q=norm(e.target.value.trim());mostrar=0;render()});
+let qT=null;const qEl=document.getElementById('q');
+function aplicarBusca(rolar){q=norm(qEl.value.trim());mostrar=0;render();
+  if(rolar&&q){const t=document.getElementById('title');const y=t.getBoundingClientRect().top+scrollY-(document.querySelector('.top')?.offsetHeight||0)-12;if(Math.abs(scrollY-y)>40)scrollTo({top:Math.max(0,y),behavior:'smooth'})}
+  if(!q)scrollTo({top:0})}
+qEl.addEventListener('input',()=>{clearTimeout(qT);qT=setTimeout(()=>aplicarBusca(true),180)});
+qEl.addEventListener('keydown',e=>{if(e.key==='Enter'){clearTimeout(qT);aplicarBusca(true);qEl.blur()}if(e.key==='Escape'){qEl.value='';aplicarBusca()}});
+document.addEventListener('click',e=>{const s=e.target.closest('[data-s]');if(s&&(s.closest('#bsc')||s.closest('#sug'))){qEl.value=s.dataset.s;aplicarBusca(true);return}
+  if(e.target.id==='limparBusca'){qEl.value='';aplicarBusca()}});
+let qBuscou='';qEl.addEventListener('change',()=>{const v=qEl.value.trim();if(v&&v!==qBuscou){qBuscou=v;try{window.goatcounter&&window.goatcounter.count({path:'busca/'+norm(v).slice(0,40),title:'busca',event:true})}catch(_){}}});
 document.getElementById('mais').onclick=()=>{mostrar+=POR_PAG;render(true)};
 
 function card(p){
-  const rk=p.rk<=100?`<span class="rk ${p.rk<=10?'ouro':''}">Nº ${p.rk}</span>`:(p.local?'<span class="badge local">Envio de Caieiras</span>':'');
+  const rk=p.oferta?`<span class="rk" style="background:${p.oferta==='relampago'?'#e5352b':'#ff8a00'};color:#fff">${p.oferta==='relampago'?'⚡ Relâmpago de hoje':'🔥 Achado de hoje'}</span>`:p.rk<=100?`<span class="rk ${p.rk<=10?'ouro':''}">Nº ${p.rk}</span>`:(p.local?'<span class="badge local">Envio de Caieiras</span>':'');
   const selo=p.post&&p.data===HOJE?'<span class="hojetag">No post de hoje</span>':(p.desconto>=10?`<span class="off">-${p.desconto}%</span>`:'');
   const cod=p.cod?`<span class="cod">${esc(p.cod)}</span>`:'';
   return `<article class="card revela${p.rk<=3?' top3':''}" id="${p.cod?p.cod.toLowerCase():''}">
     <a class="pic" href="${p.url}" rel="noopener" aria-label="${esc(p.name)}"><img loading="lazy" src="${p.img}" alt="${esc(p.name)}">${rk}${selo}${cod}</a>
     <div class="body">
       <span class="cat">${esc(p.cat)}</span>
-      <h3 title="${esc(p.full||p.name)}">${esc(p.name)}</h3>
+      <h3 title="${esc(p.full||p.name)}">${marcar(p.name)}</h3>
       ${p.de?`<span class="de">de ${p.de}</span>`:''}
       <div class="price">${p.from?'<small>a partir de</small>':''}${p.price}</div>
       <div class="linha">${p.nota?`<span class="nota">★ ${String(p.nota).replace('.',',')}</span>`:''}${p.sold?`<span>${esc(p.sold)}</span>`:''}</div>
@@ -648,19 +664,55 @@ function card(p){
     </div></article>`;
 }
 document.addEventListener('click',e=>{const b=e.target.closest('.shr');if(!b)return;const p=porId[b.dataset.id];if(p)compartilhar(p)});
+
+// ===== BUSCA INTELIGENTE: sem acento, singular/plural, sinônimos, erro de digitação e relevância =====
+const PARADAS=new Set('de da do das dos para pra p com e a o as os em no na nos nas um uma kit c/ p/ por'.split(' '));
+const SIN=[['celular','smartphone','telefone','iphone','android'],['fone','headphone','headset','earbud','auricular','tws','ouvido'],['relogio','smartwatch','watch'],
+ ['carregador','fonte','cabo'],['garrafa','squeeze','termica','copo'],['marmita','lancheira','pote','vasilha'],['caixa som','speaker','som'],['lampada','luz','led','luminaria'],
+ ['mochila','bolsa'],['maquiagem','make','pincel'],['tenis','sapato','calcado'],['camera','webcam'],['tablet','ipad'],['notebook','laptop'],['mouse','rato'],
+ ['organizador','organizacao','caixa'],['natal','natalino','arvore','pisca'],['cozinha','utensilio'],['brinquedo','infantil','crianca'],['ventilador','circulador'],['aspirador','limpeza']];
+const raiz=w=>{w=w.replace(/(oes|aes|aos)$/,'ao').replace(/ns$/,'m').replace(/(is)$/,'l');return w.length>4?w.replace(/(es|s)$/,''):w.length>3?w.replace(/s$/,''):w};
+const palavras=t=>norm(t).replace(/[^a-z0-9]+/g,' ').split(' ').filter(w=>w&&!PARADAS.has(w));
+const SINM={};SIN.forEach(g=>{const rs=g.map(x=>raiz(norm(x)));rs.forEach(r=>SINM[r]=rs)});
+function lev(a,b,max){if(Math.abs(a.length-b.length)>max)return max+1;let p=[...Array(b.length+1).keys()];
+  for(let i=1;i<=a.length;i++){const c=[i];let mn=i;for(let j=1;j<=b.length;j++){c[j]=Math.min(p[j]+1,c[j-1]+1,p[j-1]+(a[i-1]===b[j-1]?0:1));mn=Math.min(mn,c[j])}if(mn>max)return max+1;p=c}return p[b.length]}
+function idx(p){if(!p._ix){p._nm=palavras(p.name+' '+(p.full||'')).map(raiz);p._ou=palavras((p.cat||'')+' '+(p.loja||'')).map(raiz)}p._ix=1;return p}
+function notaTermo(t,ws){let m=0;for(const w of ws){if(w===t)return 10;if(w.length>=3&&t.length>=3&&(w.startsWith(t)||t.startsWith(w)))m=Math.max(m,7);
+  else if((SINM[t]||[]).includes(w))m=Math.max(m,6);else if(t.length>=4){const d=lev(t,w,t.length>=7?2:1);if(d<=(t.length>=7?2:1))m=Math.max(m,4)}}return m}
+function relevancia(p,termos,frase){idx(p);let tot=0,todos=true;
+  for(const t of termos){const a=notaTermo(t,p._nm)*2,b=notaTermo(t,p._ou);const n=Math.max(a,b);if(!n)todos=false;tot+=n}
+  const nm=norm(p.name);if(frase&&nm.includes(frase))tot+=15;if(frase&&nm.startsWith(frase))tot+=10;return{n:tot,todos}}
+let BUSCA={termos:[],frase:'',parecidos:false,sugestao:''};
+function vocab(){const v=new Set();ALL.concat(OFX).forEach(p=>{idx(p);p._nm.forEach(w=>w.length>3&&v.add(w))});return[...v]}
+function marcar(txt){if(!BUSCA.termos.length)return esc(txt);let h=esc(txt);
+  const ts=[...new Set(BUSCA.termos)].filter(t=>t.length>=3).sort((a,b)=>b.length-a.length);
+  return h.replace(new RegExp(ts.map(t=>t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|')||'^$','gi'),m=>`<mark>${m}</mark>`)}
+function buscar(lista,qtxt){const frase=norm(qtxt).replace(/[^a-z0-9 ]+/g,' ').replace(/\s+/g,' ').trim(),termos=palavras(qtxt).map(raiz);
+  BUSCA={termos:palavras(qtxt),frase,parecidos:false,sugestao:''};
+  const cod=qtxt.replace(/\s/g,'').toLowerCase();const porCod=lista.filter(p=>p.cod&&p.cod.toLowerCase()===cod);if(porCod.length)return porCod;
+  if(!termos.length)return lista;
+  let r=lista.map(p=>{const x=relevancia(p,termos,frase);p._sc=x.n;return[p,x]});
+  let ok=r.filter(([p,x])=>x.todos).map(([p])=>p);
+  if(!ok.length){ok=r.filter(([p,x])=>x.n>=8).map(([p])=>p);BUSCA.parecidos=ok.length>0;
+    const v=vocab();const t0=termos[0];let best='',bd=9;v.forEach(w=>{const d=lev(t0,w,2);if(d<bd&&d>0){bd=d;best=w}});if(bd<=2)BUSCA.sugestao=best}
+  return ok}
 function render(manter){
   const f=FAIXAS[faixa];
-  let list=ALL.filter(p=>(cat==='Todos'||p.cat===cat)&&p.pr>=f[1]&&p.pr<f[2]&&
-    (!q||norm(p.name+' '+(p.full||'')+' '+p.cat+' '+(p.cod||'')).includes(q)||(p.cod&&norm(p.cod)===q.replace(/\s/g,''))));
+  const qraw=document.getElementById('q').value.trim(),busc=!!qraw;
+  document.body.classList.toggle('buscando',busc);
+  let list=busc?buscar(ALL.concat(OFX),qraw):ALL.filter(p=>(cat==='Todos'||p.cat===cat)&&p.pr>=f[1]&&p.pr<f[2]);
+  if(!busc)BUSCA={termos:[],frase:'',parecidos:false,sugestao:''};
   const by={rank:(a,b)=>a.rk-b.rk,novos:(a,b)=>String(b.entrou||b.data||'').localeCompare(String(a.entrou||a.data||''))||a.rk-b.rk,
     desc:(a,b)=>(b.desconto||0)-(a.desconto||0)||a.rk-b.rk,nota:(a,b)=>(b.nota||0)-(a.nota||0)||a.rk-b.rk,
     menor:(a,b)=>a.pr-b.pr,maior:(a,b)=>b.pr-a.pr};
-  list.sort(by[ord]);
+  if(busc&&ord==='rank')list.sort((a,b)=>(b._sc||0)-(a._sc||0)||a.rk-b.rk);else list.sort(by[ord]);
   const ate=POR_PAG+mostrar;
   document.getElementById('grid').innerHTML=list.slice(0,ate).map(card).join('');
   const resto=list.length-ate,mb=document.getElementById('mais');
   mb.hidden=resto<=0;mb.textContent=`Ver mais (${resto} ${resto===1?'produto':'produtos'})`;
-  document.getElementById('title').textContent=(ord==='rank'?'Ranking dos mais vendidos':'Todos os achadinhos')+(cat==='Todos'?'':' · '+cat);
+  document.getElementById('title').textContent=busc?`Resultados para “${qraw}”`:(ord==='rank'?'Ranking dos mais vendidos':'Todos os achadinhos')+(cat==='Todos'?'':' · '+cat);
+  document.getElementById('bsc').innerHTML=busc?`${BUSCA.parecidos?'Não achamos exatamente isso. Veja produtos parecidos.':''}${BUSCA.sugestao?` Você quis dizer <span class="dq" data-s="${esc(BUSCA.sugestao)}">${esc(BUSCA.sugestao)}</span>?`:''}<button type="button" id="limparBusca">✕ Limpar busca</button>`:'';
+  if(busc&&!list.length){const top=[...CATS].filter(c=>c!=='Todos').slice(0,6);document.getElementById('sug').innerHTML=(BUSCA.sugestao?[BUSCA.sugestao]:[]).concat(top).map(t=>`<button type="button" data-s="${esc(t)}">${esc(t)}</button>`).join('')}
   document.getElementById('count').textContent=list.length+(list.length===1?' produto':' produtos');
   document.getElementById('empty').style.display=list.length?'none':'block';
 }
@@ -712,6 +764,13 @@ revelar();new MutationObserver(revelar).observe(document.getElementById('grid'),
   fetch('ofertas.json?v='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(j=>{if(!j)return;
     const lim=Date.now()-(j.horas||24)*3600e3;
     D={};['relampago','cupom','frete','achado'].forEach(k=>{D[k]=(j[k]||[]).filter(o=>!o.quando||new Date(o.quando).getTime()>=lim)});
+    // as ofertas do dia também aparecem quando o cliente busca pelo nome
+    const vistos=new Set(ALL.map(p=>String(p.id)));OFX=[];
+    ['relampago','cupom','frete','achado'].forEach(k=>D[k].forEach(o=>{const id='of-'+o.item;if(vistos.has(String(o.item))||vistos.has(id))return;vistos.add(id);
+      const p={id,name:o.nome,full:o.nome,cat:'Ofertas do dia',pr:Number(o.preco)||0,price:brl(o.preco),de:o.de?brl(o.de):'',url:o.link,img:o.img,
+        desconto:o.desconto||0,nota:o.nota,sold:vend(o.vendas),v:o.vendas||0,rk:1e6,cod:o.cod,oferta:o.origem,entrou:o.quando,
+        note:`Oferta de hoje (achada às ${hm(o.quando)}): preço e estoque podem mudar`};OFX.push(p);porId[id]=p}));
+    if(q)render();
     ['relampago','cupom','frete','achado'].forEach(k=>{document.getElementById(NID[k]).textContent=D[k].length;box.querySelector(`.ofb[data-k="${k}"]`).classList.toggle('vazio',!D[k].length)});
     box.hidden=false;
     // sem post do dia: o destaque do topo vira a melhor oferta relâmpago ativa
