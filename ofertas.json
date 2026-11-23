@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-23T20:39:28",
+"atualizado": "2026-11-23T20:58:38",
 "horas": 24,
 "relampago": [
 {
@@ -337,43 +337,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T21:06:53"
-},
-{
-"item": "29872374983",
-"cod": "R27",
-"nome": "Lovito Casual Jeans Long Ripped Plain Jeans for Women L114AD862",
-"preco": 92.86,
-"de": 151.5,
-"desconto": 39,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/sg-11134201-820ma-mnmgef5441dwde",
-"link": "https://s.shopee.com.br/4fxzxIAnfb",
-"nota": 4.9,
-"vendas": 249,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-22T20:46:43"
-},
-{
-"item": "9264385441",
-"cod": "R26",
-"nome": "Naviforce NF9163 Men's Gold Analog Digital Waterproof Watch",
-"preco": 90.25,
-"de": 159.0,
-"desconto": 43,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/7b684455058ea94337d3c4b0334e571a",
-"link": "https://s.shopee.com.br/AUvmtYUcnt",
-"nota": 4.9,
-"vendas": 240,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-22T20:40:04"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58210554229",
+"cod": "R77",
+"nome": "Power Bank 20000/30000/50000mAh Carga Rápida Display Digital 33W~66W USB Type-C",
+"preco": 66.99,
+"de": 248.11,
+"desconto": 73,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-820mc-mo4k5ncqmwhx80",
+"link": "https://s.shopee.com.br/3g5UN8Yqm6",
+"nota": 4.8,
+"vendas": 111,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T20:57:24"
+},
+{
+"item": "19199866082",
+"cod": "R76",
+"nome": "Suporte de peito ajustável para telefones celulares e câmeras GoPro para peito de motocicleta e bicicleta",
+"preco": 23.9,
+"de": 85.36,
+"desconto": 72,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-me8dbv27szy8f0",
+"link": "https://s.shopee.com.br/5fqYklWmOk",
+"nota": 4.9,
+"vendas": 2355,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T20:56:44"
+},
 {
 "item": "58216601427",
 "cod": "R75",
