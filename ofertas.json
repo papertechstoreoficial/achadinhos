@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-23T12:59:11",
+"atualizado": "2026-11-23T13:17:32",
 "horas": 24,
 "relampago": [
 {
@@ -438,6 +438,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22993348854",
+"cod": "R48",
+"nome": "Chapinha prancha Modelador E Alisador De Cabelo E Barba Masculino",
+"preco": 19.99,
+"de": 66.63,
+"desconto": 70,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m0lx5a03o8sh41",
+"link": "https://s.shopee.com.br/7fbccmUZ5W",
+"nota": 4.6,
+"vendas": 9281,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T13:16:00"
+},
 {
 "item": "58202078013",
 "cod": "R47",
