@@ -573,6 +573,7 @@ T.forEach(p=>porId[p.id]=Object.assign({},p));
 P.forEach(p=>{porId[p.id]=Object.assign({},p,porId[p.id]||{},{post:true,data:p.data,pitch:p.pitch,hero:p.hero,note:p.note})});
 const ALL=Object.values(porId);
 let OFX=[];  // ofertas do dia (radar) — entram na busca
+var BUSCA={termos:[],frase:'',parecidos:false,sugestao:''};
 ALL.forEach(p=>{p.v=p.vendas??numVend(p.sold);p.pr=p.preco??numPreco(p.price);
   p.url=(p.urls&&p.urls[ORIGEM])||(ORIGEM==='tiktok'&&p.url_tt)||p.url});
 [...ALL].sort((a,b)=>b.v-a.v).forEach((p,i)=>p.rk=i+1);
@@ -682,9 +683,9 @@ function notaTermo(t,ws){let m=0;for(const w of ws){if(w===t)return 10;if(w.leng
 function relevancia(p,termos,frase){idx(p);let tot=0,todos=true;
   for(const t of termos){const a=notaTermo(t,p._nm)*2,b=notaTermo(t,p._ou);const n=Math.max(a,b);if(!n)todos=false;tot+=n}
   const nm=norm(p.name);if(frase&&nm.includes(frase))tot+=15;if(frase&&nm.startsWith(frase))tot+=10;return{n:tot,todos}}
-let BUSCA={termos:[],frase:'',parecidos:false,sugestao:''};
+BUSCA={termos:[],frase:'',parecidos:false,sugestao:''};
 function vocab(){const v=new Set();ALL.concat(OFX).forEach(p=>{idx(p);p._nm.forEach(w=>w.length>3&&v.add(w))});return[...v]}
-function marcar(txt){if(!BUSCA.termos.length)return esc(txt);let h=esc(txt);
+function marcar(txt){if(!BUSCA||!BUSCA.termos||!BUSCA.termos.length)return esc(txt);let h=esc(txt);
   const ts=[...new Set(BUSCA.termos)].filter(t=>t.length>=3).sort((a,b)=>b.length-a.length);
   return h.replace(new RegExp(ts.map(t=>t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|')||'^$','gi'),m=>`<mark>${m}</mark>`)}
 function buscar(lista,qtxt){const frase=norm(qtxt).replace(/[^a-z0-9 ]+/g,' ').replace(/\s+/g,' ').trim(),termos=palavras(qtxt).map(raiz);
