@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-23T09:29:38",
+"atualizado": "2026-11-23T11:07:18",
 "horas": 24,
 "relampago": [
 {
@@ -423,6 +423,22 @@
 "frete": [],
 "achado": [
 {
+"item": "22093160276",
+"cod": "R42",
+"nome": "2026 Nova Série 8 Relógio T800 Ultra Smart Watch Esportivo Sem Fio À Prova D'água T800 Ultra2 MAX",
+"preco": 43.99,
+"de": 157.11,
+"desconto": 72,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7rdym-lxrzfhio6fhl9d",
+"link": "https://s.shopee.com.br/114iXbODF8",
+"nota": 4.7,
+"vendas": 2154,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T11:06:07"
+},
+{
 "item": "9212570285",
 "cod": "R41",
 "nome": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
@@ -613,70 +629,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T11:37:26"
-},
-{
-"item": "20499032842",
-"cod": "R03",
-"nome": "Fralda Pampers Confort Sec Jumbo Plus G com 128un",
-"preco": 149.9,
-"de": 217.25,
-"desconto": 31,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-7rblv-lmyra1bqmje1f0",
-"link": "https://s.shopee.com.br/7AfKCfyQ8y",
-"nota": 5.0,
-"vendas": 17319,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-22T09:48:37"
-},
-{
-"item": "58256909383",
-"cod": "R02",
-"nome": "Abridor De Latas 3 Em 1 Garrafas Aço Inox Profissional Casa",
-"preco": 18.49,
-"de": 29.82,
-"desconto": 38,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820l6-mls74xl1upz4d4",
-"link": "https://s.shopee.com.br/7fbanT8PYw",
-"nota": 4.9,
-"vendas": 8012,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-22T09:46:52"
-},
-{
-"item": "22998720168",
-"cod": "R01",
-"nome": "1 Kit Body Splash Lilli com gliter 200Ml + 1 Hidratante Corporal  Inspiração Lilli 200ML",
-"preco": 29.98,
-"de": 69.72,
-"desconto": 57,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820l4-mtqqf32ugr9d0e",
-"link": "https://s.shopee.com.br/7KykOKVsVO",
-"nota": 4.6,
-"vendas": 3528,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-22T09:39:09"
-},
-{
-"item": "46416304631",
-"cod": "R99",
-"nome": "Espelho Flame Com Moldura Em Couro Orgânico Hall Sala Closet Quarto Luxo",
-"preco": 49.0,
-"de": 272.22,
-"desconto": 82,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820m8-ms35tbxdrqiu49",
-"link": "https://s.shopee.com.br/8pnYAxgb9q",
-"nota": 4.8,
-"vendas": 4888,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-22T09:37:22"
 }
 ]
 }
