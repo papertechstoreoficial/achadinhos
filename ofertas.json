@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-23T12:36:50",
+"atualizado": "2026-11-23T12:59:11",
 "horas": 24,
 "relampago": [
 {
@@ -439,6 +439,38 @@
 "frete": [],
 "achado": [
 {
+"item": "58202078013",
+"cod": "R47",
+"nome": "SPOETRY  M10 M16 Fone de ouvido Bluetooth Fone de ouvido sem fio Fone de ouvido Bluetooth com redução de ruído estéreo",
+"preco": 58.9,
+"de": 203.1,
+"desconto": 71,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l5-msb0d2j5vcw76c",
+"link": "https://s.shopee.com.br/7pv2nnQynO",
+"nota": 4.9,
+"vendas": 302,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T12:57:12"
+},
+{
+"item": "58250219337",
+"cod": "R46",
+"nome": "Caneca Misturadora Automática Elétrica USB Bateria Recarregável Mixer Café 380ml",
+"preco": 33.88,
+"de": 121.0,
+"desconto": 72,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81zts-mktlcixqn18h4e",
+"link": "https://s.shopee.com.br/AAIxa16a9Y",
+"nota": 4.9,
+"vendas": 4167,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T12:56:14"
+},
+{
 "item": "58218364624",
 "cod": "R45",
 "nome": "Smartwatch S10 Série 10 Relógio Inteligente Amoled  Masculino Feminino 45mm",
@@ -597,38 +629,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T14:56:51"
-},
-{
-"item": "20899252383",
-"cod": "R08",
-"nome": "Lanterna LED Forte Super Potente 1500m Recarregável USB Portátil Ultra Brilhante 4 Modos Externa",
-"preco": 18.49,
-"de": 63.76,
-"desconto": 71,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-7rd69-lup3osl1sbz91b",
-"link": "https://s.shopee.com.br/gRqfeXyy7",
-"nota": 4.8,
-"vendas": 5898,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-22T12:56:34"
-},
-{
-"item": "58203263616",
-"cod": "R07",
-"nome": "Headset Gamer 7.1 Surround Rgb Delta-f7140 Com Microfone Para Pc E Console",
-"preco": 54.78,
-"de": 210.69,
-"desconto": 74,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lk-moa3sgm6molj9c",
-"link": "https://s.shopee.com.br/20xEFPswE6",
-"nota": 4.9,
-"vendas": 710,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-22T12:46:59"
 }
 ]
 }
