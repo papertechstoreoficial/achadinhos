@@ -1,7 +1,23 @@
 {
-"atualizado": "2026-11-23T15:36:55",
+"atualizado": "2026-11-23T15:50:03",
 "horas": 24,
 "relampago": [
+{
+"item": "58261888023",
+"cod": "R53",
+"nome": "Passadeira a Vapor Portátil 110V 800W Vaporizador de Roupas 300ml Ferro a Vapor Tira Amassados",
+"preco": 69.99,
+"de": 130.0,
+"desconto": 46,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/sg-11134201-82582-muwjz9hk5xca3a",
+"link": "https://s.shopee.com.br/9fMhAmAOdn",
+"nota": 4.7,
+"vendas": 2138,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T15:45:57"
+},
 {
 "item": "58261535202",
 "cod": "R50",
@@ -438,6 +454,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "28011970033",
+"cod": "R55",
+"nome": "Fone De Ouvido Original AK6 Para Exibição De Palco De Retorno Dinâmico Com Microfone Baixo",
+"preco": 16.53,
+"de": 53.32,
+"desconto": 69,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m0epyv1t7zgue5",
+"link": "https://s.shopee.com.br/2VtWdh4njm",
+"nota": 4.8,
+"vendas": 1005,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T15:47:12"
+},
+{
+"item": "58254948793",
+"cod": "R54",
+"nome": "Barra De Luminária Led Rgb Para Monitor Computador Tela Regulavel Com Fundo De Toque",
+"preco": 67.99,
+"de": 206.03,
+"desconto": 67,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkj86lk3dcld90",
+"link": "https://s.shopee.com.br/3Vm3pUJSfi",
+"nota": 4.8,
+"vendas": 1318,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T15:46:35"
+},
 {
 "item": "58215800426",
 "cod": "R52",
