@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-23T19:42:39",
+"atualizado": "2026-11-23T19:58:05",
 "horas": 24,
 "relampago": [
 {
@@ -470,6 +470,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22294648786",
+"cod": "R71",
+"nome": "Balões Ano Novo Balão 2027 + 10 Bexigas + 2 Cortinas Metalizadas - Decoração Reveillon",
+"preco": 24.9,
+"de": 77.81,
+"desconto": 68,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lq-mu4wg7dhzvnn9e",
+"link": "https://s.shopee.com.br/9AQQr7bzTR",
+"nota": 4.8,
+"vendas": 2702,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T19:57:22"
+},
+{
+"item": "22693960720",
+"cod": "R70",
+"nome": "Bluetooth Sem fio Fone de ouvido Ergonômico TWS Suporte Orelha Pendurada Anti-queda",
+"preco": 24.3,
+"de": 81.0,
+"desconto": 70,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7rdx3-mch5g12mgnkkac",
+"link": "https://s.shopee.com.br/AAIy2umFbp",
+"nota": 4.7,
+"vendas": 3578,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T19:56:43"
+},
 {
 "item": "23793172388",
 "cod": "R69",
