@@ -773,7 +773,7 @@ revelar();new MutationObserver(revelar).observe(document.getElementById('grid'),
     <div class="bd"><span class="stt ${enc?'encerrada':'ativa'}">${enc?'⏳ Oferta encerrada · preço pode ter mudado':'🟢 Oferta ativa'}</span><h4 title="${esc(o.nome)}">${esc(o.nome)}</h4>
       ${o.de?`<span class="de">de ${brl(o.de)}</span>`:''}<span class="pr">${brl(o.preco)}</span>
       <div class="sl">${o.origem==='relampago'?'<span class="r">⚡ relâmpago</span>':''}${o.origem==='achado'?'<span class="r" style="background:#ff8a00">🔥 achado</span>':''}${o.cupom?'<span class="c">🎟 cupom</span>':''}${o.frete_gratis?'<span class="f">🚚 frete grátis</span>':''}${o.nota?`<span>★ ${String(o.nota).replace('.',',')}</span>`:''}</div>
-      <span class="qd">${o.vendas?vend(o.vendas)+' · ':''}${enc?'publicado em '+dia(o.quando)+' · preço daquele dia':'achado às '+hm(o.quando)}</span>
+      <span class="qd">${o.vendas?vend(o.vendas)+' · ':''}${enc?(o.conferido?'preço conferido em '+dia(o.conferido)+' às '+hm(o.conferido):'publicado em '+dia(o.quando)+' · preço daquele dia'):'achado às '+hm(o.quando)}</span>
       <a class="btn" href="${esc(o.link)}" rel="noopener">${enc?'Ver preço atual':'Ver na Shopee'} ${arrow}</a></div></article>`}
   function abrir(k,rolar){if(!D)return;atual=k;
     box.querySelectorAll('.ofb').forEach(b=>b.classList.toggle('sel',b.dataset.k===k));
@@ -810,7 +810,7 @@ revelar();new MutationObserver(revelar).observe(document.getElementById('grid'),
       if(vistos.has(String(o.item))||vistos.has(id))return;vistos.add(id);
       const p={id,name:o.nome,full:o.nome,cat:enc?'Ofertas anteriores':'Ofertas do dia',status:o.status,pr:Number(o.preco)||0,price:brl(o.preco),de:o.de?brl(o.de):'',url:o.link,img:o.img,
         desconto:o.desconto||0,nota:o.nota,sold:vend(o.vendas),v:o.vendas||0,rk:1e6,cod:o.cod,oferta:o.origem,entrou:o.quando,
-        note:enc?`Oferta encerrada (publicada em ${dia(o.quando)}): confira o preço atual na Shopee`:`Oferta de hoje (achada às ${hm(o.quando)}): preço e estoque podem mudar`};OFX.push(p);porId[id]=p}));
+        note:enc?(o.indisponivel?`Indisponível no momento (publicada em ${dia(o.quando)})`:o.conferido?`Oferta encerrada · preço conferido em ${dia(o.conferido)} às ${hm(o.conferido)}`:`Oferta encerrada (publicada em ${dia(o.quando)}): confira o preço atual na Shopee`):`Oferta de hoje (achada às ${hm(o.quando)}): preço e estoque podem mudar`};OFX.push(p);porId[id]=p}));
     if(q)render();
     KS.slice(0,4).forEach(k=>{document.getElementById(NID[k]).textContent=D[k].length;box.querySelector(`.ofb[data-k="${k}"]`).classList.toggle('vazio',!D[k].length)});
     box.hidden=false;
