@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T11:45:28",
+"atualizado": "2026-11-24T11:54:37",
 "horas": 24,
 "relampago": [
 {
@@ -294,6 +294,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "51608508182",
+"cod": "R23",
+"nome": "Macacão Feminino Longo Regata Pantalona Com Bolsos Social Luxo",
+"preco": 72.6,
+"de": 201.67,
+"desconto": 64,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lr-mn04hnv8ag3odb",
+"link": "https://s.shopee.com.br/6VPgjybbG7",
+"nota": 4.9,
+"vendas": 2465,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T11:54:37"
+},
+{
+"item": "58221901162",
+"cod": "R22",
+"nome": "Macaquinho Alfaiataria Feminino Sobretudo Manga Longa Laço Transpassado Inverno Verão Em alta",
+"preco": 29.97,
+"de": 142.71,
+"desconto": 79,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8258q-muxmwgnx260wf7",
+"link": "https://s.shopee.com.br/6fj6wFxlto",
+"nota": 4.9,
+"vendas": 183,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T11:54:12"
+},
 {
 "item": "52660324546",
 "cod": "R21",
