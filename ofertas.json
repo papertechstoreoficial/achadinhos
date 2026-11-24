@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T11:54:37",
+"atualizado": "2026-11-24T12:33:21",
 "horas": 24,
 "relampago": [
 {
@@ -294,6 +294,70 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58207340468",
+"cod": "R27",
+"nome": "Shorts Feminino Listrado Cintura Alta com Cinto – Malha Crepe com Elastano, Bermuda Elegante com Bolso",
+"preco": 24.99,
+"de": 80.61,
+"desconto": 69,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820mh-mm2jyjnzzxmo39",
+"link": "https://s.shopee.com.br/AUvpXrpl8v",
+"nota": 4.9,
+"vendas": 1241,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T12:31:20"
+},
+{
+"item": "23793617131",
+"cod": "R26",
+"nome": "Short com Cinto Bermuda Feminina Estampada com Elastano Moda Praia Verão",
+"preco": 31.9,
+"de": 99.69,
+"desconto": 68,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m4t3e8wtk2ia87",
+"link": "https://s.shopee.com.br/5q9zzHTvYQ",
+"nota": 4.7,
+"vendas": 1396,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T12:31:11"
+},
+{
+"item": "25594482276",
+"cod": "R25",
+"nome": "Macaquinho Transpassado Gola V",
+"preco": 43.47,
+"de": 149.9,
+"desconto": 71,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lu-ms8iyaenn3eu7d",
+"link": "https://s.shopee.com.br/BVdDWad9F",
+"nota": 4.8,
+"vendas": 1523,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T12:11:56"
+},
+{
+"item": "22697383155",
+"cod": "R24",
+"nome": "Calça Pantalona Feminina Cintura Alta  Com Bolso Tecido Duna",
+"preco": 29.9,
+"de": 110.74,
+"desconto": 73,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg76rg2cd98ndb",
+"link": "https://s.shopee.com.br/gRtoPdrkU",
+"nota": 4.7,
+"vendas": 4989,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T12:11:29"
+},
 {
 "item": "51608508182",
 "cod": "R23",
