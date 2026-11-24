@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T19:38:32",
+"atualizado": "2026-11-24T19:39:11",
 "horas": 24,
 "anteriores": [
 {
@@ -5125,6 +5125,40 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "24793355880",
+"cod": "R93",
+"nome": "KIT Calcinha Calçola Cintura Alta Microfibra Lisa Redutora Luxo Lateral Larga Conforto Lingerie",
+"preco": 28.98,
+"de": 74.31,
+"desconto": 61,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7renx-m80vcyxe2r7af1",
+"link": "https://s.shopee.com.br/AAIzcdkyb3",
+"nota": 4.7,
+"vendas": 5542,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T19:39:10",
+"status": "ativa"
+},
+{
+"item": "50559340138",
+"cod": "R92",
+"nome": "Short Feminino Plus Size Linho Bermuda Cintura Alta GG G1 G2 G3 Com Bolsos Casual Conforto Verão",
+"preco": 30.37,
+"de": 79.92,
+"desconto": 62,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lm-mnd7p59c5tdt8c",
+"link": "https://s.shopee.com.br/3qOw4zIhbe",
+"nota": 4.7,
+"vendas": 4231,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T19:38:57",
+"status": "ativa"
+},
 {
 "item": "23294976500",
 "cod": "R91",
