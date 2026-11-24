@@ -1,7 +1,23 @@
 {
-"atualizado": "2026-11-24T13:34:18",
+"atualizado": "2026-11-24T13:54:05",
 "horas": 24,
 "relampago": [
+{
+"item": "58270109639",
+"cod": "R34",
+"nome": "Máquina de Boxe com Música Bluetooth para Diversão e Treino em Casa",
+"preco": 158.65,
+"de": 427.48,
+"desconto": 63,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ly-mu39k5k605xfd8",
+"link": "https://s.shopee.com.br/3g5VUpn8yC",
+"nota": 4.9,
+"vendas": 72,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T13:51:46"
+},
 {
 "item": "58261798669",
 "cod": "R09",
@@ -278,6 +294,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "44451988896",
+"cod": "R36",
+"nome": "Calça Pantalona Alfaiataria Premium Com Bolso PROMOÇÃO",
+"preco": 26.9,
+"de": 128.1,
+"desconto": 79,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-ma4qg4onmdjb35",
+"link": "https://s.shopee.com.br/1CD87IMkX",
+"nota": 4.7,
+"vendas": 4210,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T13:52:01"
+},
+{
+"item": "58267401413",
+"cod": "R35",
+"nome": "Tablet pad Pro12 5G Tela Grande PC Android 15 12GB RAM 512GB Com Teclado Bluetooth Mouse Caneta Stylus Kit Completo",
+"preco": 839.99,
+"de": 4941.12,
+"desconto": 83,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lu-msuvi5ppkbgn3e",
+"link": "https://s.shopee.com.br/30pohcSw13",
+"nota": 4.8,
+"vendas": 103,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T13:51:55"
+},
 {
 "item": "22599442803",
 "cod": "R33",
@@ -1333,22 +1381,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T15:34:38"
-},
-{
-"item": "45109594216",
-"cod": "R49",
-"nome": "Kit Pastilhas Efervescentes para Máquina de Lavar – Remove Mau Cheiro, Resíduos e Sujeira",
-"preco": 10.99,
-"de": 35.45,
-"desconto": 69,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820la-moe8i4uckd8jec",
-"link": "https://s.shopee.com.br/8fU9pza0WB",
-"nota": 4.7,
-"vendas": 7610,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T13:36:06"
 }
 ]
 }
