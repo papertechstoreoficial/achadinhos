@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T11:24:06",
+"atualizado": "2026-11-24T11:45:28",
 "horas": 24,
 "relampago": [
 {
@@ -294,6 +294,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "52660324546",
+"cod": "R21",
+"nome": "Blusa Manga 3/4 Feminina Elegante Casual Detalhe em V Moda Evangica Duna Social Básica Várias Cores",
+"preco": 27.99,
+"de": 90.29,
+"desconto": 69,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lo-mo4r6ryw8bgif4",
+"link": "https://s.shopee.com.br/8fUBJ7b9oV",
+"nota": 4.7,
+"vendas": 6100,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T11:42:28"
+},
+{
+"item": "58269907151",
+"cod": "R20",
+"nome": "✨CONJUNTO FEMININO EN  ALAFAIATARIA PREMINUM COM UM CAIMENTO PERFEITO EN💕 COLETE💲 SHORTS💕💕",
+"preco": 45.99,
+"de": 148.35,
+"desconto": 69,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-825ag-mtzvjqevcwsof5",
+"link": "https://s.shopee.com.br/qlJyhAWuF",
+"nota": 4.9,
+"vendas": 812,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T11:42:01"
+},
 {
 "item": "23394523052",
 "cod": "R19",
