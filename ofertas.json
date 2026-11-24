@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T16:08:34",
+"atualizado": "2026-11-24T16:27:47",
 "horas": 24,
 "relampago": [
 {
@@ -241,27 +241,27 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T16:55:46"
-},
-{
-"item": "58254155069",
-"cod": "R56",
-"nome": "Kit com 3 Máscaras SOS Hidratação: Ultra Cachos + Turbinada + Bio-Reconstrução Salon Line",
-"preco": 55.99,
-"de": 87.15,
-"desconto": 36,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/id-11134258-81ztc-me3yjy0bgg02c5",
-"link": "https://s.shopee.com.br/3B9DSsfRsv",
-"nota": 4.9,
-"vendas": 1868,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T16:15:51"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23698065593",
+"cod": "R47",
+"nome": "Headset Fone Gamer Led RGB com microfone USB e P2 Para PC Computador Headphone Videogame",
+"preco": 51.99,
+"de": 129.97,
+"desconto": 60,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820mf-mvx70jzixt6qd4",
+"link": "https://s.shopee.com.br/1Lhat9L0vv",
+"nota": 4.7,
+"vendas": 1420,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T16:26:10"
+},
 {
 "item": "18998327137",
 "cod": "R46",
