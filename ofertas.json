@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-23T21:20:15",
+"atualizado": "2026-11-23T21:38:07",
 "horas": 24,
 "relampago": [
 {
@@ -305,27 +305,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T21:46:46"
-},
-{
-"item": "50212868529",
-"cod": "R29",
-"nome": "Lovito Women's Spring/Summer Pink Heart Button Casual Short Dress DRK8P1D3245",
-"preco": 49.39,
-"de": 80.0,
-"desconto": 38,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/sg-11134201-8259e-mt3bnjc6q6872f",
-"link": "https://s.shopee.com.br/5AuGbdWlvB",
-"nota": 4.9,
-"vendas": 135,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-22T21:36:39"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "20197726295",
+"cod": "R81",
+"nome": "Caixa Saco Organizador Cobertor Casaco Guarda Roupa Ecológico Anti-Poeira Umidade Insetos Multiuso",
+"preco": 29.99,
+"de": 78.92,
+"desconto": 62,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-7rd3t-m7np9ti1i0ar99",
+"link": "https://s.shopee.com.br/3LSe1GoYtH",
+"nota": 4.9,
+"vendas": 8653,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T21:37:24"
+},
+{
+"item": "58255159172",
+"cod": "R80",
+"nome": "Fones de ouvido sem fio Bluetooth compactos Xiaomi Redmi Airdots com Estojo Recarregável",
+"preco": 21.47,
+"de": 55.05,
+"desconto": 61,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820la-mltkawis4qo439",
+"link": "https://s.shopee.com.br/1CC36BfvV",
+"nota": 4.8,
+"vendas": 4930,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T21:36:44"
+},
 {
 "item": "58209495735",
 "cod": "R79",
