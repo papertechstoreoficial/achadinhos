@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T15:33:22",
+"atualizado": "2026-11-24T15:52:44",
 "horas": 24,
 "relampago": [
 {
@@ -257,43 +257,27 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T16:15:51"
-},
-{
-"item": "58261888023",
-"cod": "R53",
-"nome": "Passadeira a Vapor Portátil 110V 800W Vaporizador de Roupas 300ml Ferro a Vapor Tira Amassados",
-"preco": 69.99,
-"de": 130.0,
-"desconto": 46,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/sg-11134201-82582-muwjz9hk5xca3a",
-"link": "https://s.shopee.com.br/9fMhAmAOdn",
-"nota": 4.7,
-"vendas": 2138,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T15:45:57"
-},
-{
-"item": "58261535202",
-"cod": "R50",
-"nome": "Drone E88 Dual Camera 4K Com 1 Bateria WI-FI PRETO NOVO",
-"preco": 118.74,
-"de": 400.0,
-"desconto": 70,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lz-morzkso9ttl260",
-"link": "https://s.shopee.com.br/7KymNe16El",
-"nota": 4.7,
-"vendas": 110,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T15:34:00"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58256926114",
+"cod": "R45",
+"nome": "Carregador Portátil 5000Mah/10000Mah Indução Sem fio Bateria Carga",
+"preco": 28.86,
+"de": 169.76,
+"desconto": 83,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820ln-mlske0kwri132f",
+"link": "https://s.shopee.com.br/BVdSbO7FD",
+"nota": 4.7,
+"vendas": 10149,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T15:51:10"
+},
 {
 "item": "58215593539",
 "cod": "R44",
@@ -1445,70 +1429,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T18:35:08"
-},
-{
-"item": "28011970033",
-"cod": "R55",
-"nome": "Fone De Ouvido Original AK6 Para Exibição De Palco De Retorno Dinâmico Com Microfone Baixo",
-"preco": 16.53,
-"de": 53.32,
-"desconto": 69,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/cn-11134207-7ras8-m0epyv1t7zgue5",
-"link": "https://s.shopee.com.br/2VtWdh4njm",
-"nota": 4.8,
-"vendas": 1005,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T15:47:12"
-},
-{
-"item": "58254948793",
-"cod": "R54",
-"nome": "Barra De Luminária Led Rgb Para Monitor Computador Tela Regulavel Com Fundo De Toque",
-"preco": 67.99,
-"de": 206.03,
-"desconto": 67,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mkj86lk3dcld90",
-"link": "https://s.shopee.com.br/3Vm3pUJSfi",
-"nota": 4.8,
-"vendas": 1318,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T15:46:35"
-},
-{
-"item": "58215800426",
-"cod": "R52",
-"nome": "Cascata Cortina 300 Leds 3x3 Metros Amarelo Festa/Casamento/Eventos Quente e Branco",
-"preco": 35.0,
-"de": 64.81,
-"desconto": 46,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/sg-11134201-8259p-mrlxh7mxu70g7e",
-"link": "https://s.shopee.com.br/9fMhA2l3eo",
-"nota": 4.9,
-"vendas": 250,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T15:35:17"
-},
-{
-"item": "58200034184",
-"cod": "R51",
-"nome": "Marmita Elétrica Veicular Bivolt P/ Carro Casa Taxi Uber Caminhão 12V 24V 110V 220V C",
-"preco": 56.98,
-"de": 196.48,
-"desconto": 71,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mg90u8sbzcas0d",
-"link": "https://s.shopee.com.br/7fbcmKB08h",
-"nota": 4.7,
-"vendas": 2744,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T15:34:38"
 }
 ]
 }
