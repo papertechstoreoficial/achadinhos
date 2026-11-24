@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-23T20:58:38",
+"atualizado": "2026-11-23T21:20:15",
 "horas": 24,
 "relampago": [
 {
@@ -321,27 +321,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T21:36:39"
-},
-{
-"item": "55806482110",
-"cod": "R28",
-"nome": "Lovito Elegant Colorblock Dress Fabric Stitching Resort Style Spring/Summer Dress for Women LK3ED923",
-"preco": 54.68,
-"de": 88.0,
-"desconto": 38,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/sg-11134201-820lc-mnmcenwlird222",
-"link": "https://s.shopee.com.br/BVacOB7sa",
-"nota": 4.9,
-"vendas": 114,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-22T21:06:53"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58209495735",
+"cod": "R79",
+"nome": "GOKOCO Escova alisadora alisamento instantâneo aquecimento rápido quatro configurações de temperatura íons negativos 3M",
+"preco": 189.0,
+"de": 497.37,
+"desconto": 62,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820mc-mnjsrg7spix0b3",
+"link": "https://s.shopee.com.br/30pnbHkudn",
+"nota": 4.9,
+"vendas": 268,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T21:17:25"
+},
+{
+"item": "46360468172",
+"cod": "R78",
+"nome": "Kit 4 Potes Herméticos Tampa Bambu Organizador Mantimentos Cozinha",
+"preco": 39.99,
+"de": 99.97,
+"desconto": 60,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-822x5-mo74eg768t8m85",
+"link": "https://s.shopee.com.br/BVcE21Roc",
+"nota": 4.5,
+"vendas": 7833,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T21:16:44"
+},
 {
 "item": "58210554229",
 "cod": "R77",
