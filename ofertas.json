@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T14:57:20",
+"atualizado": "2026-11-24T15:13:12",
 "horas": 24,
 "relampago": [
 {
@@ -294,6 +294,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23493829532",
+"cod": "R42",
+"nome": "Sutiã Adesivo Sem Alças Push Up Silicone Invisivel Levanta Seio Alto Colante Reutilizável para Mulheres",
+"preco": 14.19,
+"de": 39.42,
+"desconto": 64,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81zth-ml5qkqntww7bc6",
+"link": "https://s.shopee.com.br/9KjsKhaINa",
+"nota": 4.8,
+"vendas": 23519,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T15:11:11"
+},
 {
 "item": "22992946444",
 "cod": "R41",
