@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T16:27:47",
+"atualizado": "2026-11-24T16:42:46",
 "horas": 24,
 "relampago": [
 {
@@ -246,6 +246,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23093900302",
+"cod": "R48",
+"nome": "Blusa Megan Manga Princesa Tecido Duna TULIPA",
+"preco": 24.99,
+"de": 55.53,
+"desconto": 55,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134201-820lq-mvl1869ko9vma4",
+"link": "https://s.shopee.com.br/4B1mHO1d7T",
+"nota": 4.8,
+"vendas": 4629,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T16:41:10"
+},
 {
 "item": "23698065593",
 "cod": "R47",
