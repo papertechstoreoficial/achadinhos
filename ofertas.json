@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T16:56:29",
+"atualizado": "2026-11-24T17:13:47",
 "horas": 24,
 "relampago": [
 {
@@ -230,6 +230,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58215946864",
+"cod": "R51",
+"nome": "Froog Calça Legging Feminina Roupa de Academia com Bolso +Zero Transparência +Cintura Alta +Elástica+Fitness",
+"preco": 49.99,
+"de": 138.86,
+"desconto": 64,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m7-mt4m2bpslcskae",
+"link": "https://s.shopee.com.br/BVdY6dwp8",
+"nota": 4.9,
+"vendas": 6802,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T17:11:19"
+},
+{
+"item": "58263717737",
+"cod": "R50",
+"nome": "Vestido Feminino Midi Anarruga Elegante com Franzido e Fenda Lateral Elegante",
+"preco": 34.99,
+"de": 152.13,
+"desconto": 77,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lv-mu74rgyet1q806",
+"link": "https://s.shopee.com.br/1qdrX9uUDK",
+"nota": 4.9,
+"vendas": 1559,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T17:11:10"
+},
 {
 "item": "23293978804",
 "cod": "R49",
