@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T16:42:46",
+"atualizado": "2026-11-24T16:56:29",
 "horas": 24,
 "relampago": [
 {
@@ -225,27 +225,27 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T18:34:31"
-},
-{
-"item": "22736025276",
-"cod": "R57",
-"nome": "Whey Blend Protein Concentrado e Isolado 900g Soldiers Nutrition Suplemento Proteína Muscular Recuperação",
-"preco": 64.9,
-"de": 99.9,
-"desconto": 35,
-"origem": "relampago",
-"img": "https://down-br.img.susercontent.com/file/id-11134258-81ztc-me3yjy0bgg02c5",
-"link": "https://s.shopee.com.br/3qOuIqj6UV",
-"nota": 4.8,
-"vendas": 1140,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T16:55:46"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23293978804",
+"cod": "R49",
+"nome": "Calça Pantalona De Linho Com Cinto Fake e Cintura Alta e Bolsos",
+"preco": 45.0,
+"de": 100.0,
+"desconto": 55,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lo-mmnkmlovsk5j27",
+"link": "https://s.shopee.com.br/30pouGyEJs",
+"nota": 4.8,
+"vendas": 10714,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T16:56:10"
+},
 {
 "item": "23093900302",
 "cod": "R48",
