@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T10:32:49",
+"atualizado": "2026-11-24T10:46:31",
 "horas": 24,
 "relampago": [
 {
@@ -294,6 +294,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "53967914547",
+"cod": "R15",
+"nome": "Capa Rígida Minimalista , Avançada , Transparente , Sem Amarelecimento , Magnética Para iPhone 18 17 Pro Max , Traseira ",
+"preco": 22.99,
+"de": 45.98,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8259r-mt6dp6ilvsp1e5",
+"link": "https://s.shopee.com.br/9071dtDZzG",
+"nota": 4.9,
+"vendas": 221,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T10:46:10"
+},
 {
 "item": "58267719064",
 "cod": "R14",
