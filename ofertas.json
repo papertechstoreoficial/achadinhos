@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T08:24:28",
+"atualizado": "2026-11-24T09:13:42",
 "horas": 24,
 "relampago": [
 {
@@ -294,6 +294,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "57568964332",
+"cod": "R10",
+"nome": "Mascara Teia Hidratação Ouro Marroquino 500g | Efeito Teia Com Argan e Marula para Cabelos Ressecados | Fina Maria",
+"preco": 38.97,
+"de": 79.53,
+"desconto": 51,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lg-mu3hyk13qarmf7",
+"link": "https://s.shopee.com.br/BVd18LHcN",
+"nota": 4.9,
+"vendas": 8257,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T09:11:34"
+},
 {
 "item": "58264681920",
 "cod": "R07",
