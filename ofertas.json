@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-23T22:18:14",
+"atualizado": "2026-11-23T22:38:18",
 "horas": 24,
 "relampago": [
 {
@@ -241,27 +241,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T22:56:38"
-},
-{
-"item": "56556155382",
-"cod": "R33",
-"nome": "Lovito Floral Elegant Lace-up Dress Spring/Summer Dress for Women Embroidery LK3LD408",
-"preco": 54.68,
-"de": 88.0,
-"desconto": 38,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/sg-11134201-824ik-mpk9vtgsho2525",
-"link": "https://s.shopee.com.br/1BO7uPxSks",
-"nota": 4.8,
-"vendas": 235,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-22T22:36:47"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "40276461675",
+"cod": "R87",
+"nome": "Vestido Feminino Midi Rodado Evangélico Detalhes de Botão Blazer Fake Casual Elegante Manga Bufante Malha Canelada",
+"preco": 53.9,
+"de": 119.78,
+"desconto": 55,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjssnlzv2ux282",
+"link": "https://s.shopee.com.br/3qOugHcrW4",
+"nota": 4.9,
+"vendas": 2604,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T22:37:05"
+},
+{
+"item": "19697980846",
+"cod": "R86",
+"nome": "Ventilador Luminária Led 6 Pás Lâmpada Soquete Bocal E27 Teto 3 Cores Luz Branco Amarelo Bivolt",
+"preco": 42.99,
+"de": 89.56,
+"desconto": 52,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhqkzkrt4w03ba",
+"link": "https://s.shopee.com.br/4LLBH9GF0F",
+"nota": 4.8,
+"vendas": 9664,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T22:36:20"
+},
 {
 "item": "18198165593",
 "cod": "R85",
