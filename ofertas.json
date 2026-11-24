@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T14:14:06",
+"atualizado": "2026-11-24T14:32:51",
 "horas": 24,
 "relampago": [
 {
@@ -294,6 +294,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22597777290",
+"cod": "R39",
+"nome": "Regata Blusa Gola Alta  Tecido DUNA",
+"preco": 24.69,
+"de": 58.79,
+"desconto": 58,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m04irv7zta3rc7",
+"link": "https://s.shopee.com.br/2La7x5hcXw",
+"nota": 4.8,
+"vendas": 3295,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T14:31:11"
+},
 {
 "item": "57169005573",
 "cod": "R38",
