@@ -1,7 +1,23 @@
 {
-"atualizado": "2026-11-23T23:42:14",
+"atualizado": "2026-11-24T01:46:33",
 "horas": 24,
 "relampago": [
+{
+"item": "58263470260",
+"cod": "R98",
+"nome": "GOKOCO Escova alisadora alisamento instantâneo aquecimento rápido quatro configurações de temperatura íons negativos 3M",
+"preco": 172.9,
+"de": 500.0,
+"desconto": 65,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m3-mq4ljf4adaf503",
+"link": "https://s.shopee.com.br/9zzYEMCdQV",
+"nota": 4.9,
+"vendas": 190,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T01:42:55"
+},
 {
 "item": "58262663805",
 "cod": "R89",
@@ -246,6 +262,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58252786136",
+"cod": "R01",
+"nome": "BERMUDA FEMININA DE LINHO CINTURA ALTA COM CINTO E BOLSOS.",
+"preco": 36.0,
+"de": 85.71,
+"desconto": 58,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mj67g2wsyt4z0f",
+"link": "https://s.shopee.com.br/7pv3eVrKXg",
+"nota": 4.7,
+"vendas": 821,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T01:44:49"
+},
+{
+"item": "18931705150",
+"cod": "R99",
+"nome": "Mini Processador Triturador Sem Fio Elétrico 250ML De Alimentos Para Legumes Alho Gengibre",
+"preco": 22.99,
+"de": 47.9,
+"desconto": 52,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820mg-mnxpmvljjwucb8",
+"link": "https://s.shopee.com.br/1gKQJ7Bsx3",
+"nota": 4.7,
+"vendas": 3395,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T01:43:52"
+},
 {
 "item": "22492474605",
 "cod": "R97",
