@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T14:32:51",
+"atualizado": "2026-11-24T14:57:20",
 "horas": 24,
 "relampago": [
 {
@@ -294,6 +294,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22992946444",
+"cod": "R41",
+"nome": "Kit 12 pares de meias respiráveis ​​florais brancas femininas 35ao40",
+"preco": 27.99,
+"de": 79.97,
+"desconto": 65,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-ltxxwzile6ow8d",
+"link": "https://s.shopee.com.br/70LxXJSa5c",
+"nota": 4.9,
+"vendas": 1580,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T14:55:09"
+},
+{
+"item": "22096426333",
+"cod": "R40",
+"nome": "Calça Mom Jeans Cintura Alta Feminina Levanta Bumbum",
+"preco": 69.99,
+"de": 170.71,
+"desconto": 59,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7qukw-ljslqk9dk3s673",
+"link": "https://s.shopee.com.br/4B1mA5zlo8",
+"nota": 4.8,
+"vendas": 5999,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T14:55:00"
+},
 {
 "item": "22597777290",
 "cod": "R39",
