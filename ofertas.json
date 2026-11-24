@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T15:52:44",
+"atualizado": "2026-11-24T16:08:34",
 "horas": 24,
 "relampago": [
 {
@@ -262,6 +262,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "18998327137",
+"cod": "R46",
+"nome": "Calça Feminina de Alfaiataria Reta sem Bolsos Tecido Qualidade Premium Cintura Alta Lisa Premium",
+"preco": 19.9,
+"de": 45.23,
+"desconto": 56,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lc-muapjgrw6sxs33",
+"link": "https://s.shopee.com.br/8fUBbI4h6c",
+"nota": 4.8,
+"vendas": 1894,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T16:06:43"
+},
 {
 "item": "58256926114",
 "cod": "R45",
