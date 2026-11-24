@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T09:13:42",
+"atualizado": "2026-11-24T09:33:37",
 "horas": 24,
 "relampago": [
 {
@@ -294,6 +294,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "18378306161",
+"cod": "R11",
+"nome": "2 Peças Umidificador Atomizador De Ar Doméstico Portátil Umidificador De Escritório De Grande Capacidade",
+"preco": 29.9,
+"de": 59.8,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7qukw-lfj2xrcq5nvied",
+"link": "https://s.shopee.com.br/5AuIzjOETs",
+"nota": 4.7,
+"vendas": 2702,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T09:32:02"
+},
 {
 "item": "57568964332",
 "cod": "R10",
@@ -1093,38 +1109,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T11:06:07"
-},
-{
-"item": "9212570285",
-"cod": "R41",
-"nome": "Creatina Suplemento Monohidratada em Pó 100% Pura Importada - Soldiers Nutrition",
-"preco": 33.9,
-"de": 121.07,
-"desconto": 72,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820m9-mpwm1rqctatfc5",
-"link": "https://s.shopee.com.br/1LhYpTsvBm",
-"nota": 4.9,
-"vendas": 24860,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T09:27:56"
-},
-{
-"item": "13527371956",
-"cod": "R40",
-"nome": "LIGE Relógio inteligente masculino à prova d'água com Bluetooth de freqüência cardíaca",
-"preco": 119.9,
-"de": 1332.22,
-"desconto": 91,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/cn-11134207-820l4-mnbbdry6953ca2",
-"link": "https://s.shopee.com.br/W8Rpqlf5F",
-"nota": 4.8,
-"vendas": 110,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T09:27:00"
 }
 ]
 }
