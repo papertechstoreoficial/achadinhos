@@ -1,7 +1,23 @@
 {
-"atualizado": "2026-11-24T02:01:32",
+"atualizado": "2026-11-24T03:46:54",
 "horas": 24,
 "relampago": [
+{
+"item": "20899382856",
+"cod": "R03",
+"nome": "Piscina Estrutural 6473 Litros + Bomba Filtrante + Capa + Forro Bestway",
+"preco": 1047.93,
+"de": 2519.0,
+"desconto": 58,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-mbwgyhdm1tbb88",
+"link": "https://s.shopee.com.br/8fUAmMvEqV",
+"nota": 4.9,
+"vendas": 103,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T03:46:09"
+},
 {
 "item": "18597835974",
 "cod": "R02",
@@ -257,22 +273,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T07:08:07"
-},
-{
-"item": "15092659395",
-"cod": "R36",
-"nome": "CURREN Men's Watches Original Brand Luminous Sharpener New Fashion Simple Business Casual Stainless Steel Quartz Waterpr",
-"preco": 58.99,
-"de": 160.0,
-"desconto": 63,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/cn-11134207-7r98o-lwsbq3pb1ydhdc",
-"link": "https://s.shopee.com.br/6L6ELuFgyA",
-"nota": 4.9,
-"vendas": 115,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T02:59:12"
 }
 ],
 "cupom": [],
