@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T12:33:21",
+"atualizado": "2026-11-24T12:53:06",
 "horas": 24,
 "relampago": [
 {
@@ -273,27 +273,43 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T15:34:00"
-},
-{
-"item": "57316622138",
-"cod": "R43",
-"nome": "Lovito Casual Long Dress with Floral Ruffles Holiday Spring Summer for Women DRB39BR064",
-"preco": 61.25,
-"de": 90.0,
-"desconto": 32,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/sg-11134201-825aj-mv17fp4qgjd3a6",
-"link": "https://s.shopee.com.br/9KjqYueTOz",
-"nota": 5.0,
-"vendas": 270,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T12:33:23"
 }
 ],
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23698781271",
+"cod": "R29",
+"nome": "Calça Pantalona Alfaiataria Feminina Cintura Alta com Cinto Zíper Lateral Flare Social Bolsos",
+"preco": 36.89,
+"de": 108.5,
+"desconto": 66,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l9-mqyzghl27d3b41",
+"link": "https://s.shopee.com.br/2VtY2XYCtI",
+"nota": 4.7,
+"vendas": 3510,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T12:51:20"
+},
+{
+"item": "23594087525",
+"cod": "R28",
+"nome": "Vestido Feminino Curto Festa de Alcinha Soltinho Conforto Leve Casual Fluido",
+"preco": 34.38,
+"de": 110.9,
+"desconto": 69,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l8-mp9vxnsth2itd6",
+"link": "https://s.shopee.com.br/7VIDzibiCo",
+"nota": 4.8,
+"vendas": 1004,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T12:51:11"
+},
 {
 "item": "58207340468",
 "cod": "R27",
@@ -1317,38 +1333,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T12:56:14"
-},
-{
-"item": "58218364624",
-"cod": "R45",
-"nome": "Smartwatch S10 Série 10 Relógio Inteligente Amoled  Masculino Feminino 45mm",
-"preco": 46.99,
-"de": 204.3,
-"desconto": 77,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820l4-mt9725mo9tz7bd",
-"link": "https://s.shopee.com.br/1LhZ2LIYLs",
-"nota": 4.8,
-"vendas": 252,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T12:35:14"
-},
-{
-"item": "46555441248",
-"cod": "R44",
-"nome": "Óculos de Sol Espotivo Premium Edição Limitada Baixa Pace Ciclismo Corrida VerãoTendencia uv400",
-"preco": 74.99,
-"de": 202.68,
-"desconto": 63,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820mf-mn5w0chbbvnk63",
-"link": "https://s.shopee.com.br/8KrJN92fC6",
-"nota": 4.9,
-"vendas": 176,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T12:34:17"
 }
 ]
 }
