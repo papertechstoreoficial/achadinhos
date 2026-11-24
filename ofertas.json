@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T10:46:31",
+"atualizado": "2026-11-24T11:04:11",
 "horas": 24,
 "relampago": [
 {
@@ -294,6 +294,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "18499853587",
+"cod": "R17",
+"nome": "Carregador Sem Fio 5000/10000mAh iPhone",
+"preco": 28.85,
+"de": 57.7,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-mavkx3k4v9n308",
+"link": "https://s.shopee.com.br/7KynfujnHa",
+"nota": 4.7,
+"vendas": 10240,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T11:02:21"
+},
+{
+"item": "58214853079",
+"cod": "R16",
+"nome": "Fone De Ouvido Sem Fio M10 TWS Bluetooth 5.3 display Led Touch",
+"preco": 18.99,
+"de": 70.33,
+"desconto": 73,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8258z-mr0fi8bhfthid6",
+"link": "https://s.shopee.com.br/1BOAKWdXvj",
+"nota": 4.7,
+"vendas": 12963,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T11:01:52"
+},
 {
 "item": "53967914547",
 "cod": "R15",
