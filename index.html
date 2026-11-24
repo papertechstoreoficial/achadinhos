@@ -100,7 +100,8 @@ main{max-width:1180px;margin:0 auto;padding:18px 16px 40px}
 @media (min-width:640px){.card .body{padding:14px 14px 16px}.card h3{font-size:15px}.card .price{font-size:22px}}
 
 .empty{display:none;text-align:center;color:var(--ink2);padding:40px 10px}
-body.buscando #ofertas,body.buscando #hero,body.buscando .sharebar,body.buscando #hojeBox,body.buscando #cats,body.buscando #faixas{display:none!important}
+body.buscando #ofertas,body.buscando #hero,body.buscando .sharebar,body.buscando #hojeBox,body.buscando #cats{display:none!important}
+body.filtrando #hojeBox{display:none!important}
 .bsc{display:none;align-items:center;gap:10px;flex-wrap:wrap;margin:6px 0 2px;color:var(--ink2);font-size:14px}body.buscando .bsc{display:flex}
 .bsc button{border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;padding:6px 14px;font:600 13px var(--text);cursor:pointer}
 .bsc .dq{color:var(--gold);font-weight:700;cursor:pointer;text-decoration:underline}
@@ -205,6 +206,13 @@ footer{border-top:1px solid var(--line);background:var(--kraft)}
 .faixas{display:flex;flex-wrap:wrap;gap:6px;margin:-4px 0 14px}
 .faixas button{border:1.5px solid var(--line);background:var(--field);color:var(--ink);border-radius:999px;padding:6px 12px;font:600 12.5px var(--text);cursor:pointer}
 .faixas button[aria-pressed="true"]{background:var(--chipon);border-color:var(--chipon);color:var(--chipontxt)}
+.faixas .fxv{display:flex;align-items:center;gap:6px;flex-wrap:wrap;font:600 12.5px var(--text);color:var(--ink2);margin-left:4px}
+.faixas .fxv label{display:flex;align-items:center;gap:4px;border:1.5px solid var(--line);background:var(--field);border-radius:999px;padding:3px 10px}
+.faixas .fxv.on label{border-color:var(--chipon)}
+.faixas .fxv input{width:74px;border:0;background:transparent;color:var(--ink);font:600 12.5px var(--text);outline:none;padding:3px 0}
+.faixas .fxv input::-webkit-outer-spin-button,.faixas .fxv input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+.faixas .fxv input[type=number]{-moz-appearance:textfield}
+.faixas .fxv .lp{border:0;background:none;color:var(--ink2);cursor:pointer;font:600 12px var(--text);padding:4px 6px;text-decoration:underline}
 .rk{position:absolute;top:10px;left:10px;background:#221a14;color:#fff;font:800 11px var(--display);padding:5px 8px;border-radius:999px}
 .rk.ouro{background:#b8873a}
 .off{position:absolute;bottom:10px;left:10px;background:var(--cta);color:#fff;font:800 11px var(--display);padding:4px 8px;border-radius:8px}
@@ -623,8 +631,21 @@ catsEl.innerHTML=CATS.map(c=>{const p=[...ALL].sort((a,b)=>a.rk-b.rk).find(x=>x.
   return `<button type="button" data-c="${esc(c)}" aria-pressed="${c==='Todos'}">${c==='Todos'?'<span class="ic todos">Tudo</span>':`<span class="ic"><img src="${p?p.img:''}" alt="" loading="lazy"></span>`}${c==='Todos'?'Todos':esc(c)}</button>`}).join('');
 catsEl.addEventListener('click',e=>{const b=e.target.closest('button');if(b)escolherCat(b.dataset.c,true)});
 const fx=document.getElementById('faixas');
-fx.innerHTML=Object.entries(FAIXAS).map(([k,v])=>`<button type="button" data-f="${k}" aria-pressed="${k==='todas'}">${v[0]}</button>`).join('');
-fx.onclick=e=>{const b=e.target.closest('button');if(!b)return;faixa=b.dataset.f;mostrar=0;[...fx.children].forEach(x=>x.setAttribute('aria-pressed',x===b));render()};
+fx.innerHTML=Object.entries(FAIXAS).map(([k,v])=>`<button type="button" data-f="${k}" aria-pressed="${k==='todas'}">${v[0]}</button>`).join('')+
+  `<span class="fxv" id="fxv"><label>De R$ <input id="pmin" type="number" inputmode="decimal" min="0" step="1" placeholder="0" aria-label="Preço mínimo"></label>
+   <label>até R$ <input id="pmax" type="number" inputmode="decimal" min="0" step="1" placeholder="sem limite" aria-label="Preço máximo"></label>
+   <button type="button" class="lp" id="plimpa" hidden>limpar</button></span>`;
+const pmin=document.getElementById('pmin'),pmax=document.getElementById('pmax'),plimpa=document.getElementById('plimpa');
+const marcaFaixa=k=>[...fx.querySelectorAll('button[data-f]')].forEach(x=>x.setAttribute('aria-pressed',x.dataset.f===k));
+fx.onclick=e=>{const b=e.target.closest('button[data-f]');if(!b)return;faixa=b.dataset.f;mostrar=0;pmin.value='';pmax.value='';
+  document.getElementById('fxv').classList.remove('on');plimpa.hidden=true;marcaFaixa(faixa);render()};
+let pT=null;
+function faixaLivre(){clearTimeout(pT);pT=setTimeout(()=>{let a=parseFloat(String(pmin.value).replace(',','.')),b=parseFloat(String(pmax.value).replace(',','.'));
+  const tem=!isNaN(a)||!isNaN(b);if(!isNaN(a)&&!isNaN(b)&&a>b){const t=a;a=b;b=t}
+  FAIXAS.livre=['',isNaN(a)?0:a,isNaN(b)?1e9:b,true];faixa=tem?'livre':'todas';mostrar=0;
+  document.getElementById('fxv').classList.toggle('on',tem);plimpa.hidden=!tem;marcaFaixa(tem?'':'todas');render()},350)}
+pmin.addEventListener('input',faixaLivre);pmax.addEventListener('input',faixaLivre);
+plimpa.onclick=()=>{pmin.value='';pmax.value='';faixaLivre()};
 const sheet=document.getElementById('sheet'),bg=document.getElementById('sheetBg'),sb=document.getElementById('sheetBody');
 function abrir(html){sb.innerHTML=html;sheet.classList.add('on');bg.classList.add('on')}
 function fechar(){sheet.classList.remove('on');bg.classList.remove('on')}
@@ -703,8 +724,9 @@ function buscar(lista,qtxt){const frase=norm(qtxt).replace(/[^a-z0-9 ]+/g,' ').r
 function render(manter){
   const f=FAIXAS[faixa];
   const qraw=document.getElementById('q').value.trim(),busc=!!qraw;
-  document.body.classList.toggle('buscando',busc);
-  let list=busc?buscar(ALL.concat(OFX),qraw):ALL.filter(p=>(cat==='Todos'||p.cat===cat)&&p.pr>=f[1]&&p.pr<f[2]);
+  document.body.classList.toggle('buscando',busc);document.body.classList.toggle('filtrando',faixa!=='todas');
+  const naFaixa=p=>p.pr>=f[1]&&(f[3]?p.pr<=f[2]:p.pr<f[2]);
+  let list=busc?buscar(ALL.concat(OFX),qraw).filter(naFaixa):ALL.filter(p=>(cat==='Todos'||p.cat===cat)&&naFaixa(p));
   if(!busc)BUSCA={termos:[],frase:'',parecidos:false,sugestao:''};
   const by={rank:(a,b)=>a.rk-b.rk,novos:(a,b)=>String(b.entrou||b.data||'').localeCompare(String(a.entrou||a.data||''))||a.rk-b.rk,
     desc:(a,b)=>(b.desconto||0)-(a.desconto||0)||a.rk-b.rk,nota:(a,b)=>(b.nota||0)-(a.nota||0)||a.rk-b.rk,
