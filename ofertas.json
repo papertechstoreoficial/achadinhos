@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-24T09:33:37",
+"atualizado": "2026-11-24T09:53:25",
 "horas": 24,
 "relampago": [
 {
@@ -294,6 +294,22 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58268863717",
+"cod": "R12",
+"nome": "Blusinha Virginia Bata Tule Alcinha Camadas Com Bojo E Fivela Amarração Nas Costas Moda Feminina Verão",
+"preco": 44.55,
+"de": 99.0,
+"desconto": 55,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m4-mth5gep6hclc04",
+"link": "https://s.shopee.com.br/9pg8ZdzPEN",
+"nota": 4.7,
+"vendas": 1565,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-24T09:51:32"
+},
 {
 "item": "18378306161",
 "cod": "R11",
