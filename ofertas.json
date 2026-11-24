@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-23T23:03:03",
+"atualizado": "2026-11-23T23:22:48",
 "horas": 24,
 "relampago": [
 {
@@ -262,6 +262,38 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23092879057",
+"cod": "R95",
+"nome": "Triturador Inox  Processador De Alimentos Carne e Legumes Multiprocessador Elétrico",
+"preco": 69.99,
+"de": 199.97,
+"desconto": 65,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6764e92l8wgc4",
+"link": "https://s.shopee.com.br/9V3HTkgCo5",
+"nota": 4.7,
+"vendas": 740,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T23:21:30"
+},
+{
+"item": "26403330394",
+"cod": "R94",
+"nome": "Óculos De Sol Esportivos Polarizados Masculinos Para Ciclismo , Pesca , Proteção UV , Moda",
+"preco": 18.12,
+"de": 30.2,
+"desconto": 40,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-823rd-mp4mffedebr4d0",
+"link": "https://s.shopee.com.br/60TPJGd8un",
+"nota": 4.7,
+"vendas": 330,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-23T23:20:49"
+},
 {
 "item": "21297458008",
 "cod": "R93",
