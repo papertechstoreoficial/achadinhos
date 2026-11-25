@@ -101,7 +101,7 @@ main{max-width:1180px;margin:0 auto;padding:18px 16px 40px}
 
 .empty{display:none;text-align:center;color:var(--ink2);padding:40px 10px}
 body.buscando #ofertas,body.buscando #hero,body.buscando .sharebar,body.buscando #hojeBox,body.buscando #cats{display:none!important}
-body.filtrando #hojeBox{display:none!important}
+body.filtrando #hojeBox,body.filtrando #ofertas,body.filtrando #hero,body.filtrando .sharebar,body.filtrando #cats{display:none!important}
 .bsc{display:none;align-items:center;gap:10px;flex-wrap:wrap;margin:6px 0 2px;color:var(--ink2);font-size:14px}body.buscando .bsc{display:flex}
 .bsc button{border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;padding:6px 14px;font:600 13px var(--text);cursor:pointer}
 .bsc .dq{color:var(--gold);font-weight:700;cursor:pointer;text-decoration:underline}
@@ -203,7 +203,9 @@ footer{border-top:1px solid var(--line);background:var(--kraft)}
 .sh{display:inline-flex;align-items:center;gap:6px;text-decoration:none;font:700 13px var(--display);padding:8px 14px;border-radius:999px;color:#fff}
 .sh.wa{background:#1f9e55}.sh.tg{background:#2a8bd0}
 #hojeBox{margin-bottom:26px}
-.faixas{display:flex;flex-wrap:wrap;gap:6px;margin:-4px 0 14px}
+.faixas{display:flex;flex-wrap:wrap;align-items:center;gap:6px;max-width:1180px;margin:0 auto;padding:0 16px 12px}
+.faixas button,.faixas .fxv label{white-space:nowrap;flex:none}
+@media(max-width:700px){.faixas{padding:0 12px 8px;gap:5px}.faixas button{padding:5px 9px;font-size:12px}.faixas .fxv{flex:1 1 100%;margin:2px 0 0;flex-wrap:nowrap}.faixas .fxv label{flex:1;padding:3px 9px}.faixas .fxv input{width:100%;min-width:0}}
 .faixas button{border:1.5px solid var(--line);background:var(--field);color:var(--ink);border-radius:999px;padding:6px 12px;font:600 12.5px var(--text);cursor:pointer}
 .faixas button[aria-pressed="true"]{background:var(--chipon);border-color:var(--chipon);color:var(--chipontxt)}
 .faixas .fxv{display:flex;align-items:center;gap:6px;flex-wrap:wrap;font:600 12.5px var(--text);color:var(--ink2);margin-left:4px}
@@ -477,6 +479,7 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
     </button>
   </div>
   <nav class="chips" id="chips" aria-label="Categorias"></nav>
+  <div class="faixas" id="faixas" aria-label="Filtrar por preço"></div>
   <div class="ferr">
     <button type="button" id="btnCat"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Categorias: <b id="catLbl">Todas</b></button>
     <button type="button" id="btnOrd"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M7 4v16M3 16l4 4 4-4M17 20V4M13 8l4-4 4 4"/></svg><span id="ordLbl">Ordenar</span></button>
@@ -502,7 +505,6 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
   <div class="head"><h2 id="title">Todos os achadinhos</h2><div class="dir"><span id="count"></span>
     <select class="ord" id="ordSel" aria-label="Ordenar"><option value="rank">Ranking de vendas</option><option value="novos">Novidades</option><option value="desc">Maior desconto</option><option value="nota">Melhor avaliados</option><option value="menor">Menor preço</option><option value="maior">Maior preço</option></select></div></div>
   <div class="bsc" id="bsc"></div>
-  <div class="faixas" id="faixas"></div>
   <div class="grid" id="grid"></div>
   <div class="pager"><button type="button" id="mais" hidden>Ver mais</button></div>
   <div class="empty" id="empty"><b>Nenhum achadinho encontrado.</b><br>Confira a palavra ou tente uma destas:<div class="sug" id="sug"></div></div>
@@ -638,12 +640,13 @@ fx.innerHTML=Object.entries(FAIXAS).map(([k,v])=>`<button type="button" data-f="
 const pmin=document.getElementById('pmin'),pmax=document.getElementById('pmax'),plimpa=document.getElementById('plimpa');
 const marcaFaixa=k=>[...fx.querySelectorAll('button[data-f]')].forEach(x=>x.setAttribute('aria-pressed',x.dataset.f===k));
 fx.onclick=e=>{const b=e.target.closest('button[data-f]');if(!b)return;faixa=b.dataset.f;mostrar=0;pmin.value='';pmax.value='';
-  document.getElementById('fxv').classList.remove('on');plimpa.hidden=true;marcaFaixa(faixa);render()};
+  document.getElementById('fxv').classList.remove('on');plimpa.hidden=true;marcaFaixa(faixa);render();irResultados()};
+function irResultados(){const t=document.getElementById('title');const y=t.getBoundingClientRect().top+scrollY-(document.querySelector('.top')?.offsetHeight||0)-12;if(Math.abs(scrollY-y)>40)scrollTo({top:Math.max(0,y),behavior:'smooth'})}
 let pT=null;
 function faixaLivre(){clearTimeout(pT);pT=setTimeout(()=>{let a=parseFloat(String(pmin.value).replace(',','.')),b=parseFloat(String(pmax.value).replace(',','.'));
   const tem=!isNaN(a)||!isNaN(b);if(!isNaN(a)&&!isNaN(b)&&a>b){const t=a;a=b;b=t}
   FAIXAS.livre=['',isNaN(a)?0:a,isNaN(b)?1e9:b,true];faixa=tem?'livre':'todas';mostrar=0;
-  document.getElementById('fxv').classList.toggle('on',tem);plimpa.hidden=!tem;marcaFaixa(tem?'':'todas');render()},350)}
+  document.getElementById('fxv').classList.toggle('on',tem);plimpa.hidden=!tem;marcaFaixa(tem?'':'todas');render();if(tem)irResultados()},350)}
 pmin.addEventListener('input',faixaLivre);pmax.addEventListener('input',faixaLivre);
 plimpa.onclick=()=>{pmin.value='';pmax.value='';faixaLivre()};
 const sheet=document.getElementById('sheet'),bg=document.getElementById('sheetBg'),sb=document.getElementById('sheetBody');
@@ -726,7 +729,8 @@ function render(manter){
   const qraw=document.getElementById('q').value.trim(),busc=!!qraw;
   document.body.classList.toggle('buscando',busc);document.body.classList.toggle('filtrando',faixa!=='todas');
   const naFaixa=p=>p.pr>=f[1]&&(f[3]?p.pr<=f[2]:p.pr<f[2]);
-  let list=busc?buscar(ALL.concat(OFX),qraw).filter(naFaixa):ALL.filter(p=>(cat==='Todos'||p.cat===cat)&&naFaixa(p));
+  const comOfertas=faixa!=='todas'?ALL.concat(OFX.filter(o=>o.status!=='encerrada')):ALL;   // filtrou por preço: entra tudo (relâmpago, cupom, frete, achados)
+  let list=busc?buscar(ALL.concat(OFX),qraw).filter(naFaixa):comOfertas.filter(p=>(cat==='Todos'||p.cat===cat)&&naFaixa(p));
   if(!busc)BUSCA={termos:[],frase:'',parecidos:false,sugestao:''};
   const by={rank:(a,b)=>a.rk-b.rk,novos:(a,b)=>String(b.entrou||b.data||'').localeCompare(String(a.entrou||a.data||''))||a.rk-b.rk,
     desc:(a,b)=>(b.desconto||0)-(a.desconto||0)||a.rk-b.rk,nota:(a,b)=>(b.nota||0)-(a.nota||0)||a.rk-b.rk,
@@ -736,7 +740,8 @@ function render(manter){
   document.getElementById('grid').innerHTML=list.slice(0,ate).map(card).join('');
   const resto=list.length-ate,mb=document.getElementById('mais');
   mb.hidden=resto<=0;mb.textContent=`Ver mais (${resto} ${resto===1?'produto':'produtos'})`;
-  document.getElementById('title').textContent=busc?`Resultados para “${qraw}”`:(ord==='rank'?'Ranking dos mais vendidos':'Todos os achadinhos')+(cat==='Todos'?'':' · '+cat);
+  const fxT=faixa==='todas'?'':faixa==='livre'?(f[2]>=1e9?`a partir de R$ ${f[1]}`:`de R$ ${f[1]} até R$ ${f[2]}`):(FAIXAS[faixa]||[''])[0];
+  document.getElementById('title').textContent=busc?`Resultados para “${qraw}”`:fxT?`Achadinhos e ofertas ${fxT}`+(cat==='Todos'?'':' · '+cat):(ord==='rank'?'Ranking dos mais vendidos':'Todos os achadinhos')+(cat==='Todos'?'':' · '+cat);
   document.getElementById('bsc').innerHTML=busc?`${BUSCA.parecidos?'Não achamos exatamente isso. Veja produtos parecidos.':''}${BUSCA.sugestao?` Você quis dizer <span class="dq" data-s="${esc(BUSCA.sugestao)}">${esc(BUSCA.sugestao)}</span>?`:''}<button type="button" id="limparBusca">✕ Limpar busca</button>`:'';
   if(busc&&!list.length){const top=[...CATS].filter(c=>c!=='Todos').slice(0,6);document.getElementById('sug').innerHTML=(BUSCA.sugestao?[BUSCA.sugestao]:[]).concat(top).map(t=>`<button type="button" data-s="${esc(t)}">${esc(t)}</button>`).join('')}
   document.getElementById('count').textContent=list.length+(list.length===1?' produto':' produtos');
