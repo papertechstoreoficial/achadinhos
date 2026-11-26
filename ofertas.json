@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-26T09:40:20",
+"atualizado": "2026-11-26T09:45:43",
 "horas": 24,
 "anteriores": [
 {
@@ -5470,7 +5470,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T13:18:01",
-"conferido": "2026-11-25T21:38:23",
+"conferido": "2026-11-26T09:45:43",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5489,7 +5489,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T13:16:32",
-"conferido": "2026-11-25T21:38:20",
+"conferido": "2026-11-26T09:45:40",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5508,7 +5508,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T13:08:02",
-"conferido": "2026-11-25T21:38:16",
+"conferido": "2026-11-26T09:45:37",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5527,7 +5527,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T13:06:32",
-"conferido": "2026-11-25T21:38:13",
+"conferido": "2026-11-26T09:45:33",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5546,7 +5546,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T12:58:02",
-"conferido": "2026-11-25T21:38:10",
+"conferido": "2026-11-26T09:45:30",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5565,7 +5565,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T12:56:32",
-"conferido": "2026-11-25T21:38:07",
+"conferido": "2026-11-26T09:45:27",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5584,7 +5584,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T12:48:01",
-"conferido": "2026-11-25T21:38:04",
+"conferido": "2026-11-26T09:45:24",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5603,7 +5603,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T12:46:33",
-"conferido": "2026-11-25T21:38:01",
+"conferido": "2026-11-26T09:45:21",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -7205,6 +7205,40 @@
 }
 ],
 "relampago": [
+{
+"item": "22894356696",
+"cod": "R62",
+"nome": "Mix Tropical Nuts P&P - Castanha de Caju/Pará/Amendoim/Amêndoas/Uva Passa/Nozes",
+"preco": 85.41,
+"de": 150.0,
+"desconto": 43,
+"origem": "relampago",
+"img": "https://down-br.img.susercontent.com/file/id-11134258-81ztc-me3yjy0bgg02c5",
+"link": "https://s.shopee.com.br/8fUEMfxk6O",
+"nota": 4.9,
+"vendas": 688,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T09:42:40",
+"status": "ativa"
+},
+{
+"item": "58261598507",
+"cod": "R61",
+"nome": "Protetor Craniano Anti Queda Infantil, Almofada Respirável Ajustável Proteção para Desenvolvimento do Bebê",
+"preco": 32.88,
+"de": 60.0,
+"desconto": 45,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/sg-11134201-823qd-mosxt1ad4d1eae",
+"link": "https://s.shopee.com.br/8fUEMdGPoj",
+"nota": 4.9,
+"vendas": 800,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T09:42:07",
+"status": "ativa"
+},
 {
 "item": "58267897313",
 "cod": "R43",
