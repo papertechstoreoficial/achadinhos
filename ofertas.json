@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-26T11:22:36",
+"atualizado": "2026-11-26T11:37:47",
 "horas": 24,
 "anteriores": [
 {
@@ -473,7 +473,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T22:45:54",
-"conferido": "2026-11-25T23:03:02",
+"conferido": "2026-11-26T11:37:41",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -492,7 +492,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T22:45:45",
-"conferido": "2026-11-25T23:02:53",
+"conferido": "2026-11-26T11:37:38",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -2438,9 +2438,9 @@
 "item": "58268863717",
 "cod": "R12",
 "nome": "Blusinha Virginia Bata Tule Alcinha Camadas Com Bojo E Fivela Amarração Nas Costas Moda Feminina Verão",
-"preco": 42.57,
-"de": 99.0,
-"desconto": 57,
+"preco": 44.95,
+"de": 99.89,
+"desconto": 55,
 "origem": "achado",
 "img": "https://cf.shopee.com.br/file/br-11134207-820m4-mth5gep6hclc04",
 "link": "https://s.shopee.com.br/9pg8ZdzPEN",
@@ -2449,7 +2449,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T09:51:32",
-"conferido": "2026-11-25T22:45:17",
+"conferido": "2026-11-26T11:37:31",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -2468,7 +2468,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T09:32:02",
-"conferido": "2026-11-25T23:03:11",
+"conferido": "2026-11-26T11:37:44",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -2487,7 +2487,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T09:11:34",
-"conferido": "2026-11-25T22:45:20",
+"conferido": "2026-11-26T11:37:34",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -2525,7 +2525,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T07:47:09",
-"conferido": "2026-11-25T22:45:14",
+"conferido": "2026-11-26T11:37:28",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -2563,7 +2563,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T07:45:04",
-"conferido": "2026-11-25T22:45:11",
+"conferido": "2026-11-26T11:37:22",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5413,7 +5413,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T16:28:01",
-"conferido": "2026-11-25T23:03:20",
+"conferido": "2026-11-26T11:37:47",
 "indisponivel": null,
 "status": "encerrada"
 },
