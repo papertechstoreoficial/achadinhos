@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-26T06:28:04",
+"atualizado": "2026-11-26T06:43:17",
 "horas": 24,
 "anteriores": [
 {
@@ -1176,7 +1176,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:12:38",
-"conferido": "2026-11-25T18:13:27",
+"conferido": "2026-11-26T06:42:10",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1195,7 +1195,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:12:26",
-"conferido": "2026-11-25T18:13:48",
+"conferido": "2026-11-26T06:43:12",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1214,7 +1214,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:12:14",
-"conferido": "2026-11-25T18:13:45",
+"conferido": "2026-11-26T06:43:05",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1233,7 +1233,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:12:01",
-"conferido": "2026-11-25T18:13:42",
+"conferido": "2026-11-26T06:42:55",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1252,7 +1252,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T17:56:39",
-"conferido": "2026-11-25T18:13:39",
+"conferido": "2026-11-26T06:42:46",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1260,9 +1260,9 @@
 "item": "58260647499",
 "cod": "R54",
 "nome": "JOYFOX Inflatable Mattress Double and Single with Portable Electric Pump Pillows and Camping Bag",
-"preco": 154.0,
-"de": 592.31,
-"desconto": 74,
+"preco": 159.0,
+"de": 588.89,
+"desconto": 73,
 "origem": "relampago",
 "img": "https://cf.shopee.com.br/file/br-11134207-820l4-mpd9bna4dwxs4f",
 "link": "https://s.shopee.com.br/6AmqkERXgb",
@@ -1271,7 +1271,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T17:56:27",
-"conferido": "2026-11-25T18:13:36",
+"conferido": "2026-11-26T06:42:37",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1290,7 +1290,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T17:56:15",
-"conferido": "2026-11-25T18:13:33",
+"conferido": "2026-11-26T06:42:28",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1309,7 +1309,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T17:56:03",
-"conferido": "2026-11-25T18:13:30",
+"conferido": "2026-11-26T06:42:19",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -7282,6 +7282,23 @@
 ],
 "relampago": [
 {
+"item": "58269323352",
+"cod": "R40",
+"nome": "Escova Secadora 5 em 1 Multifuncional para Cabelos",
+"preco": 139.65,
+"de": 374.75,
+"desconto": 63,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/sg-11134201-825a8-mvsp7638l05d89",
+"link": "https://s.shopee.com.br/3qOyPJtXAn",
+"nota": 4.7,
+"vendas": 103,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T06:41:05",
+"status": "ativa"
+},
+{
 "item": "58265358635",
 "cod": "R34",
 "nome": "Tamanco Feminino Salto Médio Bico Folha Elegante Confortável Festa Trabalho Branco,Preto,Caramelo",
@@ -7421,6 +7438,40 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "23794073574",
+"cod": "R42",
+"nome": "Meias De Compressão Alta Pressão Varizes De Dedo Do Pé Abertas Homens Mulheres Grandes 2 Tamanhos",
+"preco": 15.9,
+"de": 28.91,
+"desconto": 45,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820la-movpfbucnm68e3",
+"link": "https://s.shopee.com.br/7VIGm8V6Dy",
+"nota": 4.8,
+"vendas": 2430,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T06:42:08",
+"status": "ativa"
+},
+{
+"item": "58254242708",
+"cod": "R41",
+"nome": "Short Feminino Marrante Reto Em Dominique Cintura Alta Com Botão Frontal E Bolsos Laterais Casual Urbano Verão",
+"preco": 37.99,
+"de": 70.35,
+"desconto": 46,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8260x-mk1eak2f277mee",
+"link": "https://s.shopee.com.br/2BGkQIcfTo",
+"nota": 4.9,
+"vendas": 2587,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T06:41:37",
+"status": "ativa"
+},
 {
 "item": "58204248693",
 "cod": "R39",
