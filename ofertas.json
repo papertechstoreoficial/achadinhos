@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-26T07:47:52",
+"atualizado": "2026-11-26T08:05:55",
 "horas": 24,
 "anteriores": [
 {
@@ -644,7 +644,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T19:37:33",
-"conferido": "2026-11-25T19:43:54",
+"conferido": "2026-11-26T08:05:55",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -663,7 +663,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T19:37:17",
-"conferido": "2026-11-25T19:43:51",
+"conferido": "2026-11-26T08:05:52",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -682,7 +682,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T19:21:53",
-"conferido": "2026-11-25T19:43:48",
+"conferido": "2026-11-26T08:05:49",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -701,7 +701,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T19:21:47",
-"conferido": "2026-11-25T19:43:44",
+"conferido": "2026-11-26T08:05:46",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -720,7 +720,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T19:21:41",
-"conferido": "2026-11-25T19:43:41",
+"conferido": "2026-11-26T08:05:43",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -739,7 +739,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T19:21:32",
-"conferido": "2026-11-25T19:43:38",
+"conferido": "2026-11-26T08:05:40",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -747,9 +747,9 @@
 "item": "58215127355",
 "cod": "R81",
 "nome": "Glycolic Acid Facial Toner 7% Hidrabene 150ml Daily Peeling Pores Luminosity Vegan",
-"preco": 34.9,
-"de": 74.26,
-"desconto": 53,
+"preco": 31.9,
+"de": 74.19,
+"desconto": 57,
 "origem": "relampago",
 "img": "https://cf.shopee.com.br/file/br-11134207-820m4-mvp2cz6xbk7510",
 "link": "https://s.shopee.com.br/5qA0RS67Oh",
@@ -758,7 +758,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T19:21:20",
-"conferido": "2026-11-25T19:43:35",
+"conferido": "2026-11-26T08:05:37",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -777,7 +777,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T19:21:10",
-"conferido": "2026-11-25T19:43:32",
+"conferido": "2026-11-26T08:05:33",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -7436,6 +7436,40 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58218065616",
+"cod": "R51",
+"nome": "Calça Feminina Sensorial Marrant Pantalona Cintura Alta Com Amarração Elegante",
+"preco": 55.99,
+"de": 79.99,
+"desconto": 30,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lt-mtjrx1q9hededd",
+"link": "https://s.shopee.com.br/2qWRJ7WlT3",
+"nota": 4.9,
+"vendas": 2351,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T08:03:08",
+"status": "ativa"
+},
+{
+"item": "20298202520",
+"cod": "R50",
+"nome": "Conjunto Pijama Scrub Enfermagem Hospitalar Unissex Roupa Cirurgica Confortavel Farda Medica Gola V",
+"preco": 44.98,
+"de": 78.91,
+"desconto": 43,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m3-mqp6eu6tc0sgf8",
+"link": "https://s.shopee.com.br/5LDmHgJFBR",
+"nota": 4.6,
+"vendas": 2168,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T08:02:42",
+"status": "ativa"
+},
 {
 "item": "58264629891",
 "cod": "R49",
