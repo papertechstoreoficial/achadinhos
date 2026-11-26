@@ -1,7 +1,45 @@
 {
-"atualizado": "2026-11-26T14:09:13",
+"atualizado": "2026-11-26T14:22:49",
 "horas": 24,
 "anteriores": [
+{
+"item": "22798424792",
+"cod": "R57",
+"nome": "Macaquinho Fitness Alcinha Slim Zero Transparência Forrado Academia Macacão Crossfit 048",
+"preco": 29.99,
+"de": 99.97,
+"desconto": 70,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820md-mt48shzi8q2sc9",
+"link": "https://s.shopee.com.br/7KypTzoBMa",
+"nota": 4.7,
+"vendas": 2240,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-25T14:14:05",
+"conferido": "2026-11-26T14:22:26",
+"indisponivel": null,
+"status": "encerrada"
+},
+{
+"item": "23698786124",
+"cod": "R56",
+"nome": "Garrafa Inox Térmica Com Capinha Protetora De Silicone Antiderrapante",
+"preco": 31.99,
+"de": 69.54,
+"desconto": 54,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820m5-mt00jk3e0eme7b",
+"link": "https://s.shopee.com.br/5AuKtzo2Hk",
+"nota": 4.8,
+"vendas": 273,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-25T14:13:50",
+"conferido": "2026-11-26T14:22:17",
+"indisponivel": null,
+"status": "encerrada"
+},
 {
 "item": "22099485684",
 "cod": "R55",
@@ -4501,7 +4539,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T12:16:55",
-"conferido": "2026-11-26T00:59:37",
+"conferido": "2026-11-26T14:22:49",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4520,7 +4558,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T09:48:37",
-"conferido": "2026-11-26T00:59:31",
+"conferido": "2026-11-26T14:22:45",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4539,7 +4577,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T09:46:52",
-"conferido": "2026-11-26T00:59:23",
+"conferido": "2026-11-26T14:22:42",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4558,7 +4596,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T09:39:09",
-"conferido": "2026-11-26T00:59:14",
+"conferido": "2026-11-26T14:22:39",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4577,7 +4615,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T09:37:22",
-"conferido": "2026-11-26T00:59:06",
+"conferido": "2026-11-26T14:22:34",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4596,7 +4634,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T07:28:49",
-"conferido": "2026-11-26T00:40:27",
+"conferido": "2026-11-26T14:22:30",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -9656,40 +9694,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-25T14:33:13",
-"status": "ativa"
-},
-{
-"item": "22798424792",
-"cod": "R57",
-"nome": "Macaquinho Fitness Alcinha Slim Zero Transparência Forrado Academia Macacão Crossfit 048",
-"preco": 29.99,
-"de": 99.97,
-"desconto": 70,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820md-mt48shzi8q2sc9",
-"link": "https://s.shopee.com.br/7KypTzoBMa",
-"nota": 4.7,
-"vendas": 2203,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-25T14:14:05",
-"status": "ativa"
-},
-{
-"item": "23698786124",
-"cod": "R56",
-"nome": "Garrafa Inox Térmica Com Capinha Protetora De Silicone Antiderrapante",
-"preco": 31.99,
-"de": 69.54,
-"desconto": 54,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820m5-mt00jk3e0eme7b",
-"link": "https://s.shopee.com.br/5AuKtzo2Hk",
-"nota": 4.8,
-"vendas": 273,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-25T14:13:50",
 "status": "ativa"
 }
 ]
