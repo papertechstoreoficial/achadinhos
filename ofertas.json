@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-26T15:45:09",
+"atualizado": "2026-11-26T15:48:38",
 "horas": 24,
 "anteriores": [
 {
@@ -3969,7 +3969,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T15:34:38",
-"conferido": "2026-11-26T02:32:04",
+"conferido": "2026-11-26T15:48:38",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -3988,7 +3988,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T15:34:00",
-"conferido": "2026-11-26T02:18:02",
+"conferido": "2026-11-26T15:48:34",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4007,7 +4007,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T13:36:06",
-"conferido": "2026-11-26T02:17:53",
+"conferido": "2026-11-26T15:48:31",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4026,7 +4026,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T13:16:00",
-"conferido": "2026-11-26T02:17:46",
+"conferido": "2026-11-26T15:48:28",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4045,7 +4045,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T12:56:14",
-"conferido": "2026-11-26T02:17:30",
+"conferido": "2026-11-26T15:48:25",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4064,7 +4064,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T12:33:23",
-"conferido": "2026-11-26T02:17:04",
+"conferido": "2026-11-26T15:48:22",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4083,7 +4083,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T11:06:07",
-"conferido": "2026-11-26T02:02:56",
+"conferido": "2026-11-26T15:48:19",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4102,7 +4102,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T09:27:56",
-"conferido": "2026-11-26T02:02:48",
+"conferido": "2026-11-26T15:48:16",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -6463,25 +6463,6 @@
 "status": "encerrada"
 },
 {
-"item": "58261209291",
-"cod": "R98",
-"nome": "Spinning Exercise Bike with Professional Sport Monitor Supports up to 120kg",
-"preco": 486.0,
-"de": 796.72,
-"desconto": 39,
-"origem": "relampago",
-"img": "https://cf.shopee.com.br/file/sg-11134201-8257y-mq7pxoy9i1a933",
-"link": "https://s.shopee.com.br/3LSaBXuPGX",
-"nota": 4.8,
-"vendas": 398,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T11:56:37",
-"conferido": "2026-11-26T09:22:47",
-"indisponivel": null,
-"status": "encerrada"
-},
-{
 "item": "22394338313",
 "cod": "R97",
 "nome": "Chuveiro Para Os Pés Escova Massageadora As Costas Limpeza Do Banheiro Banheira Antiderrapante",
@@ -7871,6 +7852,23 @@
 ],
 "relampago": [
 {
+"item": "58261209291",
+"cod": "R76",
+"nome": "Bicicleta Spinning Ergométrica Para Exercícios Com Monitor Profissional Sport Suporta até 120kg",
+"preco": 461.7,
+"de": 799.0,
+"desconto": 42,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8257y-mq7pxoy9i1a933",
+"link": "https://s.shopee.com.br/8pnexwngko",
+"nota": 4.8,
+"vendas": 398,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T15:45:53",
+"status": "ativa"
+},
+{
 "item": "19000529650",
 "cod": "R63",
 "nome": "Ameixa Seca Sem Caroço - Embalado a Vácuo - P&P FIT",
@@ -8044,6 +8042,23 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "22198034315",
+"cod": "R77",
+"nome": "Calça Wide Leg Jeans Feminina Marmorizada Cintura Alta 100% Algodão Premium",
+"preco": 61.98,
+"de": 129.12,
+"desconto": 52,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820l6-mua1s0on4gld44",
+"link": "https://s.shopee.com.br/Lp6qKxZmE",
+"nota": 4.8,
+"vendas": 8399,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T15:46:03",
+"status": "ativa"
+},
 {
 "item": "58215800426",
 "cod": "R75",
