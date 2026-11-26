@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-26T14:58:12",
+"atualizado": "2026-11-26T15:12:29",
 "horas": 24,
 "anteriores": [
 {
@@ -2677,7 +2677,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T11:22:00",
-"conferido": "2026-11-26T01:32:22",
+"conferido": "2026-11-26T15:12:10",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -2696,7 +2696,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T11:21:34",
-"conferido": "2026-11-26T01:32:32",
+"conferido": "2026-11-26T15:12:13",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4292,7 +4292,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T20:46:43",
-"conferido": "2026-11-26T01:47:45",
+"conferido": "2026-11-26T15:12:29",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4311,7 +4311,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T20:40:04",
-"conferido": "2026-11-26T01:33:06",
+"conferido": "2026-11-26T15:12:26",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4330,7 +4330,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T20:38:31",
-"conferido": "2026-11-26T01:32:58",
+"conferido": "2026-11-26T15:12:23",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4349,7 +4349,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T20:36:47",
-"conferido": "2026-11-26T01:32:51",
+"conferido": "2026-11-26T15:12:20",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4368,7 +4368,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T20:22:05",
-"conferido": "2026-11-26T01:32:42",
+"conferido": "2026-11-26T15:12:16",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4387,7 +4387,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T20:20:12",
-"conferido": "2026-11-26T01:32:13",
+"conferido": "2026-11-26T15:12:04",
 "indisponivel": null,
 "status": "encerrada"
 },
