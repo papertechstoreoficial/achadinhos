@@ -1,7 +1,45 @@
 {
-"atualizado": "2026-11-26T15:12:29",
+"atualizado": "2026-11-26T15:27:30",
 "horas": 24,
 "anteriores": [
+{
+"item": "46861500842",
+"cod": "R63",
+"nome": "Kit de relógio de versão mais recente 2026 com carregador de carregamento sem fio Bluetooth chamada relógio masculino fe",
+"preco": 47.99,
+"de": 177.74,
+"desconto": 73,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/cn-11134207-820l4-moxr9uk4naby22",
+"link": "https://s.shopee.com.br/1W12bMHhcd",
+"nota": 4.9,
+"vendas": 360,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-25T15:13:32",
+"conferido": "2026-11-26T15:27:04",
+"indisponivel": null,
+"status": "encerrada"
+},
+{
+"item": "58259322915",
+"cod": "R62",
+"nome": "Creatina Monohidratada 300g Sabor Melancia - Fury-x Nutrition",
+"preco": 25.9,
+"de": 89.31,
+"desconto": 71,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820mc-mmkft8znekuf12",
+"link": "https://s.shopee.com.br/2BGjOZBAWu",
+"nota": 4.9,
+"vendas": 478,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-25T15:13:17",
+"conferido": "2026-11-26T15:27:11",
+"indisponivel": null,
+"status": "encerrada"
+},
 {
 "item": "22998137276",
 "cod": "R61",
@@ -4178,7 +4216,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T22:36:47",
-"conferido": "2026-11-26T01:48:24",
+"conferido": "2026-11-26T15:27:30",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4197,7 +4235,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T22:17:09",
-"conferido": "2026-11-26T01:48:18",
+"conferido": "2026-11-26T15:27:27",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4216,7 +4254,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T21:56:36",
-"conferido": "2026-11-26T01:48:10",
+"conferido": "2026-11-26T15:27:24",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4235,7 +4273,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T21:46:46",
-"conferido": "2026-11-26T01:48:04",
+"conferido": "2026-11-26T15:27:21",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4254,7 +4292,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T21:36:39",
-"conferido": "2026-11-26T01:47:57",
+"conferido": "2026-11-26T15:27:17",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4273,7 +4311,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T21:06:53",
-"conferido": "2026-11-26T01:47:51",
+"conferido": "2026-11-26T15:27:14",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -9668,40 +9706,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-25T15:35:29",
-"status": "ativa"
-},
-{
-"item": "46861500842",
-"cod": "R63",
-"nome": "Kit de relógio de versão mais recente 2026 com carregador de carregamento sem fio Bluetooth chamada relógio masculino fe",
-"preco": 47.99,
-"de": 177.74,
-"desconto": 73,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/cn-11134207-820l4-moxr9uk4naby22",
-"link": "https://s.shopee.com.br/1W12bMHhcd",
-"nota": 4.9,
-"vendas": 354,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-25T15:13:32",
-"status": "ativa"
-},
-{
-"item": "58259322915",
-"cod": "R62",
-"nome": "Creatina Monohidratada 300g Sabor Melancia - Fury-x Nutrition",
-"preco": 25.9,
-"de": 89.31,
-"desconto": 71,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820mc-mmkft8znekuf12",
-"link": "https://s.shopee.com.br/2BGjOZBAWu",
-"nota": 4.9,
-"vendas": 480,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-25T15:13:17",
 "status": "ativa"
 }
 ]
