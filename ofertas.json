@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-26T09:22:59",
+"atualizado": "2026-11-26T09:40:20",
 "horas": 24,
 "anteriores": [
 {
@@ -245,7 +245,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T21:30:16",
-"conferido": "2026-11-25T21:34:10",
+"conferido": "2026-11-26T09:39:54",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -253,9 +253,9 @@
 "item": "22491618254",
 "cod": "R08",
 "nome": "Fone Bluetooth Sem Fio De Ouvido  P9 TWS Macaron Headphone Fone de Ouvido  Envio Imediato",
-"preco": 32.98,
-"de": 67.31,
-"desconto": 51,
+"preco": 22.99,
+"de": 58.95,
+"desconto": 61,
 "origem": "achado",
 "img": "https://cf.shopee.com.br/file/br-11134207-7r98o-lomqjeb9ouk2cc",
 "link": "https://s.shopee.com.br/4LLCnX67Vd",
@@ -264,7 +264,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T21:30:04",
-"conferido": "2026-11-25T21:34:26",
+"conferido": "2026-11-26T09:40:11",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -283,7 +283,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T21:16:29",
-"conferido": "2026-11-25T21:34:23",
+"conferido": "2026-11-26T09:40:08",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -292,8 +292,8 @@
 "cod": "R06",
 "nome": "Fone de Ouvido Bluetooth Sem Fio Digital Alta Qualidade Intra Auricular-B4",
 "preco": 45.5,
-"de": 84.26,
-"desconto": 46,
+"de": 98.91,
+"desconto": 54,
 "origem": "achado",
 "img": "https://cf.shopee.com.br/file/br-11134207-820lq-mvmulr6ts35s36",
 "link": "https://s.shopee.com.br/gRuPqltp5",
@@ -302,7 +302,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T21:16:20",
-"conferido": "2026-11-25T21:34:20",
+"conferido": "2026-11-26T09:40:05",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -321,7 +321,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T21:16:07",
-"conferido": "2026-11-25T21:34:16",
+"conferido": "2026-11-26T09:40:02",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -3366,25 +3366,6 @@
 "status": "encerrada"
 },
 {
-"item": "13527371956",
-"cod": "R40",
-"nome": "LIGE Relógio inteligente masculino à prova d'água com Bluetooth de freqüência cardíaca",
-"preco": 94.99,
-"de": 1357.0,
-"desconto": 93,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/cn-11134207-820l4-mnbbdry6953ca2",
-"link": "https://s.shopee.com.br/W8Rpqlf5F",
-"nota": 4.8,
-"vendas": 126,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-23T09:27:00",
-"conferido": "2026-11-26T02:02:41",
-"indisponivel": null,
-"status": "encerrada"
-},
-{
 "item": "53358565226",
 "cod": "R39",
 "nome": "Lovito Midi Dress Elegant Jacquard with Structured Lines Zipper Spring/Summer Light Yellow LK5AD232",
@@ -5630,9 +5611,9 @@
 "item": "58253904938",
 "cod": "R06",
 "nome": "Kit 2x Cresce X4 Total 60 Cápsulas - 2 Meses Nutrilibrium",
-"preco": 40.0,
-"de": 121.21,
-"desconto": 67,
+"preco": 89.9,
+"de": 119.87,
+"desconto": 25,
 "origem": "achado",
 "img": "https://cf.shopee.com.br/file/br-11134207-81ztc-mjtsx7vc6ww270",
 "link": "https://s.shopee.com.br/2VtTDjbsGH",
@@ -5641,7 +5622,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T12:21:37",
-"conferido": "2026-11-25T21:34:35",
+"conferido": "2026-11-26T09:40:20",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5660,7 +5641,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T12:18:37",
-"conferido": "2026-11-25T21:34:32",
+"conferido": "2026-11-26T09:40:17",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5679,7 +5660,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T12:17:07",
-"conferido": "2026-11-25T21:34:29",
+"conferido": "2026-11-26T09:40:14",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -7398,6 +7379,23 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "13527371956",
+"cod": "R60",
+"nome": "LIGE Relógio inteligente masculino à prova d'água com Bluetooth de freqüência cardíaca",
+"preco": 94.99,
+"de": 1357.0,
+"desconto": 93,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/cn-11134207-820l4-mnbbdry6953ca2",
+"link": "https://s.shopee.com.br/4LLFCOqdOl",
+"nota": 4.8,
+"vendas": 126,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T09:38:13",
+"status": "ativa"
+},
 {
 "item": "22498377530",
 "cod": "R59",
