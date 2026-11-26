@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-26T06:58:42",
+"atualizado": "2026-11-26T07:13:25",
 "horas": 24,
 "anteriores": [
 {
@@ -1024,7 +1024,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:31:59",
-"conferido": "2026-11-25T18:39:57",
+"conferido": "2026-11-26T07:13:19",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1043,7 +1043,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:31:53",
-"conferido": "2026-11-25T18:39:54",
+"conferido": "2026-11-26T07:13:16",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1062,7 +1062,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:31:47",
-"conferido": "2026-11-25T18:39:51",
+"conferido": "2026-11-26T07:13:13",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1081,7 +1081,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:31:31",
-"conferido": "2026-11-25T18:39:48",
+"conferido": "2026-11-26T07:13:10",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1100,7 +1100,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:31:19",
-"conferido": "2026-11-25T18:39:45",
+"conferido": "2026-11-26T07:13:07",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1119,7 +1119,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:31:10",
-"conferido": "2026-11-25T18:39:42",
+"conferido": "2026-11-26T07:13:04",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4164,25 +4164,6 @@
 "status": "encerrada"
 },
 {
-"item": "48865600019",
-"cod": "R91",
-"nome": "Caixa Caixinha De Som Bluetooth Pendrive Fm Sd Portátil 50w Preto Ipx4",
-"preco": 63.0,
-"de": 90.0,
-"desconto": 30,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-820lm-mrkjuicep53b42",
-"link": "https://s.shopee.com.br/114g1iC8Qk",
-"nota": 4.9,
-"vendas": 231,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-21T21:16:36",
-"conferido": "2026-11-26T00:40:03",
-"indisponivel": null,
-"status": "encerrada"
-},
-{
 "item": "58207657402",
 "cod": "R90",
 "nome": "Caixa Caixinha De Som Bluetooth Potente Pendrive Fm Sd Portátil Ipx6",
@@ -6249,7 +6230,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T10:07:42",
-"conferido": "2026-11-25T18:40:03",
+"conferido": "2026-11-26T07:13:25",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -6268,7 +6249,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T10:06:12",
-"conferido": "2026-11-25T18:40:00",
+"conferido": "2026-11-26T07:13:22",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -7455,6 +7436,40 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "20499576587",
+"cod": "R45",
+"nome": "Calcinha Cós Alto Pala Dupla Segura Barriga Cinta Modeladora Feminina",
+"preco": 16.9,
+"de": 29.65,
+"desconto": 43,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/sg-11134201-8259q-mqbj2y4iwzyle1",
+"link": "https://s.shopee.com.br/3B9HeIP8sV",
+"nota": 4.4,
+"vendas": 2497,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T07:13:03",
+"status": "ativa"
+},
+{
+"item": "48865600019",
+"cod": "R44",
+"nome": "Caixa Caixinha De Som Bluetooth Pendrive Fm Sd Portátil 50w Preto Ipx4",
+"preco": 63.0,
+"de": 90.0,
+"desconto": 30,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lm-mrkjuicep53b42",
+"link": "https://s.shopee.com.br/4LLF2PUEuS",
+"nota": 4.9,
+"vendas": 231,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T07:12:38",
+"status": "ativa"
+},
 {
 "item": "23794073574",
 "cod": "R42",
