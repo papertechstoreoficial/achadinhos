@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-26T06:43:17",
+"atualizado": "2026-11-26T06:58:42",
 "horas": 24,
 "anteriores": [
 {
@@ -1138,7 +1138,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:12:56",
-"conferido": "2026-11-25T18:24:32",
+"conferido": "2026-11-26T06:57:45",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1157,7 +1157,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:12:47",
-"conferido": "2026-11-25T18:24:29",
+"conferido": "2026-11-26T06:57:37",
 "indisponivel": true,
 "status": "encerrada"
 },
@@ -6287,7 +6287,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T09:57:18",
-"conferido": "2026-11-25T18:24:51",
+"conferido": "2026-11-26T06:58:36",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -6295,9 +6295,9 @@
 "item": "22193566084",
 "cod": "R66",
 "nome": "Calcinha de Emagrecimento / Cinta Modeladora / Roupa Íntima / Afina a Barriga Leggings Calça Feminina 2024",
-"preco": 27.99,
+"preco": 29.99,
 "de": 49.98,
-"desconto": 44,
+"desconto": 40,
 "origem": "achado",
 "img": "https://cf.shopee.com.br/file/br-11134201-820lg-mqxo1w6fkcna02",
 "link": "https://s.shopee.com.br/70LsQ2bXaG",
@@ -6306,7 +6306,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T09:56:12",
-"conferido": "2026-11-25T18:24:48",
+"conferido": "2026-11-26T06:58:27",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -6325,7 +6325,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T09:47:40",
-"conferido": "2026-11-25T18:24:45",
+"conferido": "2026-11-26T06:58:19",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -6333,9 +6333,9 @@
 "item": "52858085838",
 "cod": "R63",
 "nome": "Garrafa Térmica Cabo Madeira Para Café 1l",
-"preco": 43.99,
-"de": 79.98,
-"desconto": 45,
+"preco": 38.99,
+"de": 79.57,
+"desconto": 51,
 "origem": "achado",
 "img": "https://cf.shopee.com.br/file/br-11134207-820ma-mvd7eu0ozvuo27",
 "link": "https://s.shopee.com.br/80EParxBQj",
@@ -6344,7 +6344,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T09:41:51",
-"conferido": "2026-11-25T18:24:41",
+"conferido": "2026-11-26T06:58:11",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -6363,7 +6363,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T09:40:22",
-"conferido": "2026-11-25T18:24:38",
+"conferido": "2026-11-26T06:58:02",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -6382,7 +6382,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T09:37:13",
-"conferido": "2026-11-25T18:24:35",
+"conferido": "2026-11-26T06:57:55",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -7281,6 +7281,23 @@
 }
 ],
 "relampago": [
+{
+"item": "58267897313",
+"cod": "R43",
+"nome": "Lustre Ventilador De Teto 300w 106cm Turbo 127/220V Bivolt Silencioso Retrátil LED Controle Remoto",
+"preco": 310.65,
+"de": 694.9,
+"desconto": 55,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lp-mvlxtebms3r40f",
+"link": "https://s.shopee.com.br/qlMqwgfpp",
+"nota": 4.8,
+"vendas": 196,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T06:57:36",
+"status": "ativa"
+},
 {
 "item": "58269323352",
 "cod": "R40",
