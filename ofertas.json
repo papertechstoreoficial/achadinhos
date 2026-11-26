@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-26T07:13:25",
+"atualizado": "2026-11-26T07:29:51",
 "horas": 24,
 "anteriores": [
 {
@@ -910,7 +910,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:46:53",
-"conferido": "2026-11-25T19:00:12",
+"conferido": "2026-11-26T07:29:30",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -929,7 +929,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:46:47",
-"conferido": "2026-11-25T19:00:08",
+"conferido": "2026-11-26T07:29:21",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -948,7 +948,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:46:41",
-"conferido": "2026-11-25T19:00:05",
+"conferido": "2026-11-26T07:29:12",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -967,7 +967,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:46:31",
-"conferido": "2026-11-25T18:59:59",
+"conferido": "2026-11-26T07:29:02",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -986,7 +986,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:46:19",
-"conferido": "2026-11-25T18:59:50",
+"conferido": "2026-11-26T07:28:54",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -1005,7 +1005,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T18:46:10",
-"conferido": "2026-11-25T18:59:40",
+"conferido": "2026-11-26T07:28:45",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -6192,7 +6192,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T10:18:05",
-"conferido": "2026-11-25T19:00:18",
+"conferido": "2026-11-26T07:29:47",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -6211,7 +6211,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T10:16:35",
-"conferido": "2026-11-25T19:00:15",
+"conferido": "2026-11-26T07:29:38",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -7436,6 +7436,40 @@
 "cupom": [],
 "frete": [],
 "achado": [
+{
+"item": "58216843008",
+"cod": "R47",
+"nome": "Cabo USB-C para USB-C APPLE ORIGINAL 60W 1 Metro Branco para iPhone 15 16 17 e 18",
+"preco": 57.0,
+"de": 85.07,
+"desconto": 33,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lt-msaaetwacirr8f",
+"link": "https://s.shopee.com.br/1BODHhE4uw",
+"nota": 4.9,
+"vendas": 134,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T07:28:44",
+"status": "ativa"
+},
+{
+"item": "57114002833",
+"cod": "R46",
+"nome": "Vestido Mídi Manga Transpassado com Fivela Premium Tendência",
+"preco": 39.2,
+"de": 70.0,
+"desconto": 44,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-820lg-mqnqid7car5v60",
+"link": "https://s.shopee.com.br/6fj9plP9M7",
+"nota": 4.3,
+"vendas": 1049,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-26T07:28:11",
+"status": "ativa"
+},
 {
 "item": "20499576587",
 "cod": "R45",
