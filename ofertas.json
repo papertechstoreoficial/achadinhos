@@ -1,7 +1,26 @@
 {
-"atualizado": "2026-11-26T10:34:25",
+"atualizado": "2026-11-26T10:51:38",
 "horas": 24,
 "anteriores": [
+{
+"item": "20899761631",
+"cod": "R35",
+"nome": "Inova Bateria Portátil Power Bank 20.000mah/10.000mah Universal carregador 22,5W Com Displaya Visor do nível da bateria",
+"preco": 119.9,
+"de": 222.04,
+"desconto": 46,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-manzmd5jc0l56b",
+"link": "https://s.shopee.com.br/5VXB4UjqKb",
+"nota": 4.9,
+"vendas": 3095,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-25T10:48:18",
+"conferido": "2026-11-26T10:51:06",
+"indisponivel": null,
+"status": "encerrada"
+},
 {
 "item": "23799421883",
 "cod": "R34",
@@ -13,11 +32,11 @@
 "img": "https://cf.shopee.com.br/file/br-11134207-820lp-mmjslovesxs610",
 "link": "https://s.shopee.com.br/9AQTQFYOBd",
 "nota": 4.8,
-"vendas": 4036,
+"vendas": 4106,
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-25T10:34:19",
-"conferido": null,
+"conferido": "2026-11-26T10:51:16",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -373,12 +392,12 @@
 "origem": "achado",
 "img": "https://cf.shopee.com.br/file/br-11134207-820m6-momvsbs21lab89",
 "link": "https://s.shopee.com.br/1BOB5WEpFR",
-"nota": 4.8,
+"nota": 4.7,
 "vendas": 443,
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T22:25:29",
-"conferido": "2026-11-25T22:28:12",
+"conferido": "2026-11-26T10:51:38",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -397,7 +416,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T22:25:17",
-"conferido": "2026-11-25T22:28:01",
+"conferido": "2026-11-26T10:51:35",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5489,7 +5508,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T14:26:34",
-"conferido": "2026-11-25T22:10:23",
+"conferido": "2026-11-26T10:51:32",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5508,7 +5527,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T14:13:13",
-"conferido": "2026-11-25T22:10:12",
+"conferido": "2026-11-26T10:51:29",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5527,7 +5546,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T14:08:08",
-"conferido": "2026-11-25T22:10:03",
+"conferido": "2026-11-26T10:51:25",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5535,9 +5554,9 @@
 "item": "22094238842",
 "cod": "R23",
 "nome": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
-"preco": 24.9,
-"de": 40.16,
-"desconto": 38,
+"preco": 19.9,
+"de": 39.8,
+"desconto": 50,
 "origem": "achado",
 "img": "https://cf.shopee.com.br/file/br-11134207-820m1-mukoqlfdn280c5",
 "link": "https://s.shopee.com.br/W8OxGNj23",
@@ -5546,7 +5565,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-21T14:06:36",
-"conferido": "2026-11-25T22:09:53",
+"conferido": "2026-11-26T10:51:22",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -9613,23 +9632,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-25T10:58:39",
-"status": "ativa"
-},
-{
-"item": "20899761631",
-"cod": "R35",
-"nome": "Inova Bateria Portátil Power Bank 20.000mah/10.000mah Universal carregador 22,5W Com Displaya Visor do nível da bateria",
-"preco": 119.9,
-"de": 222.04,
-"desconto": 46,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-manzmd5jc0l56b",
-"link": "https://s.shopee.com.br/5VXB4UjqKb",
-"nota": 4.9,
-"vendas": 3030,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-25T10:48:18",
 "status": "ativa"
 }
 ]
