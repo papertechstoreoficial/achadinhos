@@ -1,7 +1,45 @@
 {
-"atualizado": "2026-11-26T14:42:29",
+"atualizado": "2026-11-26T14:58:12",
 "horas": 24,
 "anteriores": [
+{
+"item": "22998137276",
+"cod": "R61",
+"nome": "Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54",
+"preco": 49.8,
+"de": 99.6,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-maiosq4lapvze8",
+"link": "https://s.shopee.com.br/4LLDxBkXKi",
+"nota": 4.8,
+"vendas": 2469,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-25T14:53:30",
+"conferido": "2026-11-26T14:57:36",
+"indisponivel": null,
+"status": "encerrada"
+},
+{
+"item": "22393103808",
+"cod": "R60",
+"nome": "Calça Feminina Jeans 44 ao 54 plus size Direto Da Fabrica Skinny Cintura Alta com Elastano Premiun",
+"preco": 49.9,
+"de": 99.8,
+"desconto": 50,
+"origem": "achado",
+"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhfd0qn5q03p7d",
+"link": "https://s.shopee.com.br/4B1nkruEnh",
+"nota": 4.8,
+"vendas": 2748,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-25T14:53:17",
+"conferido": "2026-11-26T14:57:25",
+"indisponivel": null,
+"status": "encerrada"
+},
 {
 "item": "23398895494",
 "cod": "R59",
@@ -4368,7 +4406,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T20:18:24",
-"conferido": "2026-11-26T01:32:04",
+"conferido": "2026-11-26T14:58:12",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4387,7 +4425,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T20:16:35",
-"conferido": "2026-11-26T01:19:32",
+"conferido": "2026-11-26T14:58:09",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4406,7 +4444,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T18:10:57",
-"conferido": "2026-11-26T01:19:25",
+"conferido": "2026-11-26T14:58:06",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4425,7 +4463,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T18:09:10",
-"conferido": "2026-11-26T01:19:18",
+"conferido": "2026-11-26T14:58:02",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4444,7 +4482,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T18:06:59",
-"conferido": "2026-11-26T01:19:11",
+"conferido": "2026-11-26T14:57:56",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4463,7 +4501,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T17:57:45",
-"conferido": "2026-11-26T01:19:02",
+"conferido": "2026-11-26T14:57:47",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -9664,40 +9702,6 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-25T15:13:17",
-"status": "ativa"
-},
-{
-"item": "22998137276",
-"cod": "R61",
-"nome": "Calça Jeans Plus Size Com Elastano Super Conforto 44 ao 54",
-"preco": 49.9,
-"de": 99.8,
-"desconto": 50,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-7r98o-maiosq4lapvze8",
-"link": "https://s.shopee.com.br/4LLDxBkXKi",
-"nota": 4.8,
-"vendas": 2469,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-25T14:53:30",
-"status": "ativa"
-},
-{
-"item": "22393103808",
-"cod": "R60",
-"nome": "Calça Feminina Jeans 44 ao 54 plus size Direto Da Fabrica Skinny Cintura Alta com Elastano Premiun",
-"preco": 49.9,
-"de": 99.8,
-"desconto": 50,
-"origem": "achado",
-"img": "https://cf.shopee.com.br/file/br-11134207-81z1k-mhfd0qn5q03p7d",
-"link": "https://s.shopee.com.br/4B1nkruEnh",
-"nota": 4.8,
-"vendas": 2699,
-"frete_gratis": false,
-"cupom": false,
-"quando": "2026-11-25T14:53:17",
 "status": "ativa"
 }
 ]
