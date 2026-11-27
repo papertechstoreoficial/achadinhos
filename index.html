@@ -517,7 +517,7 @@ footer{background:var(--kraft);border-top:1px solid var(--goldline)}
   <div class="foot">
     <a class="brand" href="#inicio"><img src="img/logo.png" alt=""><span><b>PaperTech</b><small>Curadoria de achadinhos</small></span></a>
     <p class="disc">A PaperTech garimpa, você economiza. Pelo nosso link, você paga o mesmo preço e apoia a curadoria.</p>
-    <p>Os links levam para a Shopee, onde a compra, o pagamento e a entrega acontecem. Somos afiliados: recebemos uma comissão pelas vendas feitas pelos links. Preços e estoque podem mudar; confira sempre no anúncio. Atualizado em 26/11/2026.</p>
+    <p>Os links levam para a Shopee, onde a compra, o pagamento e a entrega acontecem. Somos afiliados: recebemos uma comissão pelas vendas feitas pelos links. Preços e estoque podem mudar; confira sempre no anúncio. Atualizado em 27/11/2026.</p>
     <p>Siga no Instagram: <a href="https://www.instagram.com/papertech_store/">@papertech_store</a></p>
   </div>
 </footer>
@@ -665,6 +665,8 @@ let qT=null;const qEl=document.getElementById('q');
 function aplicarBusca(rolar){q=norm(qEl.value.trim());mostrar=0;render();
   if(rolar&&q){const t=document.getElementById('title');const y=t.getBoundingClientRect().top+scrollY-(document.querySelector('.top')?.offsetHeight||0)-12;if(Math.abs(scrollY-y)>40)scrollTo({top:Math.max(0,y),behavior:'smooth'})}
   if(!q)scrollTo({top:0})}
+// link do HUB já filtrado: ?busca=smart tv 50 (vem da Busca inteligente do Command Post)
+try{const b=new URLSearchParams(location.search).get('busca');if(b){qEl.value=b;setTimeout(()=>aplicarBusca(true),900)}}catch(e){}
 qEl.addEventListener('input',()=>{clearTimeout(qT);qT=setTimeout(()=>aplicarBusca(true),180)});
 qEl.addEventListener('keydown',e=>{if(e.key==='Enter'){clearTimeout(qT);aplicarBusca(true);qEl.blur()}if(e.key==='Escape'){qEl.value='';aplicarBusca()}});
 document.addEventListener('click',e=>{const s=e.target.closest('[data-s]');if(s&&(s.closest('#bsc')||s.closest('#sug'))){qEl.value=s.dataset.s;aplicarBusca(true);return}
