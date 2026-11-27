@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-27T10:12:20",
+"atualizado": "2026-11-27T10:29:29",
 "horas": 24,
 "anteriores": [
 {
@@ -4900,7 +4900,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T01:43:52",
-"conferido": "2026-11-26T18:10:48",
+"conferido": "2026-11-27T10:29:29",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4919,7 +4919,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T01:42:55",
-"conferido": "2026-11-26T18:10:45",
+"conferido": "2026-11-27T10:29:26",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4927,9 +4927,9 @@
 "item": "22492474605",
 "cod": "R97",
 "nome": "10m Cascata 400 Led 8 Funções Decoração Natal 110v 220v Conexão Macho Branco Frio Quente Pisca Pisca Enfeites de Natal",
-"preco": 123.99,
-"de": 309.97,
-"desconto": 60,
+"preco": 51.29,
+"de": 150.85,
+"desconto": 66,
 "origem": "achado",
 "img": "https://cf.shopee.com.br/file/br-11134207-820mg-mtgwtlf6mjurf5",
 "link": "https://s.shopee.com.br/7VID7Roc3l",
@@ -4938,7 +4938,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T23:41:28",
-"conferido": "2026-11-26T18:10:42",
+"conferido": "2026-11-27T10:29:23",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4957,7 +4957,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T23:40:47",
-"conferido": "2026-11-26T18:10:38",
+"conferido": "2026-11-27T10:29:20",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4965,9 +4965,9 @@
 "item": "23092879057",
 "cod": "R95",
 "nome": "Triturador Inox  Processador De Alimentos Carne e Legumes Multiprocessador Elétrico",
-"preco": 69.99,
-"de": 199.97,
-"desconto": 65,
+"preco": 62.99,
+"de": 196.84,
+"desconto": 68,
 "origem": "achado",
 "img": "https://cf.shopee.com.br/file/br-11134207-7r98o-m6764e92l8wgc4",
 "link": "https://s.shopee.com.br/9V3HTkgCo5",
@@ -4976,7 +4976,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T23:21:30",
-"conferido": "2026-11-26T18:10:32",
+"conferido": "2026-11-27T10:29:17",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4995,7 +4995,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T23:20:49",
-"conferido": "2026-11-26T18:10:22",
+"conferido": "2026-11-27T10:29:13",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5014,7 +5014,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T23:01:28",
-"conferido": "2026-11-26T17:55:29",
+"conferido": "2026-11-27T10:29:10",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5033,7 +5033,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-23T22:43:56",
-"conferido": "2026-11-26T17:55:22",
+"conferido": "2026-11-27T10:29:04",
 "indisponivel": null,
 "status": "encerrada"
 },
