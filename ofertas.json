@@ -1,5 +1,5 @@
 {
-"atualizado": "2026-11-27T06:51:01",
+"atualizado": "2026-11-27T06:51:34",
 "horas": 24,
 "anteriores": [
 {
@@ -17,7 +17,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-26T06:42:08",
-"conferido": "2026-11-27T06:50:25",
+"conferido": "2026-11-27T06:51:03",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -36,7 +36,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-26T06:41:37",
-"conferido": "2026-11-27T06:50:15",
+"conferido": "2026-11-27T06:50:54",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -55,7 +55,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-26T06:41:05",
-"conferido": "2026-11-27T06:50:04",
+"conferido": "2026-11-27T06:50:47",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -4216,7 +4216,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-24T11:02:21",
-"conferido": "2026-11-27T06:50:35",
+"conferido": "2026-11-27T06:51:13",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5793,7 +5793,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T15:06:54",
-"conferido": "2026-11-27T06:51:01",
+"conferido": "2026-11-27T06:51:34",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5812,7 +5812,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T14:58:52",
-"conferido": "2026-11-27T06:50:58",
+"conferido": "2026-11-27T06:51:31",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5831,7 +5831,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T14:56:51",
-"conferido": "2026-11-27T06:50:52",
+"conferido": "2026-11-27T06:51:28",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -5850,7 +5850,7 @@
 "frete_gratis": false,
 "cupom": false,
 "quando": "2026-11-22T12:56:34",
-"conferido": "2026-11-27T06:50:43",
+"conferido": "2026-11-27T06:51:22",
 "indisponivel": null,
 "status": "encerrada"
 },
@@ -8991,6 +8991,23 @@
 }
 ],
 "relampago": [
+{
+"item": "58260506423",
+"cod": "R05",
+"nome": "GOKOCO Escova Alisadora placas Alisa mais rápido 4 configurações de calor Cuidado capilar iônico Alisa e cacheia bivolt",
+"preco": 169.1,
+"de": 500.0,
+"desconto": 66,
+"origem": "relampago",
+"img": "https://cf.shopee.com.br/file/br-11134207-820la-mqzz44y0gu1284",
+"link": "https://s.shopee.com.br/6L6KzTL6RD",
+"nota": 4.9,
+"vendas": 287,
+"frete_gratis": false,
+"cupom": false,
+"quando": "2026-11-27T06:50:46",
+"status": "ativa"
+},
 {
 "item": "18296981146",
 "cod": "R03",
